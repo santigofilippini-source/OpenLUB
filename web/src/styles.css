@@ -233,3 +233,28 @@ a.logo { text-decoration: none; }
 .h2h-loss { background: #fdeeee; }
 .h2h-loss .h2h-rec { color: #b91c1c; }
 .h2h-even .h2h-rec { color: #64748b; }
+
+/* --- gameflow / análisis de partido --- */
+.gf-picker { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.gf-game {
+  display: flex; flex-direction: column; gap: 2px; text-align: left; cursor: pointer;
+  background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--line);
+  border-radius: 8px; padding: 8px 10px; font-family: inherit; color: var(--ink);
+}
+.gf-game:hover { box-shadow: 0 2px 8px rgba(37,99,235,.12); }
+.gf-game.on { border-color: var(--uru); border-left-color: var(--uru); background: #eef4ff; }
+.gf-game.win { border-left-color: #16a34a; }
+.gf-game.loss { border-left-color: var(--rival); }
+.gf-game.on.win, .gf-game.on.loss { border-color: var(--uru); }
+.gf-vs { font-weight: 700; font-size: 13px; }
+.gf-res { font-size: 12px; color: var(--muted); }
+.gf-scoreline {
+  display: flex; align-items: center; justify-content: center; gap: 14px;
+  font-size: 17px; margin-bottom: 6px;
+}
+.gf-scoreline .gf-sep { color: var(--muted); font-size: 13px; }
+.gf-readout {
+  display: flex; flex-wrap: wrap; gap: 18px; margin-top: 10px;
+  font-size: 13px; color: var(--ink);
+}
+.gf-readout .muted { color: var(--muted); margin-left: auto; }

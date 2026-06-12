@@ -8,6 +8,7 @@ import TeamStats from './TeamStats.jsx'
 import PlayerStats from './PlayerStats.jsx'
 import ZoneLeaders from './ZoneLeaders.jsx'
 import HeadToHead from './HeadToHead.jsx'
+import GameFlow from './GameFlow.jsx'
 
 const DataContext = createContext(null)
 export const useData = () => useContext(DataContext)
@@ -22,8 +23,9 @@ export default function App() {
       fetch('/data/players.json').then((r) => r.json()),
       fetch('/data/teams.json').then((r) => r.json()),
       fetch('/data/results.json').then((r) => r.json()),
+      fetch('/data/gameflow.json').then((r) => r.json()),
     ])
-      .then(([players, teams, results]) => setData({ players, teams, results }))
+      .then(([players, teams, results, gameflow]) => setData({ players, teams, results, gameflow }))
       .catch((e) => setError(String(e)))
   }, [])
 
@@ -41,6 +43,7 @@ export default function App() {
             <Route path="/stats/players" element={<PlayerStats />} />
             <Route path="/stats/zones" element={<ZoneLeaders />} />
             <Route path="/stats/h2h" element={<HeadToHead />} />
+            <Route path="/gameflow" element={<GameFlow />} />
             <Route path="/player/:id" element={<PlayerRoute />} />
             <Route path="/team/:code" element={<TeamRoute />} />
           </Route>
@@ -64,6 +67,7 @@ function Layout() {
             <Link to="/stats/players">Jugadores</Link>
             <Link to="/stats/zones">Zonas</Link>
             <Link to="/stats/h2h">Cara a Cara</Link>
+            <Link to="/gameflow">Partidos</Link>
           </nav>
         </div>
         <Outlet />
