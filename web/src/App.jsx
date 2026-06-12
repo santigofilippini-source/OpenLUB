@@ -4,6 +4,10 @@ import Home from './Home.jsx'
 import PlayerProfile from './PlayerProfile.jsx'
 import TeamProfile from './TeamProfile.jsx'
 import TeamsIndex from './TeamsIndex.jsx'
+import TeamStats from './TeamStats.jsx'
+import PlayerStats from './PlayerStats.jsx'
+import ZoneLeaders from './ZoneLeaders.jsx'
+import HeadToHead from './HeadToHead.jsx'
 
 const DataContext = createContext(null)
 export const useData = () => useContext(DataContext)
@@ -17,8 +21,9 @@ export default function App() {
     Promise.all([
       fetch('/data/players.json').then((r) => r.json()),
       fetch('/data/teams.json').then((r) => r.json()),
+      fetch('/data/results.json').then((r) => r.json()),
     ])
-      .then(([players, teams]) => setData({ players, teams }))
+      .then(([players, teams, results]) => setData({ players, teams, results }))
       .catch((e) => setError(String(e)))
   }, [])
 
@@ -32,6 +37,10 @@ export default function App() {
           <Route element={<Layout />}>
             <Route path="/" element={<Home />} />
             <Route path="/teams" element={<TeamsIndex />} />
+            <Route path="/stats/teams" element={<TeamStats />} />
+            <Route path="/stats/players" element={<PlayerStats />} />
+            <Route path="/stats/zones" element={<ZoneLeaders />} />
+            <Route path="/stats/h2h" element={<HeadToHead />} />
             <Route path="/player/:id" element={<PlayerRoute />} />
             <Route path="/team/:code" element={<TeamRoute />} />
           </Route>
@@ -51,6 +60,10 @@ function Layout() {
           <nav className="topnav">
             <Link to="/">Inicio</Link>
             <Link to="/teams">Equipos</Link>
+            <Link to="/stats/teams">Four Factors</Link>
+            <Link to="/stats/players">Jugadores</Link>
+            <Link to="/stats/zones">Zonas</Link>
+            <Link to="/stats/h2h">Cara a Cara</Link>
           </nav>
         </div>
         <Outlet />

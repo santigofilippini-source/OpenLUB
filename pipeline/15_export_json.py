@@ -166,6 +166,27 @@ def num(v):
         return v
 
 
+def export_results(teams_r):
+    """Lee el index del Clasificatorio y devuelve los partidos COMPLETOS (menos exclusiones) con
+    los equipos por CODE y el marcador. La fase es la base (temporada regular) — no se mezclan otras."""
+    name2code = {r["name"]: code for code, r in teams_r.items()}
+    excl = zones.load_exclusions()
+    out = []
+    for r in read_sched("clasificatorio_lub_25_26_index.csv"):
+        if r["status"] != "COMPLETE" or r["matchId"] in excl:
+            continue
+        c1, c2 = name2code.get(r["team1"]), name2code.get(r["team2"])
+        if not c1 or not c2:
+            continue  # equipo fuera de los 12 del pool (no debería pasar en el Clasificatorio)
+        out.append({"matchId": r["matchId"], "t1": c1, "t2": c2,
+                    "s1": int(r["score1"]), "s2": int(r["score2"])})
+    return out
+
+
+def read_sched(name):
+    return list(csv.DictReader((SCH_DIR / name).open(encoding="utf-8")))
+
+
 def main():
     # GATE: el golden test de Moller debe pasar antes de exportar coords de tiro.
     if not chart12.golden_test():
@@ -260,10 +281,15 @@ def main():
     (WEB_DATA / "players.json").write_text(json.dumps(players, ensure_ascii=False, indent=1), encoding="utf-8")
     (WEB_DATA / "teams.json").write_text(json.dumps(teams, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    # --- resultados partido a partido (para Cara a Cara / head-to-head) ---
+    results = export_results(teams_r)
+    (WEB_DATA / "results.json").write_text(json.dumps(results, ensure_ascii=False, indent=1), encoding="utf-8")
+
     npool = sum(1 for p in players.values() if p["inPool"])
     nshots = sum(1 for p in players.values() if p["shots"])
     print(f"players.json: {len(players)} jugadores ({npool} con percentiles, {nshots} con tiros)")
     print(f"teams.json: {len(teams)} equipos")
+    print(f"results.json: {len(results)} partidos completos")
     print(f"Salida en {WEB_DATA}")
 
 

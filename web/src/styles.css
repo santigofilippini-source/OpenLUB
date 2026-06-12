@@ -170,3 +170,66 @@ a.logo { text-decoration: none; }
 .tcard-net { font-size: 28px; font-weight: 800; margin: 8px 0 2px; }
 .tcard-netlbl { font-size: 12px; color: var(--muted); font-weight: 600; }
 .tcard-sub { color: var(--muted); font-size: 13px; }
+
+/* --- tabla liga-wide ordenable --- */
+.ltable { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 760px; }
+.ltable th, .ltable td { padding: 7px 9px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.ltable th { color: var(--muted); font-weight: 600; font-size: 12px; user-select: none; }
+.ltable th:hover { color: var(--ink); }
+.ltable th.sorted { color: var(--ink); }
+.ltable .lcol { text-align: left; }
+.ltable thead tr.grp th { text-align: center; font-size: 11px; text-transform: uppercase; letter-spacing: .4px; border-bottom: none; padding-bottom: 2px; }
+.ltable .g-rtg { background: #f5f8ff; }
+.ltable .g-atk { background: #f3fbf5; }
+.ltable .g-def { background: #fdf4f4; }
+.ltable thead tr.grp .g-rtg { color: var(--uru); }
+.ltable thead tr.grp .g-atk { color: #15803d; }
+.ltable thead tr.grp .g-def { color: var(--rival); }
+.ltable tbody tr:hover { background: #f0f4ff; }
+.ltable tbody tr.row-uru { background: #eef4ff; }
+.ltable tbody tr.row-uru:hover { background: #e2ecff; }
+.ltable tbody tr.row-uru .lcol .tlink { color: var(--uru); font-weight: 700; }
+.ltable .tlink { text-decoration: none; color: var(--ink); font-weight: 600; }
+.ltable .tlink:hover { color: var(--uru); }
+
+/* --- scatter --- */
+.quad { font-size: 12px; fill: #b0b8c9; font-weight: 700; }
+.axlbl { font-size: 12px; fill: var(--muted); }
+.ptlbl { font-size: 12px; fill: #475569; font-weight: 600; }
+.ptlbl.uru { fill: var(--uru); font-weight: 800; }
+
+/* --- jugadores: percentiles / pool --- */
+.pteam { color: var(--muted); font-size: 11px; margin-left: 6px; font-weight: 600; }
+.ltable td.pcell { font-weight: 700; color: #1f2430; }
+.poolfilter { display: inline-flex; align-items: center; gap: 7px; font-size: 14px; color: var(--ink); margin-bottom: 12px; cursor: pointer; }
+.poolfilter input { width: 16px; height: 16px; accent-color: var(--uru); }
+
+/* --- líderes por zona --- */
+.zlctrl { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+.zlctrl > span:first-child { font-size: 14px; color: var(--muted); }
+.chip { background: #fff; border: 1px solid var(--line); border-radius: 16px; padding: 5px 12px; font-size: 13px; font-family: inherit; cursor: pointer; color: var(--ink); }
+.chip:hover { border-color: var(--uru); }
+.chip-on { background: var(--uru); color: #fff; border-color: var(--uru); font-weight: 700; }
+.zlgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 820px) { .zlgrid { grid-template-columns: 1fr; } }
+.zlcard h2 { text-transform: capitalize; }
+.zlrank { color: var(--muted); font-size: 12px; margin-right: 6px; }
+.zones tr.row-uru { background: #eef4ff; }
+
+/* --- cara a cara / head-to-head --- */
+.h2h { width: 100%; border-collapse: collapse; font-size: 12px; min-width: 820px; }
+.h2h th, .h2h td { padding: 6px 7px; text-align: center; border-bottom: 1px solid var(--line); border-right: 1px solid #f0f2f7; white-space: nowrap; }
+.h2h th { color: var(--muted); font-weight: 700; font-size: 12px; }
+.h2h .lcol { text-align: left; min-width: 170px; }
+.h2h tbody tr:hover { background: #f0f4ff; }
+.h2h tr.row-uru { background: #eef4ff; }
+.h2h th.col-uru, .h2h td.col-uru { background: rgba(37,99,235,.07); }
+.h2h .diag { background: #f4f6fb; color: #c7cede; }
+.h2h .tot { font-weight: 700; background: #f9fafd; }
+.h2h-rec { display: block; font-weight: 700; }
+.h2h-diff { display: block; font-size: 10px; color: var(--muted); }
+.h2h-win { background: #eafaf0; }
+.h2h-win .h2h-rec { color: #15803d; }
+.h2h-loss { background: #fdeeee; }
+.h2h-loss .h2h-rec { color: #b91c1c; }
+.h2h-even .h2h-rec { color: #64748b; }
