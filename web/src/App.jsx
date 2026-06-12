@@ -9,6 +9,9 @@ import PlayerStats from './PlayerStats.jsx'
 import ZoneLeaders from './ZoneLeaders.jsx'
 import HeadToHead from './HeadToHead.jsx'
 import GameFlow from './GameFlow.jsx'
+import QuarterSplits from './QuarterSplits.jsx'
+import ClutchView from './ClutchView.jsx'
+import SimilarityView from './SimilarityView.jsx'
 
 const DataContext = createContext(null)
 export const useData = () => useContext(DataContext)
@@ -24,8 +27,12 @@ export default function App() {
       fetch('/data/teams.json').then((r) => r.json()),
       fetch('/data/results.json').then((r) => r.json()),
       fetch('/data/gameflow.json').then((r) => r.json()),
+      fetch('/data/quarter_splits.json').then((r) => r.json()),
+      fetch('/data/clutch.json').then((r) => r.json()),
+      fetch('/data/similarity.json').then((r) => r.json()),
     ])
-      .then(([players, teams, results, gameflow]) => setData({ players, teams, results, gameflow }))
+      .then(([players, teams, results, gameflow, quarters, clutch, similarity]) =>
+        setData({ players, teams, results, gameflow, quarters, clutch, similarity }))
       .catch((e) => setError(String(e)))
   }, [])
 
@@ -44,6 +51,9 @@ export default function App() {
             <Route path="/stats/zones" element={<ZoneLeaders />} />
             <Route path="/stats/h2h" element={<HeadToHead />} />
             <Route path="/gameflow" element={<GameFlow />} />
+            <Route path="/stats/quarters" element={<QuarterSplits />} />
+            <Route path="/stats/clutch" element={<ClutchView />} />
+            <Route path="/stats/similar" element={<SimilarityView />} />
             <Route path="/player/:id" element={<PlayerRoute />} />
             <Route path="/team/:code" element={<TeamRoute />} />
           </Route>
@@ -66,6 +76,9 @@ function Layout() {
             <Link to="/stats/teams">Four Factors</Link>
             <Link to="/stats/players">Jugadores</Link>
             <Link to="/stats/zones">Zonas</Link>
+            <Link to="/stats/quarters">Cuartos</Link>
+            <Link to="/stats/clutch">Clutch</Link>
+            <Link to="/stats/similar">Parecidos</Link>
             <Link to="/stats/h2h">Cara a Cara</Link>
             <Link to="/gameflow">Partidos</Link>
           </nav>
