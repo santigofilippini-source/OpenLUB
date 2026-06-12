@@ -1,0 +1,26 @@
+# === Node / Vite (web) ===
+node_modules/
+web/dist/
+dist/
+.vercel/
+*.log
+
+# === Python (pipeline) ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === Datos crudos cacheados (regenerables con pipeline/02_download.py; pesados, no los necesita la web) ===
+data/raw/
+
+# === Config local de Claude Code (paths locales + log de comandos; NO va al repo público) ===
+.claude/
+
+# === OS / editor ===
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# Nota: SÍ se versiona web/public/data/*.json (los JSON que sirve la web) y data/agg/ (resultados + dossiers).

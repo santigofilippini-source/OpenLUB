@@ -1,0 +1,5481 @@
+{
+ "CAP": {
+  "code": "CAP",
+  "name": "PEÑAROL",
+  "ratings": {
+   "GP": 21,
+   "ORtg": 116.3,
+   "DRtg": 95.6,
+   "NetRtg": 20.8,
+   "Pace": 77.3,
+   "eFG%": 57.1,
+   "TOV%": 15.8,
+   "ORB%": 35.4,
+   "FTR": 20.8,
+   "D_eFG%": 47,
+   "D_TOV%": 15.7,
+   "DRB%": 76.4,
+   "D_FTR": 19.1
+  },
+  "reading": {
+   "explotar": "Sin agujero defensivo claro (defienden todo ≤ media): buscar volumen de aro y segundas oportunidades.",
+   "quitar": "3 frente: su tiro más eficiente (64 eFG vs liga 48). Cerrar ese sector.",
+   "presionar": "S. Vescovi, N. Pomoli: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "617418",
+    "name": "S. Vescovi",
+    "pos": "PG",
+    "PTS": 331,
+    "USG": 24.3,
+    "USGpct": 80.6,
+    "AST": 28.2,
+    "ASTpct": 93.2,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "1642412",
+    "name": "S. Hogan",
+    "pos": "F",
+    "PTS": 307,
+    "USG": 20.3,
+    "USGpct": 53.2,
+    "AST": 14.2,
+    "ASTpct": 59.9,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "811063",
+    "name": "N. Pomoli",
+    "pos": "PG",
+    "PTS": 306,
+    "USG": 28.7,
+    "USGpct": 97.7,
+    "AST": 29.9,
+    "ASTpct": 95,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "1975797",
+    "name": "A. Ibarguen",
+    "pos": "PF",
+    "PTS": 247,
+    "USG": 19.6,
+    "USGpct": 44.6,
+    "AST": 5.2,
+    "ASTpct": 5,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "17691",
+    "name": "E. Serres",
+    "pos": "F",
+    "PTS": 165,
+    "USG": 20.5,
+    "USGpct": 56.8,
+    "AST": 11.9,
+    "ASTpct": 51.8,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "258681",
+    "name": "M. Rojas",
+    "pos": "PF",
+    "PTS": 131,
+    "USG": 15.6,
+    "USGpct": 18.5,
+    "AST": 15,
+    "ASTpct": 61.3,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2178363",
+    "name": "E. Romero",
+    "pos": "C",
+    "PTS": 110,
+    "USG": 18.9,
+    "USGpct": 39.2,
+    "AST": 4.5,
+    "ASTpct": 3.2,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "2486588",
+    "name": "G. Whittington",
+    "pos": "C",
+    "PTS": 75,
+    "roleCode": "low",
+    "role": "muestra <200′"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 422,
+    "sharePct": 30.1,
+    "eFG": 68.0,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 346,
+    "sharePct": 24.7,
+    "eFG": 46.2,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 81,
+    "sharePct": 5.8,
+    "eFG": 45.7,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 71,
+    "sharePct": 5.1,
+    "eFG": 54.9,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 148,
+    "sharePct": 10.6,
+    "eFG": 54.7,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 89,
+    "sharePct": 6.4,
+    "eFG": 64.0,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 153,
+    "sharePct": 10.9,
+    "eFG": 58.8,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 90,
+    "sharePct": 6.4,
+    "eFG": 53.3,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 332,
+    "sharePct": 24.0,
+    "eFG": 64.2,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 335,
+    "sharePct": 24.2,
+    "eFG": 44.2,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 147,
+    "sharePct": 10.6,
+    "eFG": 32.0,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 65,
+    "sharePct": 4.7,
+    "eFG": 41.5,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 162,
+    "sharePct": 11.7,
+    "eFG": 43.5,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 121,
+    "sharePct": 8.7,
+    "eFG": 33.5,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 170,
+    "sharePct": 12.3,
+    "eFG": 44.1,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 51,
+    "sharePct": 3.7,
+    "eFG": 55.9,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "617418",
+     "name": "S. Vescovi",
+     "val": 16.6
+    },
+    {
+     "personId": "811063",
+     "name": "N. Pomoli",
+     "val": 15.3
+    },
+    {
+     "personId": "1642412",
+     "name": "S. Hogan",
+     "val": 14.6
+    }
+   ],
+   "reb": [
+    {
+     "personId": "1975797",
+     "name": "A. Ibarguen",
+     "val": 6.1
+    },
+    {
+     "personId": "258681",
+     "name": "M. Rojas",
+     "val": 5.9
+    },
+    {
+     "personId": "811063",
+     "name": "N. Pomoli",
+     "val": 5.7
+    }
+   ],
+   "ast": [
+    {
+     "personId": "617418",
+     "name": "S. Vescovi",
+     "val": 5.4
+    },
+    {
+     "personId": "811063",
+     "name": "N. Pomoli",
+     "val": 5.0
+    },
+    {
+     "personId": "1642412",
+     "name": "S. Hogan",
+     "val": 2.5
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "1642412",
+    "name": "S. Hogan",
+    "pos": "F",
+    "GP": 21,
+    "MIN": 602,
+    "ppg": 14.6,
+    "inPool": true
+   },
+   {
+    "personId": "617418",
+    "name": "S. Vescovi",
+    "pos": "PG",
+    "GP": 20,
+    "MIN": 561,
+    "ppg": 16.6,
+    "inPool": true
+   },
+   {
+    "personId": "811063",
+    "name": "N. Pomoli",
+    "pos": "PG",
+    "GP": 20,
+    "MIN": 515,
+    "ppg": 15.3,
+    "inPool": true
+   },
+   {
+    "personId": "1975797",
+    "name": "A. Ibarguen",
+    "pos": "PF",
+    "GP": 19,
+    "MIN": 455,
+    "ppg": 13.0,
+    "inPool": true
+   },
+   {
+    "personId": "258681",
+    "name": "M. Rojas",
+    "pos": "PF",
+    "GP": 21,
+    "MIN": 437,
+    "ppg": 6.2,
+    "inPool": true
+   },
+   {
+    "personId": "17691",
+    "name": "E. Serres",
+    "pos": "F",
+    "GP": 16,
+    "MIN": 362,
+    "ppg": 10.3,
+    "inPool": true
+   },
+   {
+    "personId": "17071",
+    "name": "F. Bavosi",
+    "pos": "G",
+    "GP": 20,
+    "MIN": 284,
+    "ppg": 2.2,
+    "inPool": true
+   },
+   {
+    "personId": "1676246",
+    "name": "N. Lema",
+    "pos": "PG",
+    "GP": 15,
+    "MIN": 273,
+    "ppg": 4.1,
+    "inPool": true
+   },
+   {
+    "personId": "2178363",
+    "name": "E. Romero",
+    "pos": "C",
+    "GP": 12,
+    "MIN": 250,
+    "ppg": 9.2,
+    "inPool": true
+   },
+   {
+    "personId": "1509909",
+    "name": "S. Calimares",
+    "pos": "G",
+    "GP": 15,
+    "MIN": 175,
+    "ppg": 3.7,
+    "inPool": false
+   },
+   {
+    "personId": "2486588",
+    "name": "G. Whittington",
+    "pos": "C",
+    "GP": 7,
+    "MIN": 159,
+    "ppg": 10.7,
+    "inPool": false
+   },
+   {
+    "personId": "2544008",
+    "name": "C. Heilmann",
+    "pos": "PF",
+    "GP": 12,
+    "MIN": 83,
+    "ppg": 3.2,
+    "inPool": false
+   },
+   {
+    "personId": "2549194",
+    "name": "O. Rosado",
+    "pos": "F",
+    "GP": 10,
+    "MIN": 32,
+    "ppg": 1.0,
+    "inPool": false
+   },
+   {
+    "personId": "2411720",
+    "name": "J. Delgado",
+    "pos": "F",
+    "GP": 8,
+    "MIN": 12,
+    "ppg": 0.5,
+    "inPool": false
+   },
+   {
+    "personId": "2134181",
+    "name": "L. Quiñones",
+    "pos": "C",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 3.0,
+    "inPool": false
+   }
+  ]
+ },
+ "CNF": {
+  "code": "CNF",
+  "name": "NACIONAL",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 112.2,
+   "DRtg": 101.3,
+   "NetRtg": 10.9,
+   "Pace": 82.3,
+   "eFG%": 53.3,
+   "TOV%": 13.7,
+   "ORB%": 30.7,
+   "FTR": 22.4,
+   "D_eFG%": 51.6,
+   "D_TOV%": 18.8,
+   "DRB%": 70.5,
+   "D_FTR": 21.1
+  },
+  "reading": {
+   "explotar": "3 esquina der: le anotan 69 eFG ahí (liga 58), sobre la media.",
+   "quitar": "3 esquina der: su tiro más eficiente (70 eFG vs liga 58). Cerrar ese sector.",
+   "presionar": "J. Feldeine, L. Parodi, A. Mendez: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2321121",
+    "name": "J. Feldeine",
+    "pos": "G",
+    "PTS": 323,
+    "USG": 25.4,
+    "USGpct": 86,
+    "AST": 21.2,
+    "ASTpct": 80.6,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "2386709",
+    "name": "C. Zinaich",
+    "pos": "F",
+    "PTS": 285,
+    "USG": 24.7,
+    "USGpct": 82.9,
+    "AST": 12.2,
+    "ASTpct": 54.1,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "1722930",
+    "name": "P. Prieto",
+    "pos": "G",
+    "PTS": 234,
+    "USG": 18.3,
+    "USGpct": 34.7,
+    "AST": 11.8,
+    "ASTpct": 50.5,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "15251",
+    "name": "L. Parodi",
+    "pos": "G",
+    "PTS": 191,
+    "USG": 20.3,
+    "USGpct": 53.2,
+    "AST": 27.7,
+    "ASTpct": 91.4,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "17669",
+    "name": "G. Espindola",
+    "pos": "F",
+    "PTS": 166,
+    "USG": 16.9,
+    "USGpct": 25.2,
+    "AST": 9.2,
+    "ASTpct": 33.8,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1894506",
+    "name": "A. Mendez",
+    "pos": "G",
+    "PTS": 164,
+    "USG": 17.1,
+    "USGpct": 27.5,
+    "AST": 21.1,
+    "ASTpct": 79.7,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "17628",
+    "name": "E. Oglivie",
+    "pos": "C",
+    "PTS": 146,
+    "USG": 21.2,
+    "USGpct": 65.8,
+    "AST": 10.5,
+    "ASTpct": 38.3,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "17677",
+    "name": "B. Barrera",
+    "pos": "F",
+    "PTS": 144,
+    "USG": 21.1,
+    "USGpct": 64.4,
+    "AST": 9,
+    "ASTpct": 28.8,
+    "roleCode": "scorer",
+    "role": "anotador"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 534,
+    "sharePct": 33.9,
+    "eFG": 65.9,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 292,
+    "sharePct": 18.6,
+    "eFG": 40.4,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 115,
+    "sharePct": 7.3,
+    "eFG": 33.9,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 57,
+    "sharePct": 3.6,
+    "eFG": 55.3,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 170,
+    "sharePct": 10.8,
+    "eFG": 49.4,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 138,
+    "sharePct": 8.8,
+    "eFG": 44.6,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 196,
+    "sharePct": 12.5,
+    "eFG": 52.8,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 71,
+    "sharePct": 4.5,
+    "eFG": 69.7,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 439,
+    "sharePct": 29.9,
+    "eFG": 67.0,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 260,
+    "sharePct": 17.7,
+    "eFG": 38.8,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 134,
+    "sharePct": 9.1,
+    "eFG": 41.0,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 64,
+    "sharePct": 4.4,
+    "eFG": 46.9,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 197,
+    "sharePct": 13.4,
+    "eFG": 41.9,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 104,
+    "sharePct": 7.1,
+    "eFG": 49.0,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 185,
+    "sharePct": 12.6,
+    "eFG": 46.2,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 87,
+    "sharePct": 5.9,
+    "eFG": 69.0,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2386709",
+     "name": "C. Zinaich",
+     "val": 17.8
+    },
+    {
+     "personId": "2321121",
+     "name": "J. Feldeine",
+     "val": 16.1
+    },
+    {
+     "personId": "17628",
+     "name": "E. Oglivie",
+     "val": 12.2
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2386709",
+     "name": "C. Zinaich",
+     "val": 8.4
+    },
+    {
+     "personId": "2413907",
+     "name": "E. Bell",
+     "val": 7.1
+    },
+    {
+     "personId": "17628",
+     "name": "E. Oglivie",
+     "val": 6.0
+    }
+   ],
+   "ast": [
+    {
+     "personId": "15251",
+     "name": "L. Parodi",
+     "val": 4.8
+    },
+    {
+     "personId": "2321121",
+     "name": "J. Feldeine",
+     "val": 3.4
+    },
+    {
+     "personId": "1894506",
+     "name": "A. Mendez",
+     "val": 2.2
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "2321121",
+    "name": "J. Feldeine",
+    "pos": "G",
+    "GP": 20,
+    "MIN": 510,
+    "ppg": 16.1,
+    "inPool": true
+   },
+   {
+    "personId": "15251",
+    "name": "L. Parodi",
+    "pos": "G",
+    "GP": 21,
+    "MIN": 498,
+    "ppg": 9.1,
+    "inPool": true
+   },
+   {
+    "personId": "1722930",
+    "name": "P. Prieto",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 490,
+    "ppg": 10.6,
+    "inPool": true
+   },
+   {
+    "personId": "17669",
+    "name": "G. Espindola",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 484,
+    "ppg": 7.5,
+    "inPool": true
+   },
+   {
+    "personId": "2386709",
+    "name": "C. Zinaich",
+    "pos": "F",
+    "GP": 16,
+    "MIN": 433,
+    "ppg": 17.8,
+    "inPool": true
+   },
+   {
+    "personId": "1894506",
+    "name": "A. Mendez",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 366,
+    "ppg": 7.5,
+    "inPool": true
+   },
+   {
+    "personId": "17677",
+    "name": "B. Barrera",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 335,
+    "ppg": 6.5,
+    "inPool": true
+   },
+   {
+    "personId": "2413907",
+    "name": "E. Bell",
+    "pos": "PF",
+    "GP": 14,
+    "MIN": 318,
+    "ppg": 10.1,
+    "inPool": true
+   },
+   {
+    "personId": "15196",
+    "name": "M. Cabot",
+    "pos": "G",
+    "GP": 19,
+    "MIN": 302,
+    "ppg": 5.5,
+    "inPool": true
+   },
+   {
+    "personId": "17628",
+    "name": "E. Oglivie",
+    "pos": "C",
+    "GP": 12,
+    "MIN": 258,
+    "ppg": 12.2,
+    "inPool": true
+   },
+   {
+    "personId": "1661038",
+    "name": "P. Gomez",
+    "pos": "C",
+    "GP": 17,
+    "MIN": 246,
+    "ppg": 4.6,
+    "inPool": true
+   },
+   {
+    "personId": "1760620",
+    "name": "J. Galeano",
+    "pos": "F",
+    "GP": 16,
+    "MIN": 68,
+    "ppg": 1.4,
+    "inPool": false
+   },
+   {
+    "personId": "2150245",
+    "name": "E. Superi",
+    "pos": "G",
+    "GP": 14,
+    "MIN": 61,
+    "ppg": 1.4,
+    "inPool": false
+   },
+   {
+    "personId": "1937775",
+    "name": "L. Bennett",
+    "pos": "F",
+    "GP": 5,
+    "MIN": 17,
+    "ppg": 0.4,
+    "inPool": false
+   },
+   {
+    "personId": "2225721",
+    "name": "L. Imas",
+    "pos": "F",
+    "GP": 4,
+    "MIN": 7,
+    "ppg": 1.8,
+    "inPool": false
+   },
+   {
+    "personId": "2225720",
+    "name": "F. Pereira",
+    "pos": "G",
+    "GP": 3,
+    "MIN": 7,
+    "ppg": 1.3,
+    "inPool": false
+   }
+  ]
+ },
+ "AGU": {
+  "code": "AGU",
+  "name": "AGUADA",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 115.2,
+   "DRtg": 108.2,
+   "NetRtg": 7,
+   "Pace": 79.8,
+   "eFG%": 55.9,
+   "TOV%": 15.1,
+   "ORB%": 28.9,
+   "FTR": 25.5,
+   "D_eFG%": 51.1,
+   "D_TOV%": 13.4,
+   "DRB%": 70.3,
+   "D_FTR": 17.9
+  },
+  "reading": {
+   "explotar": "3 ala izq: le anotan 60 eFG ahí (liga 50), sobre la media.",
+   "quitar": "3 esquina izq: su tiro más eficiente (69 eFG vs liga 54). Cerrar ese sector.",
+   "presionar": "S. Vidal, J. Santiso, D. Sims: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2534717",
+    "name": "E. Clark",
+    "pos": "PF",
+    "PTS": 422,
+    "USG": 26.6,
+    "USGpct": 92.3,
+    "AST": 6.5,
+    "ASTpct": 9.5,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "14724",
+    "name": "S. Vidal",
+    "pos": "G",
+    "PTS": 228,
+    "USG": 19.5,
+    "USGpct": 42.8,
+    "AST": 41.4,
+    "ASTpct": 98.6,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "17101",
+    "name": "J. Santiso",
+    "pos": "G",
+    "PTS": 207,
+    "USG": 20.2,
+    "USGpct": 51.4,
+    "AST": 34.3,
+    "ASTpct": 97.7,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "17554",
+    "name": "A. Zuvich",
+    "pos": "C",
+    "PTS": 202,
+    "USG": 17.7,
+    "USGpct": 30.6,
+    "AST": 8.7,
+    "ASTpct": 26.6,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1430994",
+    "name": "J. Rodriguez",
+    "pos": "F",
+    "PTS": 194,
+    "USG": 21.7,
+    "USGpct": 68.9,
+    "AST": 10.9,
+    "ASTpct": 43.7,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1314626",
+    "name": "L. Santos",
+    "pos": "C",
+    "PTS": 191,
+    "USG": 20.5,
+    "USGpct": 56.8,
+    "AST": 3.5,
+    "ASTpct": 0.5,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "17571",
+    "name": "F. Pereiras",
+    "pos": "PG",
+    "PTS": 170,
+    "USG": 14.5,
+    "USGpct": 14,
+    "AST": 9.5,
+    "ASTpct": 34.7,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "701864",
+    "name": "D. Sims",
+    "pos": "PG",
+    "PTS": 142,
+    "USG": 24.7,
+    "USGpct": 82.9,
+    "AST": 24.2,
+    "ASTpct": 87.8,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 430,
+    "sharePct": 29.2,
+    "eFG": 63.7,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 278,
+    "sharePct": 18.9,
+    "eFG": 47.8,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 141,
+    "sharePct": 9.6,
+    "eFG": 44.0,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 72,
+    "sharePct": 4.9,
+    "eFG": 68.8,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 168,
+    "sharePct": 11.4,
+    "eFG": 52.7,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 140,
+    "sharePct": 9.5,
+    "eFG": 54.6,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 163,
+    "sharePct": 11.1,
+    "eFG": 54.3,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 80,
+    "sharePct": 5.4,
+    "eFG": 63.8,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 484,
+    "sharePct": 30.6,
+    "eFG": 61.0,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 319,
+    "sharePct": 20.1,
+    "eFG": 44.8,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 174,
+    "sharePct": 11.0,
+    "eFG": 27.6,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 55,
+    "sharePct": 3.5,
+    "eFG": 57.3,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 171,
+    "sharePct": 10.8,
+    "eFG": 60.5,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 137,
+    "sharePct": 8.6,
+    "eFG": 43.8,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 171,
+    "sharePct": 10.8,
+    "eFG": 50.0,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 73,
+    "sharePct": 4.6,
+    "eFG": 59.6,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2534717",
+     "name": "E. Clark",
+     "val": 19.2
+    },
+    {
+     "personId": "701864",
+     "name": "D. Sims",
+     "val": 17.8
+    },
+    {
+     "personId": "1314626",
+     "name": "L. Santos",
+     "val": 15.9
+    }
+   ],
+   "reb": [
+    {
+     "personId": "1314626",
+     "name": "L. Santos",
+     "val": 8.4
+    },
+    {
+     "personId": "2534712",
+     "name": "E. Mockevicius",
+     "val": 8.3
+    },
+    {
+     "personId": "2534717",
+     "name": "E. Clark",
+     "val": 6.5
+    }
+   ],
+   "ast": [
+    {
+     "personId": "14724",
+     "name": "S. Vidal",
+     "val": 7.5
+    },
+    {
+     "personId": "17101",
+     "name": "J. Santiso",
+     "val": 6.4
+    },
+    {
+     "personId": "701864",
+     "name": "D. Sims",
+     "val": 4.0
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "2534717",
+    "name": "E. Clark",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 669,
+    "ppg": 19.2,
+    "inPool": true
+   },
+   {
+    "personId": "17101",
+    "name": "J. Santiso",
+    "pos": "G",
+    "GP": 21,
+    "MIN": 593,
+    "ppg": 9.9,
+    "inPool": true
+   },
+   {
+    "personId": "14724",
+    "name": "S. Vidal",
+    "pos": "G",
+    "GP": 20,
+    "MIN": 540,
+    "ppg": 11.4,
+    "inPool": true
+   },
+   {
+    "personId": "17571",
+    "name": "F. Pereiras",
+    "pos": "PG",
+    "GP": 22,
+    "MIN": 498,
+    "ppg": 7.7,
+    "inPool": true
+   },
+   {
+    "personId": "17554",
+    "name": "A. Zuvich",
+    "pos": "C",
+    "GP": 22,
+    "MIN": 433,
+    "ppg": 9.2,
+    "inPool": true
+   },
+   {
+    "personId": "1430994",
+    "name": "J. Rodriguez",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 411,
+    "ppg": 8.8,
+    "inPool": true
+   },
+   {
+    "personId": "1314626",
+    "name": "L. Santos",
+    "pos": "C",
+    "GP": 12,
+    "MIN": 327,
+    "ppg": 15.9,
+    "inPool": true
+   },
+   {
+    "personId": "701864",
+    "name": "D. Sims",
+    "pos": "PG",
+    "GP": 8,
+    "MIN": 214,
+    "ppg": 17.8,
+    "inPool": true
+   },
+   {
+    "personId": "15493",
+    "name": "J. Osimani",
+    "pos": "SG",
+    "GP": 9,
+    "MIN": 174,
+    "ppg": 6.0,
+    "inPool": false
+   },
+   {
+    "personId": "1717089",
+    "name": "A. Gentile",
+    "pos": "C",
+    "GP": 21,
+    "MIN": 152,
+    "ppg": 3.3,
+    "inPool": false
+   },
+   {
+    "personId": "2158090",
+    "name": "M. Fernandez",
+    "pos": "PG",
+    "GP": 21,
+    "MIN": 145,
+    "ppg": 2.1,
+    "inPool": false
+   },
+   {
+    "personId": "2534712",
+    "name": "E. Mockevicius",
+    "pos": "C",
+    "GP": 7,
+    "MIN": 127,
+    "ppg": 7.1,
+    "inPool": false
+   },
+   {
+    "personId": "921915",
+    "name": "D. Robinson",
+    "pos": "PG",
+    "GP": 4,
+    "MIN": 48,
+    "ppg": 3.2,
+    "inPool": false
+   },
+   {
+    "personId": "2197574",
+    "name": "M. Simon",
+    "pos": "PF",
+    "GP": 2,
+    "MIN": 34,
+    "ppg": 4.5,
+    "inPool": false
+   },
+   {
+    "personId": "2337281",
+    "name": "T. Barragan",
+    "pos": "G",
+    "GP": 7,
+    "MIN": 18,
+    "ppg": 2.3,
+    "inPool": false
+   },
+   {
+    "personId": "2222567",
+    "name": "V. Acuña",
+    "pos": "C",
+    "GP": 5,
+    "MIN": 9,
+    "ppg": 1.2,
+    "inPool": false
+   },
+   {
+    "personId": "2549110",
+    "name": "B. Traversa",
+    "pos": "F",
+    "GP": 5,
+    "MIN": 7,
+    "ppg": 1.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549320",
+    "name": "I. Ramirez",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "HYM": {
+  "code": "HYM",
+  "name": "HEBRAICA Y MACABI",
+  "ratings": {
+   "GP": 21,
+   "ORtg": 109.6,
+   "DRtg": 106.4,
+   "NetRtg": 3.2,
+   "Pace": 78.7,
+   "eFG%": 51.2,
+   "TOV%": 14.7,
+   "ORB%": 35.4,
+   "FTR": 19.7,
+   "D_eFG%": 51.3,
+   "D_TOV%": 14.8,
+   "DRB%": 74,
+   "D_FTR": 25.9
+  },
+  "reading": {
+   "explotar": "3 frente: le anotan 57 eFG ahí (liga 48), sobre la media.",
+   "quitar": "media: su tiro más eficiente (44 eFG vs liga 38). Cerrar ese sector.",
+   "presionar": "S. Zanotta, G. Semiglia: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "425204",
+    "name": "A. Louis",
+    "pos": "PF",
+    "PTS": 310,
+    "USG": 26.3,
+    "USGpct": 90.1,
+    "AST": 7.2,
+    "ASTpct": 14.9,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "2486580",
+    "name": "J. Canty",
+    "pos": "C",
+    "PTS": 259,
+    "USG": 18.4,
+    "USGpct": 35.6,
+    "AST": 8.5,
+    "ASTpct": 24.8,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "15217",
+    "name": "F. Haller",
+    "pos": "PF",
+    "PTS": 248,
+    "USG": 25.5,
+    "USGpct": 86.9,
+    "AST": 10.8,
+    "ASTpct": 41.9,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "2486578",
+    "name": "A. Nation",
+    "pos": "G",
+    "PTS": 221,
+    "USG": 22.2,
+    "USGpct": 71.6,
+    "AST": 16,
+    "ASTpct": 64.4,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "727814",
+    "name": "I. Xavier",
+    "pos": "F",
+    "PTS": 165,
+    "USG": 17.5,
+    "USGpct": 28.8,
+    "AST": 13,
+    "ASTpct": 57.2,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "15259",
+    "name": "S. Zanotta",
+    "pos": "G",
+    "PTS": 153,
+    "USG": 16.9,
+    "USGpct": 25.2,
+    "AST": 30.6,
+    "ASTpct": 96.8,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "16717",
+    "name": "G. Semiglia",
+    "pos": "F",
+    "PTS": 141,
+    "USG": 19.8,
+    "USGpct": 45.9,
+    "AST": 18.4,
+    "ASTpct": 71.6,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "258698",
+    "name": "M. Mayora",
+    "pos": "G",
+    "PTS": 138,
+    "USG": 13.9,
+    "USGpct": 8.6,
+    "AST": 17.5,
+    "ASTpct": 68.9,
+    "roleCode": "scorer",
+    "role": "anotador"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 468,
+    "sharePct": 31.5,
+    "eFG": 60.5,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 228,
+    "sharePct": 15.4,
+    "eFG": 43.9,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 232,
+    "sharePct": 15.6,
+    "eFG": 43.5,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 85,
+    "sharePct": 5.7,
+    "eFG": 45.9,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 159,
+    "sharePct": 10.7,
+    "eFG": 48.1,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 119,
+    "sharePct": 8.0,
+    "eFG": 50.4,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 152,
+    "sharePct": 10.2,
+    "eFG": 50.3,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 42,
+    "sharePct": 2.8,
+    "eFG": 57.1,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 457,
+    "sharePct": 33.5,
+    "eFG": 58.9,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 228,
+    "sharePct": 16.7,
+    "eFG": 37.3,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 124,
+    "sharePct": 9.1,
+    "eFG": 39.5,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 56,
+    "sharePct": 4.1,
+    "eFG": 58.9,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 157,
+    "sharePct": 11.5,
+    "eFG": 45.9,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 113,
+    "sharePct": 8.3,
+    "eFG": 57.1,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 165,
+    "sharePct": 12.1,
+    "eFG": 52.7,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 65,
+    "sharePct": 4.8,
+    "eFG": 62.3,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2698439",
+     "name": "M. Henry",
+     "val": 21.0
+    },
+    {
+     "personId": "425204",
+     "name": "A. Louis",
+     "val": 14.8
+    },
+    {
+     "personId": "2486580",
+     "name": "J. Canty",
+     "val": 12.3
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2486580",
+     "name": "J. Canty",
+     "val": 8.1
+    },
+    {
+     "personId": "425204",
+     "name": "A. Louis",
+     "val": 6.9
+    },
+    {
+     "personId": "2698439",
+     "name": "M. Henry",
+     "val": 6.0
+    }
+   ],
+   "ast": [
+    {
+     "personId": "15259",
+     "name": "S. Zanotta",
+     "val": 5.6
+    },
+    {
+     "personId": "2698439",
+     "name": "M. Henry",
+     "val": 3.7
+    },
+    {
+     "personId": "16717",
+     "name": "G. Semiglia",
+     "val": 2.8
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "2486580",
+    "name": "J. Canty",
+    "pos": "C",
+    "GP": 21,
+    "MIN": 573,
+    "ppg": 12.3,
+    "inPool": true
+   },
+   {
+    "personId": "425204",
+    "name": "A. Louis",
+    "pos": "PF",
+    "GP": 21,
+    "MIN": 560,
+    "ppg": 14.8,
+    "inPool": true
+   },
+   {
+    "personId": "15259",
+    "name": "S. Zanotta",
+    "pos": "G",
+    "GP": 21,
+    "MIN": 553,
+    "ppg": 7.3,
+    "inPool": true
+   },
+   {
+    "personId": "2486578",
+    "name": "A. Nation",
+    "pos": "G",
+    "GP": 18,
+    "MIN": 492,
+    "ppg": 12.3,
+    "inPool": true
+   },
+   {
+    "personId": "258698",
+    "name": "M. Mayora",
+    "pos": "G",
+    "GP": 21,
+    "MIN": 464,
+    "ppg": 6.6,
+    "inPool": true
+   },
+   {
+    "personId": "727814",
+    "name": "I. Xavier",
+    "pos": "F",
+    "GP": 21,
+    "MIN": 460,
+    "ppg": 7.9,
+    "inPool": true
+   },
+   {
+    "personId": "15217",
+    "name": "F. Haller",
+    "pos": "PF",
+    "GP": 21,
+    "MIN": 381,
+    "ppg": 11.8,
+    "inPool": true
+   },
+   {
+    "personId": "16717",
+    "name": "G. Semiglia",
+    "pos": "F",
+    "GP": 16,
+    "MIN": 352,
+    "ppg": 8.8,
+    "inPool": true
+   },
+   {
+    "personId": "1765561",
+    "name": "F. Morales",
+    "pos": "PF",
+    "GP": 20,
+    "MIN": 167,
+    "ppg": 3.2,
+    "inPool": false
+   },
+   {
+    "personId": "1675384",
+    "name": "L. Viatri",
+    "pos": "C",
+    "GP": 12,
+    "MIN": 96,
+    "ppg": 2.8,
+    "inPool": false
+   },
+   {
+    "personId": "2698439",
+    "name": "M. Henry",
+    "pos": "F",
+    "GP": 3,
+    "MIN": 84,
+    "ppg": 21.0,
+    "inPool": false
+   },
+   {
+    "personId": "1945674",
+    "name": "T. Bentancour",
+    "pos": "F",
+    "GP": 4,
+    "MIN": 8,
+    "ppg": 1.2,
+    "inPool": false
+   },
+   {
+    "personId": "2345182",
+    "name": "A. Hazan",
+    "pos": "F",
+    "GP": 5,
+    "MIN": 6,
+    "ppg": 0.8,
+    "inPool": false
+   },
+   {
+    "personId": "2212601",
+    "name": "G. Volcan",
+    "pos": "G",
+    "GP": 2,
+    "MIN": 3,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2345184",
+    "name": "S. Chanes",
+    "pos": "G",
+    "GP": 2,
+    "MIN": 2,
+    "ppg": 3.0,
+    "inPool": false
+   }
+  ]
+ },
+ "UUN": {
+  "code": "UUN",
+  "name": "URUNDAY UNIVERSITARIO",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 111.8,
+   "DRtg": 109.3,
+   "NetRtg": 2.5,
+   "Pace": 79.5,
+   "eFG%": 53.1,
+   "TOV%": 15.3,
+   "ORB%": 37.1,
+   "FTR": 19.1,
+   "D_eFG%": 54.3,
+   "D_TOV%": 16.1,
+   "DRB%": 71.4,
+   "D_FTR": 24.4
+  },
+  "reading": {
+   "explotar": "3 ala izq: le anotan 59 eFG ahí (liga 50), sobre la media.",
+   "quitar": "restringida: su tiro más eficiente (72 eFG vs liga 66). Cerrar ese sector.",
+   "presionar": "M. Sarni: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2534746",
+    "name": "E. Demers",
+    "pos": "G",
+    "PTS": 337,
+    "USG": 27.9,
+    "USGpct": 96.8,
+    "AST": 8.3,
+    "ASTpct": 23.4,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "62685",
+    "name": "S. Massa",
+    "pos": "F",
+    "PTS": 227,
+    "USG": 20.4,
+    "USGpct": 55,
+    "AST": 9.7,
+    "ASTpct": 35.6,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2534742",
+    "name": "T. Daniels",
+    "pos": "C",
+    "PTS": 224,
+    "USG": 17.9,
+    "USGpct": 32.4,
+    "AST": 11.7,
+    "ASTpct": 49.1,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "43252",
+    "name": "M. Sarni",
+    "pos": "G",
+    "PTS": 190,
+    "USG": 18.5,
+    "USGpct": 36.9,
+    "AST": 50.7,
+    "ASTpct": 99.5,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "1709203",
+    "name": "E. Holt",
+    "pos": "PF",
+    "PTS": 183,
+    "USG": 21,
+    "USGpct": 62.6,
+    "AST": 7.3,
+    "ASTpct": 16.2,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "1714808",
+    "name": "B. Curadossi",
+    "pos": "PG",
+    "PTS": 172,
+    "USG": 21.5,
+    "USGpct": 68,
+    "AST": 17,
+    "ASTpct": 65.3,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2074488",
+    "name": "M. Benitez",
+    "pos": "PF",
+    "PTS": 163,
+    "USG": 20.1,
+    "USGpct": 50,
+    "AST": 7.8,
+    "ASTpct": 21.2,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1765563",
+    "name": "A. Moller",
+    "pos": "F",
+    "PTS": 156,
+    "USG": 23.8,
+    "USGpct": 78.8,
+    "AST": 11,
+    "ASTpct": 45.9,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 437,
+    "sharePct": 28.0,
+    "eFG": 71.6,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 321,
+    "sharePct": 20.6,
+    "eFG": 40.5,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 119,
+    "sharePct": 7.6,
+    "eFG": 34.5,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 64,
+    "sharePct": 4.1,
+    "eFG": 51.6,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 200,
+    "sharePct": 12.8,
+    "eFG": 50.2,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 146,
+    "sharePct": 9.4,
+    "eFG": 50.3,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 192,
+    "sharePct": 12.3,
+    "eFG": 49.2,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 81,
+    "sharePct": 5.2,
+    "eFG": 53.7,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 414,
+    "sharePct": 29.0,
+    "eFG": 71.5,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 320,
+    "sharePct": 22.4,
+    "eFG": 44.7,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 140,
+    "sharePct": 9.8,
+    "eFG": 40.0,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 94,
+    "sharePct": 6.6,
+    "eFG": 52.7,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 143,
+    "sharePct": 10.0,
+    "eFG": 58.7,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 92,
+    "sharePct": 6.4,
+    "eFG": 47.3,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 145,
+    "sharePct": 10.1,
+    "eFG": 44.5,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 81,
+    "sharePct": 5.7,
+    "eFG": 48.1,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2534746",
+     "name": "E. Demers",
+     "val": 17.7
+    },
+    {
+     "personId": "2620319",
+     "name": "E. Buckner",
+     "val": 12.6
+    },
+    {
+     "personId": "1709203",
+     "name": "E. Holt",
+     "val": 12.2
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2620319",
+     "name": "E. Buckner",
+     "val": 6.8
+    },
+    {
+     "personId": "2534742",
+     "name": "T. Daniels",
+     "val": 6.6
+    },
+    {
+     "personId": "1709203",
+     "name": "E. Holt",
+     "val": 5.1
+    }
+   ],
+   "ast": [
+    {
+     "personId": "43252",
+     "name": "M. Sarni",
+     "val": 9.6
+    },
+    {
+     "personId": "1714808",
+     "name": "B. Curadossi",
+     "val": 2.0
+    },
+    {
+     "personId": "2620319",
+     "name": "E. Buckner",
+     "val": 1.8
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "43252",
+    "name": "M. Sarni",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 612,
+    "ppg": 8.6,
+    "inPool": true
+   },
+   {
+    "personId": "62685",
+    "name": "S. Massa",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 495,
+    "ppg": 10.3,
+    "inPool": true
+   },
+   {
+    "personId": "2534746",
+    "name": "E. Demers",
+    "pos": "G",
+    "GP": 19,
+    "MIN": 492,
+    "ppg": 17.7,
+    "inPool": true
+   },
+   {
+    "personId": "2534742",
+    "name": "T. Daniels",
+    "pos": "C",
+    "GP": 19,
+    "MIN": 447,
+    "ppg": 11.8,
+    "inPool": true
+   },
+   {
+    "personId": "1714808",
+    "name": "B. Curadossi",
+    "pos": "PG",
+    "GP": 22,
+    "MIN": 404,
+    "ppg": 7.8,
+    "inPool": true
+   },
+   {
+    "personId": "1709203",
+    "name": "E. Holt",
+    "pos": "PF",
+    "GP": 15,
+    "MIN": 384,
+    "ppg": 12.2,
+    "inPool": true
+   },
+   {
+    "personId": "2074488",
+    "name": "M. Benitez",
+    "pos": "PF",
+    "GP": 20,
+    "MIN": 381,
+    "ppg": 8.2,
+    "inPool": true
+   },
+   {
+    "personId": "1765563",
+    "name": "A. Moller",
+    "pos": "F",
+    "GP": 18,
+    "MIN": 318,
+    "ppg": 8.7,
+    "inPool": true
+   },
+   {
+    "personId": "1644398",
+    "name": "J. Sacco",
+    "pos": "PF",
+    "GP": 19,
+    "MIN": 247,
+    "ppg": 4.3,
+    "inPool": true
+   },
+   {
+    "personId": "1569431",
+    "name": "N. Bessio",
+    "pos": "G",
+    "GP": 20,
+    "MIN": 144,
+    "ppg": 1.8,
+    "inPool": false
+   },
+   {
+    "personId": "2620319",
+    "name": "E. Buckner",
+    "pos": "C",
+    "GP": 5,
+    "MIN": 141,
+    "ppg": 12.6,
+    "inPool": false
+   },
+   {
+    "personId": "1937748",
+    "name": "M. Rodriguez",
+    "pos": "G",
+    "GP": 14,
+    "MIN": 116,
+    "ppg": 2.2,
+    "inPool": false
+   },
+   {
+    "personId": "1643387",
+    "name": "N. Amichetti",
+    "pos": "PF",
+    "GP": 7,
+    "MIN": 78,
+    "ppg": 3.0,
+    "inPool": false
+   },
+   {
+    "personId": "1791017",
+    "name": "M. Jounes",
+    "pos": "C",
+    "GP": 9,
+    "MIN": 74,
+    "ppg": 3.4,
+    "inPool": false
+   },
+   {
+    "personId": "2699789",
+    "name": "H. Thompson",
+    "pos": "F",
+    "GP": 3,
+    "MIN": 32,
+    "ppg": 9.3,
+    "inPool": false
+   },
+   {
+    "personId": "1457105",
+    "name": "F. Satut Hornos",
+    "pos": "C",
+    "GP": 3,
+    "MIN": 16,
+    "ppg": 0.3,
+    "inPool": false
+   },
+   {
+    "personId": "2325518",
+    "name": "F. Moleda",
+    "pos": "F",
+    "GP": 4,
+    "MIN": 11,
+    "ppg": 2.2,
+    "inPool": false
+   },
+   {
+    "personId": "2549331",
+    "name": "R. Schellemberg",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 6,
+    "ppg": 2.0,
+    "inPool": false
+   }
+  ]
+ },
+ "MAL": {
+  "code": "MAL",
+  "name": "MALVIN",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 109,
+   "DRtg": 107.1,
+   "NetRtg": 1.9,
+   "Pace": 75,
+   "eFG%": 51.2,
+   "TOV%": 13.9,
+   "ORB%": 31.9,
+   "FTR": 19.7,
+   "D_eFG%": 51.4,
+   "D_TOV%": 14.1,
+   "DRB%": 70.9,
+   "D_FTR": 16.4
+  },
+  "reading": {
+   "explotar": "3 esquina izq: le anotan 72 eFG ahí (liga 54), sobre la media.",
+   "quitar": "media: su tiro más eficiente (44 eFG vs liga 38). Cerrar ese sector.",
+   "presionar": "S. Fernandez, M. Romero, J. Webster: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2394559",
+    "name": "D. Zekovic",
+    "pos": "C",
+    "PTS": 264,
+    "USG": 20.2,
+    "USGpct": 51.4,
+    "AST": 11,
+    "ASTpct": 45.9,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1645560",
+    "name": "N. Martinez",
+    "pos": "PF",
+    "PTS": 264,
+    "USG": 20.9,
+    "USGpct": 60.4,
+    "AST": 3.8,
+    "ASTpct": 1.4,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "2534733",
+    "name": "R. Abell",
+    "pos": "G",
+    "PTS": 252,
+    "USG": 26,
+    "USGpct": 88.7,
+    "AST": 17.4,
+    "ASTpct": 68,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "2534734",
+    "name": "J. Cruz",
+    "pos": "F",
+    "PTS": 240,
+    "USG": 27.7,
+    "USGpct": 95.9,
+    "AST": 11.6,
+    "ASTpct": 48.2,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "1346396",
+    "name": "S. Fernandez",
+    "pos": "G",
+    "PTS": 183,
+    "USG": 20.9,
+    "USGpct": 60.4,
+    "AST": 21.3,
+    "ASTpct": 81.5,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "16177",
+    "name": "M. Romero",
+    "pos": "G",
+    "PTS": 156,
+    "USG": 17,
+    "USGpct": 26.6,
+    "AST": 19.5,
+    "ASTpct": 75.7,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "2399946",
+    "name": "J. Webster",
+    "pos": "PG",
+    "PTS": 125,
+    "USG": 24.5,
+    "USGpct": 81.5,
+    "AST": 27.8,
+    "ASTpct": 92.3,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "17488",
+    "name": "K. Wachsman",
+    "pos": "PF",
+    "PTS": 102,
+    "USG": 9.8,
+    "USGpct": 0.5,
+    "AST": 5.4,
+    "ASTpct": 5.9,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 419,
+    "sharePct": 28.4,
+    "eFG": 64.2,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 282,
+    "sharePct": 19.1,
+    "eFG": 40.4,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 138,
+    "sharePct": 9.4,
+    "eFG": 44.2,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 59,
+    "sharePct": 4.0,
+    "eFG": 50.8,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 182,
+    "sharePct": 12.4,
+    "eFG": 49.5,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 140,
+    "sharePct": 9.5,
+    "eFG": 43.9,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 183,
+    "sharePct": 12.4,
+    "eFG": 51.6,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 70,
+    "sharePct": 4.8,
+    "eFG": 49.3,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 410,
+    "sharePct": 27.5,
+    "eFG": 64.4,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 278,
+    "sharePct": 18.6,
+    "eFG": 40.6,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 155,
+    "sharePct": 10.4,
+    "eFG": 38.7,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 69,
+    "sharePct": 4.6,
+    "eFG": 71.7,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 166,
+    "sharePct": 11.1,
+    "eFG": 52.4,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 133,
+    "sharePct": 8.9,
+    "eFG": 47.4,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 186,
+    "sharePct": 12.5,
+    "eFG": 43.5,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 95,
+    "sharePct": 6.4,
+    "eFG": 52.1,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2534733",
+     "name": "R. Abell",
+     "val": 18.0
+    },
+    {
+     "personId": "2534734",
+     "name": "J. Cruz",
+     "val": 17.1
+    },
+    {
+     "personId": "2399946",
+     "name": "J. Webster",
+     "val": 15.6
+    }
+   ],
+   "reb": [
+    {
+     "personId": "17488",
+     "name": "K. Wachsman",
+     "val": 7.5
+    },
+    {
+     "personId": "2394559",
+     "name": "D. Zekovic",
+     "val": 6.2
+    },
+    {
+     "personId": "1645560",
+     "name": "N. Martinez",
+     "val": 4.7
+    }
+   ],
+   "ast": [
+    {
+     "personId": "2399946",
+     "name": "J. Webster",
+     "val": 5.5
+    },
+    {
+     "personId": "2534733",
+     "name": "R. Abell",
+     "val": 3.0
+    },
+    {
+     "personId": "2619160",
+     "name": "D. Davis",
+     "val": 2.8
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "2394559",
+    "name": "D. Zekovic",
+    "pos": "C",
+    "GP": 22,
+    "MIN": 566,
+    "ppg": 12.0,
+    "inPool": true
+   },
+   {
+    "personId": "1645560",
+    "name": "N. Martinez",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 560,
+    "ppg": 12.0,
+    "inPool": true
+   },
+   {
+    "personId": "17488",
+    "name": "K. Wachsman",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 556,
+    "ppg": 4.6,
+    "inPool": true
+   },
+   {
+    "personId": "16177",
+    "name": "M. Romero",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 490,
+    "ppg": 7.1,
+    "inPool": true
+   },
+   {
+    "personId": "1346396",
+    "name": "S. Fernandez",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 477,
+    "ppg": 8.3,
+    "inPool": true
+   },
+   {
+    "personId": "2534733",
+    "name": "R. Abell",
+    "pos": "G",
+    "GP": 14,
+    "MIN": 449,
+    "ppg": 18.0,
+    "inPool": true
+   },
+   {
+    "personId": "2534734",
+    "name": "J. Cruz",
+    "pos": "F",
+    "GP": 14,
+    "MIN": 432,
+    "ppg": 17.1,
+    "inPool": true
+   },
+   {
+    "personId": "17110",
+    "name": "O. Medina",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 300,
+    "ppg": 4.6,
+    "inPool": true
+   },
+   {
+    "personId": "2399946",
+    "name": "J. Webster",
+    "pos": "PG",
+    "GP": 8,
+    "MIN": 262,
+    "ppg": 15.6,
+    "inPool": true
+   },
+   {
+    "personId": "2619160",
+    "name": "D. Davis",
+    "pos": "G",
+    "GP": 6,
+    "MIN": 165,
+    "ppg": 8.8,
+    "inPool": false
+   },
+   {
+    "personId": "1796527",
+    "name": "N. Rodriguez",
+    "pos": "PG",
+    "GP": 10,
+    "MIN": 54,
+    "ppg": 1.5,
+    "inPool": false
+   },
+   {
+    "personId": "2321115",
+    "name": "C. Guyton",
+    "pos": "PG",
+    "GP": 2,
+    "MIN": 41,
+    "ppg": 14.5,
+    "inPool": false
+   },
+   {
+    "personId": "1937721",
+    "name": "F. Brun",
+    "pos": "G",
+    "GP": 8,
+    "MIN": 30,
+    "ppg": 0.9,
+    "inPool": false
+   },
+   {
+    "personId": "2156021",
+    "name": "E. Espinosa",
+    "pos": "F",
+    "GP": 5,
+    "MIN": 11,
+    "ppg": 1.6,
+    "inPool": false
+   },
+   {
+    "personId": "1983439",
+    "name": "C. Gagliano",
+    "pos": "F",
+    "GP": 3,
+    "MIN": 4,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2397427",
+    "name": "A. Perez",
+    "pos": "F",
+    "GP": 2,
+    "MIN": 3,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "DSC": {
+  "code": "DSC",
+  "name": "D SPORTING",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 112.5,
+   "DRtg": 111.3,
+   "NetRtg": 1.2,
+   "Pace": 76.8,
+   "eFG%": 54.2,
+   "TOV%": 14.3,
+   "ORB%": 31,
+   "FTR": 20.4,
+   "D_eFG%": 54.1,
+   "D_TOV%": 13.8,
+   "DRB%": 71.5,
+   "D_FTR": 17.6
+  },
+  "reading": {
+   "explotar": "3 frente: le anotan 57 eFG ahí (liga 48), sobre la media.",
+   "quitar": "3 esquina der: su tiro más eficiente (74 eFG vs liga 58). Cerrar ese sector.",
+   "presionar": "F. Terra: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2589974",
+    "name": "E. Weaver",
+    "pos": "G",
+    "PTS": 326,
+    "USG": 26.5,
+    "USGpct": 91.4,
+    "AST": 17.1,
+    "ASTpct": 66.2,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "191820",
+    "name": "F. Terra",
+    "pos": "G",
+    "PTS": 294,
+    "USG": 25,
+    "USGpct": 85.1,
+    "AST": 29,
+    "ASTpct": 94.1,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "725720",
+    "name": "T. Metzger",
+    "pos": "PF",
+    "PTS": 265,
+    "USG": 20.8,
+    "USGpct": 59,
+    "AST": 7.4,
+    "ASTpct": 17.6,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "43224",
+    "name": "N. Colmenares",
+    "pos": "PF",
+    "PTS": 193,
+    "USG": 16.7,
+    "USGpct": 23.9,
+    "AST": 11,
+    "ASTpct": 45.9,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "17046",
+    "name": "M. Zubiaurre",
+    "pos": "G",
+    "PTS": 152,
+    "USG": 17.7,
+    "USGpct": 30.6,
+    "AST": 15.4,
+    "ASTpct": 62.6,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "999249",
+    "name": "M. Bianchi",
+    "pos": "PF",
+    "PTS": 146,
+    "USG": 13.8,
+    "USGpct": 7.7,
+    "AST": 8,
+    "ASTpct": 22.1,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "539387",
+    "name": "F. Soto",
+    "pos": "F",
+    "PTS": 138,
+    "USG": 14.4,
+    "USGpct": 13.1,
+    "AST": 9.1,
+    "ASTpct": 31.5,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1981004",
+    "name": "D. Wright",
+    "pos": "PF",
+    "PTS": 115,
+    "USG": 18.8,
+    "USGpct": 38.3,
+    "AST": 8.7,
+    "ASTpct": 26.6,
+    "roleCode": "scorer",
+    "role": "anotador"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 450,
+    "sharePct": 30.5,
+    "eFG": 69.6,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 311,
+    "sharePct": 21.1,
+    "eFG": 44.1,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 129,
+    "sharePct": 8.7,
+    "eFG": 35.7,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 57,
+    "sharePct": 3.9,
+    "eFG": 63.2,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 182,
+    "sharePct": 12.3,
+    "eFG": 42.0,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 110,
+    "sharePct": 7.5,
+    "eFG": 51.8,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 174,
+    "sharePct": 11.8,
+    "eFG": 50.9,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 63,
+    "sharePct": 4.3,
+    "eFG": 73.8,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 366,
+    "sharePct": 24.6,
+    "eFG": 73.2,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 321,
+    "sharePct": 21.6,
+    "eFG": 43.0,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 181,
+    "sharePct": 12.2,
+    "eFG": 35.4,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 51,
+    "sharePct": 3.4,
+    "eFG": 55.9,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 189,
+    "sharePct": 12.7,
+    "eFG": 50.0,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 110,
+    "sharePct": 7.4,
+    "eFG": 57.3,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 191,
+    "sharePct": 12.8,
+    "eFG": 54.2,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 78,
+    "sharePct": 5.2,
+    "eFG": 57.7,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2589974",
+     "name": "E. Weaver",
+     "val": 21.7
+    },
+    {
+     "personId": "2486574",
+     "name": "D. Wilson",
+     "val": 14.0
+    },
+    {
+     "personId": "191820",
+     "name": "F. Terra",
+     "val": 13.4
+    }
+   ],
+   "reb": [
+    {
+     "personId": "43224",
+     "name": "N. Colmenares",
+     "val": 8.8
+    },
+    {
+     "personId": "725720",
+     "name": "T. Metzger",
+     "val": 5.5
+    },
+    {
+     "personId": "191820",
+     "name": "F. Terra",
+     "val": 5.0
+    }
+   ],
+   "ast": [
+    {
+     "personId": "191820",
+     "name": "F. Terra",
+     "val": 5.5
+    },
+    {
+     "personId": "2589974",
+     "name": "E. Weaver",
+     "val": 3.0
+    },
+    {
+     "personId": "2486574",
+     "name": "D. Wilson",
+     "val": 2.8
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "191820",
+    "name": "F. Terra",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 642,
+    "ppg": 13.4,
+    "inPool": true
+   },
+   {
+    "personId": "725720",
+    "name": "T. Metzger",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 547,
+    "ppg": 12.0,
+    "inPool": true
+   },
+   {
+    "personId": "43224",
+    "name": "N. Colmenares",
+    "pos": "PF",
+    "GP": 20,
+    "MIN": 507,
+    "ppg": 9.7,
+    "inPool": true
+   },
+   {
+    "personId": "2589974",
+    "name": "E. Weaver",
+    "pos": "G",
+    "GP": 15,
+    "MIN": 471,
+    "ppg": 21.7,
+    "inPool": true
+   },
+   {
+    "personId": "539387",
+    "name": "F. Soto",
+    "pos": "F",
+    "GP": 18,
+    "MIN": 459,
+    "ppg": 7.7,
+    "inPool": true
+   },
+   {
+    "personId": "999249",
+    "name": "M. Bianchi",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 427,
+    "ppg": 6.6,
+    "inPool": true
+   },
+   {
+    "personId": "17046",
+    "name": "M. Zubiaurre",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 408,
+    "ppg": 6.9,
+    "inPool": true
+   },
+   {
+    "personId": "1981004",
+    "name": "D. Wright",
+    "pos": "PF",
+    "GP": 12,
+    "MIN": 272,
+    "ppg": 9.6,
+    "inPool": true
+   },
+   {
+    "personId": "1723827",
+    "name": "M. Mac Mullen",
+    "pos": "PG",
+    "GP": 22,
+    "MIN": 236,
+    "ppg": 3.6,
+    "inPool": true
+   },
+   {
+    "personId": "2486574",
+    "name": "D. Wilson",
+    "pos": "PG",
+    "GP": 6,
+    "MIN": 166,
+    "ppg": 14.0,
+    "inPool": false
+   },
+   {
+    "personId": "1940452",
+    "name": "M. Antunez",
+    "pos": "G",
+    "GP": 14,
+    "MIN": 91,
+    "ppg": 2.1,
+    "inPool": false
+   },
+   {
+    "personId": "1639448",
+    "name": "V. Rudd",
+    "pos": "",
+    "GP": 3,
+    "MIN": 64,
+    "ppg": 10.3,
+    "inPool": false
+   },
+   {
+    "personId": "2620613",
+    "name": "E. Ewing",
+    "pos": "",
+    "GP": 4,
+    "MIN": 62,
+    "ppg": 7.0,
+    "inPool": false
+   },
+   {
+    "personId": "2243963",
+    "name": "B. Gomez",
+    "pos": "C",
+    "GP": 6,
+    "MIN": 18,
+    "ppg": 1.0,
+    "inPool": false
+   },
+   {
+    "personId": "1940451",
+    "name": "M. Cuervo",
+    "pos": "G",
+    "GP": 3,
+    "MIN": 14,
+    "ppg": 2.3,
+    "inPool": false
+   },
+   {
+    "personId": "2405599",
+    "name": "G. Rodriguez",
+    "pos": "G",
+    "GP": 2,
+    "MIN": 5,
+    "ppg": 2.5,
+    "inPool": false
+   },
+   {
+    "personId": "2383405",
+    "name": "F. De Leon",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2616169",
+    "name": "A. Aron",
+    "pos": "",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549324",
+    "name": "S. Tricot",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 3.0,
+    "inPool": false
+   },
+   {
+    "personId": "2250412",
+    "name": "M. Soto",
+    "pos": "F",
+    "GP": 2,
+    "MIN": 2,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "UAT": {
+  "code": "UAT",
+  "name": "UNION ATLETICA",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 107.6,
+   "DRtg": 107.6,
+   "NetRtg": 0,
+   "Pace": 77.1,
+   "eFG%": 50.9,
+   "TOV%": 13.6,
+   "ORB%": 26.7,
+   "FTR": 21.5,
+   "D_eFG%": 50.5,
+   "D_TOV%": 13.2,
+   "DRB%": 71.2,
+   "D_FTR": 21
+  },
+  "reading": {
+   "explotar": "media: le anotan 45 eFG ahí (liga 38), sobre la media.",
+   "quitar": "3 esquina der: su tiro más eficiente (67 eFG vs liga 58). Cerrar ese sector.",
+   "presionar": "C. Alaekwe, I. Ross: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2534741",
+    "name": "T. Prince",
+    "pos": "F",
+    "PTS": 362,
+    "USG": 19.8,
+    "USGpct": 45.9,
+    "AST": 17.6,
+    "ASTpct": 69.8,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2486591",
+    "name": "Q. Wilson",
+    "pos": "PF",
+    "PTS": 339,
+    "USG": 22.7,
+    "USGpct": 77,
+    "AST": 11.8,
+    "ASTpct": 50.5,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "1338848",
+    "name": "M. Giano",
+    "pos": "PG",
+    "PTS": 314,
+    "USG": 19.3,
+    "USGpct": 41,
+    "AST": 12.7,
+    "ASTpct": 55.4,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "208488",
+    "name": "J. Ducasse",
+    "pos": "F",
+    "PTS": 182,
+    "USG": 15.5,
+    "USGpct": 17.1,
+    "AST": 6.8,
+    "ASTpct": 11.3,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "16807",
+    "name": "A. Lopez",
+    "pos": "SG",
+    "PTS": 179,
+    "USG": 19.9,
+    "USGpct": 48.2,
+    "AST": 9.8,
+    "ASTpct": 36.5,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2603089",
+    "name": "C. Alaekwe",
+    "pos": "PG",
+    "PTS": 166,
+    "USG": 24.9,
+    "USGpct": 84.2,
+    "AST": 21,
+    "ASTpct": 78.8,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "2534738",
+    "name": "I. Ross",
+    "pos": "G",
+    "PTS": 151,
+    "USG": 27.4,
+    "USGpct": 95,
+    "AST": 19.2,
+    "ASTpct": 74.3,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "968070",
+    "name": "G. Souza",
+    "pos": "F",
+    "PTS": 81,
+    "USG": 11.9,
+    "USGpct": 4.5,
+    "AST": 7.5,
+    "ASTpct": 18.9,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 411,
+    "sharePct": 27.8,
+    "eFG": 71.0,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 246,
+    "sharePct": 16.6,
+    "eFG": 45.5,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 196,
+    "sharePct": 13.2,
+    "eFG": 36.2,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 88,
+    "sharePct": 5.9,
+    "eFG": 46.0,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 178,
+    "sharePct": 12.0,
+    "eFG": 40.4,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 101,
+    "sharePct": 6.8,
+    "eFG": 43.1,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 161,
+    "sharePct": 10.9,
+    "eFG": 35.4,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 99,
+    "sharePct": 6.7,
+    "eFG": 66.7,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 395,
+    "sharePct": 26.5,
+    "eFG": 63.5,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 319,
+    "sharePct": 21.4,
+    "eFG": 43.3,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 132,
+    "sharePct": 8.9,
+    "eFG": 44.7,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 62,
+    "sharePct": 4.2,
+    "eFG": 50.8,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 184,
+    "sharePct": 12.4,
+    "eFG": 52.2,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 156,
+    "sharePct": 10.5,
+    "eFG": 49.0,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 200,
+    "sharePct": 13.4,
+    "eFG": 42.0,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 40,
+    "sharePct": 2.7,
+    "eFG": 37.5,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2486591",
+     "name": "Q. Wilson",
+     "val": 17.8
+    },
+    {
+     "personId": "2534741",
+     "name": "T. Prince",
+     "val": 16.5
+    },
+    {
+     "personId": "2534738",
+     "name": "I. Ross",
+     "val": 15.1
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2486591",
+     "name": "Q. Wilson",
+     "val": 9.0
+    },
+    {
+     "personId": "2603089",
+     "name": "C. Alaekwe",
+     "val": 7.3
+    },
+    {
+     "personId": "2534741",
+     "name": "T. Prince",
+     "val": 7.0
+    }
+   ],
+   "ast": [
+    {
+     "personId": "2603089",
+     "name": "C. Alaekwe",
+     "val": 4.5
+    },
+    {
+     "personId": "2534741",
+     "name": "T. Prince",
+     "val": 3.6
+    },
+    {
+     "personId": "2534738",
+     "name": "I. Ross",
+     "val": 3.3
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "2534741",
+    "name": "T. Prince",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 759,
+    "ppg": 16.5,
+    "inPool": true
+   },
+   {
+    "personId": "1338848",
+    "name": "M. Giano",
+    "pos": "PG",
+    "GP": 22,
+    "MIN": 746,
+    "ppg": 14.3,
+    "inPool": true
+   },
+   {
+    "personId": "2486591",
+    "name": "Q. Wilson",
+    "pos": "PF",
+    "GP": 19,
+    "MIN": 623,
+    "ppg": 17.8,
+    "inPool": true
+   },
+   {
+    "personId": "208488",
+    "name": "J. Ducasse",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 609,
+    "ppg": 8.3,
+    "inPool": true
+   },
+   {
+    "personId": "16807",
+    "name": "A. Lopez",
+    "pos": "SG",
+    "GP": 22,
+    "MIN": 408,
+    "ppg": 8.1,
+    "inPool": true
+   },
+   {
+    "personId": "2603089",
+    "name": "C. Alaekwe",
+    "pos": "PG",
+    "GP": 12,
+    "MIN": 400,
+    "ppg": 13.8,
+    "inPool": true
+   },
+   {
+    "personId": "968070",
+    "name": "G. Souza",
+    "pos": "F",
+    "GP": 13,
+    "MIN": 322,
+    "ppg": 6.2,
+    "inPool": true
+   },
+   {
+    "personId": "2534738",
+    "name": "I. Ross",
+    "pos": "G",
+    "GP": 10,
+    "MIN": 292,
+    "ppg": 15.1,
+    "inPool": true
+   },
+   {
+    "personId": "1342734",
+    "name": "M. Astramskas",
+    "pos": "F",
+    "GP": 13,
+    "MIN": 99,
+    "ppg": 2.4,
+    "inPool": false
+   },
+   {
+    "personId": "1651515",
+    "name": "G. Brun",
+    "pos": "G",
+    "GP": 19,
+    "MIN": 93,
+    "ppg": 0.9,
+    "inPool": false
+   },
+   {
+    "personId": "2549330",
+    "name": "L. Gomez",
+    "pos": "F",
+    "GP": 4,
+    "MIN": 18,
+    "ppg": 0.5,
+    "inPool": false
+   },
+   {
+    "personId": "14735",
+    "name": "I. Loriente",
+    "pos": "SG",
+    "GP": 2,
+    "MIN": 17,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2081918",
+    "name": "L. Echeverria",
+    "pos": "C",
+    "GP": 5,
+    "MIN": 10,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2610301",
+    "name": "F. Taborda",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 2.0,
+    "inPool": false
+   },
+   {
+    "personId": "1675913",
+    "name": "J. Brisset",
+    "pos": "PG",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "BIG": {
+  "code": "BIG",
+  "name": "BIGUA",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 111.3,
+   "DRtg": 112,
+   "NetRtg": -0.7,
+   "Pace": 79.4,
+   "eFG%": 53.5,
+   "TOV%": 13.1,
+   "ORB%": 27.2,
+   "FTR": 18.8,
+   "D_eFG%": 52.8,
+   "D_TOV%": 13.9,
+   "DRB%": 66,
+   "D_FTR": 17.9
+  },
+  "reading": {
+   "explotar": "3 frente: le anotan 56 eFG ahí (liga 48), sobre la media.",
+   "quitar": "3 esquina izq: su tiro más eficiente (72 eFG vs liga 54). Cerrar ese sector.",
+   "presionar": "J. Matos, D. Hicks, M. Espinosa, T. Rodriguez: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2534718",
+    "name": "J. Matos",
+    "pos": "PG",
+    "PTS": 385,
+    "USG": 30.9,
+    "USGpct": 98.6,
+    "AST": 20.4,
+    "ASTpct": 77.9,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "2324181",
+    "name": "D. Hicks",
+    "pos": "G",
+    "PTS": 382,
+    "USG": 22,
+    "USGpct": 69.8,
+    "AST": 27,
+    "ASTpct": 90.5,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "191795",
+    "name": "S. Ottonello",
+    "pos": "PF",
+    "PTS": 220,
+    "USG": 22.6,
+    "USGpct": 76.1,
+    "AST": 12.9,
+    "ASTpct": 56.3,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "16857",
+    "name": "G. Iglesias",
+    "pos": "PF",
+    "PTS": 206,
+    "USG": 19.5,
+    "USGpct": 42.8,
+    "AST": 9.9,
+    "ASTpct": 37.4,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1924909",
+    "name": "F. Hassell",
+    "pos": "C",
+    "PTS": 170,
+    "USG": 22.2,
+    "USGpct": 71.6,
+    "AST": 7,
+    "ASTpct": 13.1,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "1942261",
+    "name": "M. Espinosa",
+    "pos": "G",
+    "PTS": 146,
+    "USG": 16.3,
+    "USGpct": 22.1,
+    "AST": 19.1,
+    "ASTpct": 73.4,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "1989296",
+    "name": "T. Rodriguez",
+    "pos": "G",
+    "PTS": 121,
+    "USG": 22.3,
+    "USGpct": 73.9,
+    "AST": 17.7,
+    "ASTpct": 70.7,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "2617486",
+    "name": "W. Reed",
+    "pos": "C",
+    "PTS": 102,
+    "USG": 21.3,
+    "USGpct": 67.1,
+    "AST": 11,
+    "ASTpct": 45.9,
+    "roleCode": "scorer",
+    "role": "anotador"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 365,
+    "sharePct": 23.6,
+    "eFG": 62.7,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 428,
+    "sharePct": 27.7,
+    "eFG": 49.1,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 120,
+    "sharePct": 7.8,
+    "eFG": 38.3,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 58,
+    "sharePct": 3.8,
+    "eFG": 72.4,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 185,
+    "sharePct": 12.0,
+    "eFG": 55.1,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 129,
+    "sharePct": 8.3,
+    "eFG": 48.8,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 199,
+    "sharePct": 12.9,
+    "eFG": 51.3,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 62,
+    "sharePct": 4.0,
+    "eFG": 53.2,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 416,
+    "sharePct": 26.3,
+    "eFG": 62.7,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 349,
+    "sharePct": 22.1,
+    "eFG": 50.7,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 171,
+    "sharePct": 10.8,
+    "eFG": 42.1,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 74,
+    "sharePct": 4.7,
+    "eFG": 42.6,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 184,
+    "sharePct": 11.6,
+    "eFG": 43.2,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 135,
+    "sharePct": 8.5,
+    "eFG": 55.6,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 190,
+    "sharePct": 12.0,
+    "eFG": 54.5,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 63,
+    "sharePct": 4.0,
+    "eFG": 57.1,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2534718",
+     "name": "J. Matos",
+     "val": 17.5
+    },
+    {
+     "personId": "2324181",
+     "name": "D. Hicks",
+     "val": 17.4
+    },
+    {
+     "personId": "1924909",
+     "name": "F. Hassell",
+     "val": 13.1
+    }
+   ],
+   "reb": [
+    {
+     "personId": "1924909",
+     "name": "F. Hassell",
+     "val": 8.5
+    },
+    {
+     "personId": "2617486",
+     "name": "W. Reed",
+     "val": 6.4
+    },
+    {
+     "personId": "2534718",
+     "name": "J. Matos",
+     "val": 6.2
+    }
+   ],
+   "ast": [
+    {
+     "personId": "2324181",
+     "name": "D. Hicks",
+     "val": 5.1
+    },
+    {
+     "personId": "2534718",
+     "name": "J. Matos",
+     "val": 3.4
+    },
+    {
+     "personId": "1942261",
+     "name": "M. Espinosa",
+     "val": 2.7
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "2324181",
+    "name": "D. Hicks",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 719,
+    "ppg": 17.4,
+    "inPool": true
+   },
+   {
+    "personId": "2534718",
+    "name": "J. Matos",
+    "pos": "PG",
+    "GP": 22,
+    "MIN": 648,
+    "ppg": 17.5,
+    "inPool": true
+   },
+   {
+    "personId": "16857",
+    "name": "G. Iglesias",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 520,
+    "ppg": 9.4,
+    "inPool": true
+   },
+   {
+    "personId": "1942261",
+    "name": "M. Espinosa",
+    "pos": "G",
+    "GP": 21,
+    "MIN": 442,
+    "ppg": 7.0,
+    "inPool": true
+   },
+   {
+    "personId": "191795",
+    "name": "S. Ottonello",
+    "pos": "PF",
+    "GP": 22,
+    "MIN": 439,
+    "ppg": 10.0,
+    "inPool": true
+   },
+   {
+    "personId": "16715",
+    "name": "B. Garcia",
+    "pos": "PG",
+    "GP": 20,
+    "MIN": 384,
+    "ppg": 4.0,
+    "inPool": true
+   },
+   {
+    "personId": "1924909",
+    "name": "F. Hassell",
+    "pos": "C",
+    "GP": 13,
+    "MIN": 329,
+    "ppg": 13.1,
+    "inPool": true
+   },
+   {
+    "personId": "16616",
+    "name": "N. Catala",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 289,
+    "ppg": 3.8,
+    "inPool": true
+   },
+   {
+    "personId": "1989296",
+    "name": "T. Rodriguez",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 279,
+    "ppg": 5.5,
+    "inPool": true
+   },
+   {
+    "personId": "2617486",
+    "name": "W. Reed",
+    "pos": "C",
+    "GP": 9,
+    "MIN": 226,
+    "ppg": 11.3,
+    "inPool": true
+   },
+   {
+    "personId": "2214818",
+    "name": "A. Payovich",
+    "pos": "F",
+    "GP": 9,
+    "MIN": 82,
+    "ppg": 1.7,
+    "inPool": false
+   },
+   {
+    "personId": "2199918",
+    "name": "J. Duran",
+    "pos": "PG",
+    "GP": 6,
+    "MIN": 34,
+    "ppg": 0.8,
+    "inPool": false
+   },
+   {
+    "personId": "2134156",
+    "name": "J. Lamas",
+    "pos": "F",
+    "GP": 5,
+    "MIN": 23,
+    "ppg": 2.6,
+    "inPool": false
+   },
+   {
+    "personId": "2544022",
+    "name": "A. Sosa",
+    "pos": "F",
+    "GP": 3,
+    "MIN": 19,
+    "ppg": 3.3,
+    "inPool": false
+   },
+   {
+    "personId": "2344218",
+    "name": "J. Diaz",
+    "pos": "PF",
+    "GP": 3,
+    "MIN": 12,
+    "ppg": 1.3,
+    "inPool": false
+   },
+   {
+    "personId": "2695203",
+    "name": "J. Gonzalez",
+    "pos": "G",
+    "GP": 1,
+    "MIN": 5,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "GOE": {
+  "code": "GOE",
+  "name": "GOES",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 103.1,
+   "DRtg": 112.8,
+   "NetRtg": -9.7,
+   "Pace": 79.2,
+   "eFG%": 49.2,
+   "TOV%": 13.5,
+   "ORB%": 25.8,
+   "FTR": 18.6,
+   "D_eFG%": 54.7,
+   "D_TOV%": 14.2,
+   "DRB%": 69.4,
+   "D_FTR": 19.7
+  },
+  "reading": {
+   "explotar": "3 esquina izq: le anotan 74 eFG ahí (liga 54), sobre la media.",
+   "quitar": "3 ala izq: su tiro más eficiente (61 eFG vs liga 50). Cerrar ese sector.",
+   "presionar": "E. Bonet, T. Cracknell, A. Acosta: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "1567203",
+    "name": "M. Oyenard",
+    "pos": "PG",
+    "PTS": 205,
+    "USG": 19.5,
+    "USGpct": 42.8,
+    "AST": 17.2,
+    "ASTpct": 67.1,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "961332",
+    "name": "E. Bonet",
+    "pos": "PG",
+    "PTS": 197,
+    "USG": 20.6,
+    "USGpct": 58.1,
+    "AST": 25.4,
+    "ASTpct": 88.7,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "2288279",
+    "name": "J. Strings",
+    "pos": "C",
+    "PTS": 175,
+    "USG": 22.2,
+    "USGpct": 71.6,
+    "AST": 6.9,
+    "ASTpct": 12.2,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "1871466",
+    "name": "A. Pruitt",
+    "pos": "PF",
+    "PTS": 155,
+    "USG": 19.2,
+    "USGpct": 40.1,
+    "AST": 10.8,
+    "ASTpct": 41.9,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2619167",
+    "name": "T. Cracknell",
+    "pos": "PG",
+    "PTS": 151,
+    "USG": 22.5,
+    "USGpct": 75.2,
+    "AST": 21.4,
+    "ASTpct": 82.4,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "16508",
+    "name": "A. Acosta",
+    "pos": "G",
+    "PTS": 147,
+    "USG": 18.5,
+    "USGpct": 36.9,
+    "AST": 23.8,
+    "ASTpct": 86.9,
+    "roleCode": "playmaker",
+    "role": "armador"
+   },
+   {
+    "personId": "17044",
+    "name": "F. Verrone",
+    "pos": "PF",
+    "PTS": 139,
+    "USG": 16.4,
+    "USGpct": 23,
+    "AST": 12.1,
+    "ASTpct": 52.7,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "571401",
+    "name": "X. Couste",
+    "pos": "F",
+    "PTS": 137,
+    "USG": 20.4,
+    "USGpct": 55,
+    "AST": 7.5,
+    "ASTpct": 18.9,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 329,
+    "sharePct": 21.4,
+    "eFG": 67.2,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 337,
+    "sharePct": 21.9,
+    "eFG": 38.0,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 194,
+    "sharePct": 12.6,
+    "eFG": 33.5,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 84,
+    "sharePct": 5.5,
+    "eFG": 53.6,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 206,
+    "sharePct": 13.4,
+    "eFG": 61.2,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 116,
+    "sharePct": 7.6,
+    "eFG": 34.9,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 193,
+    "sharePct": 12.6,
+    "eFG": 49.0,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 77,
+    "sharePct": 5.0,
+    "eFG": 46.8,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 423,
+    "sharePct": 27.9,
+    "eFG": 66.9,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 359,
+    "sharePct": 23.7,
+    "eFG": 46.0,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 149,
+    "sharePct": 9.8,
+    "eFG": 44.3,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 57,
+    "sharePct": 3.8,
+    "eFG": 73.7,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 157,
+    "sharePct": 10.3,
+    "eFG": 57.3,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 118,
+    "sharePct": 7.8,
+    "eFG": 48.3,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 180,
+    "sharePct": 11.9,
+    "eFG": 43.3,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 74,
+    "sharePct": 4.9,
+    "eFG": 66.9,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2619167",
+     "name": "T. Cracknell",
+     "val": 16.8
+    },
+    {
+     "personId": "1987397",
+     "name": "J. Josiah",
+     "val": 15.0
+    },
+    {
+     "personId": "2288279",
+     "name": "J. Strings",
+     "val": 14.6
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2288279",
+     "name": "J. Strings",
+     "val": 8.7
+    },
+    {
+     "personId": "1871466",
+     "name": "A. Pruitt",
+     "val": 8.5
+    },
+    {
+     "personId": "348404",
+     "name": "D. Nesbitt",
+     "val": 6.7
+    }
+   ],
+   "ast": [
+    {
+     "personId": "2619167",
+     "name": "T. Cracknell",
+     "val": 4.3
+    },
+    {
+     "personId": "2432773",
+     "name": "J. Hartwell",
+     "val": 4.0
+    },
+    {
+     "personId": "961332",
+     "name": "E. Bonet",
+     "val": 3.9
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "961332",
+    "name": "E. Bonet",
+    "pos": "PG",
+    "GP": 22,
+    "MIN": 551,
+    "ppg": 9.0,
+    "inPool": true
+   },
+   {
+    "personId": "1567203",
+    "name": "M. Oyenard",
+    "pos": "PG",
+    "GP": 21,
+    "MIN": 472,
+    "ppg": 9.8,
+    "inPool": true
+   },
+   {
+    "personId": "16508",
+    "name": "A. Acosta",
+    "pos": "G",
+    "GP": 18,
+    "MIN": 454,
+    "ppg": 8.2,
+    "inPool": true
+   },
+   {
+    "personId": "1871466",
+    "name": "A. Pruitt",
+    "pos": "PF",
+    "GP": 12,
+    "MIN": 401,
+    "ppg": 12.9,
+    "inPool": true
+   },
+   {
+    "personId": "2288279",
+    "name": "J. Strings",
+    "pos": "C",
+    "GP": 12,
+    "MIN": 380,
+    "ppg": 14.6,
+    "inPool": true
+   },
+   {
+    "personId": "17044",
+    "name": "F. Verrone",
+    "pos": "PF",
+    "GP": 19,
+    "MIN": 372,
+    "ppg": 7.3,
+    "inPool": true
+   },
+   {
+    "personId": "2619167",
+    "name": "T. Cracknell",
+    "pos": "PG",
+    "GP": 9,
+    "MIN": 313,
+    "ppg": 16.8,
+    "inPool": true
+   },
+   {
+    "personId": "571401",
+    "name": "X. Couste",
+    "pos": "F",
+    "GP": 16,
+    "MIN": 311,
+    "ppg": 8.6,
+    "inPool": true
+   },
+   {
+    "personId": "2261706",
+    "name": "S. Conceicao",
+    "pos": "C",
+    "GP": 10,
+    "MIN": 264,
+    "ppg": 8.2,
+    "inPool": true
+   },
+   {
+    "personId": "1987397",
+    "name": "J. Josiah",
+    "pos": "PG",
+    "GP": 8,
+    "MIN": 218,
+    "ppg": 15.0,
+    "inPool": true
+   },
+   {
+    "personId": "348404",
+    "name": "D. Nesbitt",
+    "pos": "C",
+    "GP": 7,
+    "MIN": 197,
+    "ppg": 14.3,
+    "inPool": false
+   },
+   {
+    "personId": "2154756",
+    "name": "I. Dos Santos",
+    "pos": "F",
+    "GP": 17,
+    "MIN": 168,
+    "ppg": 4.3,
+    "inPool": false
+   },
+   {
+    "personId": "2432773",
+    "name": "J. Hartwell",
+    "pos": "G",
+    "GP": 4,
+    "MIN": 127,
+    "ppg": 13.2,
+    "inPool": false
+   },
+   {
+    "personId": "1977269",
+    "name": "A. Irastorza",
+    "pos": "PF",
+    "GP": 19,
+    "MIN": 106,
+    "ppg": 2.3,
+    "inPool": false
+   },
+   {
+    "personId": "2534732",
+    "name": "A. Rand",
+    "pos": "PF",
+    "GP": 3,
+    "MIN": 56,
+    "ppg": 5.7,
+    "inPool": false
+   },
+   {
+    "personId": "825306",
+    "name": "G. Curbelo",
+    "pos": "PG",
+    "GP": 4,
+    "MIN": 16,
+    "ppg": 0.5,
+    "inPool": false
+   },
+   {
+    "personId": "2228946",
+    "name": "F. Caballero",
+    "pos": "F",
+    "GP": 4,
+    "MIN": 11,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2334035",
+    "name": "J. Terra",
+    "pos": "F",
+    "GP": 2,
+    "MIN": 3,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549326",
+    "name": "F. Gastaldi",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549327",
+    "name": "F. Rivor",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2686619",
+    "name": "R. Robaina",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "LOCAL:GOE-SERVENTICH",
+    "name": "M. Serventich",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "WEL": {
+  "code": "WEL",
+  "name": "WELCOME",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 99.3,
+   "DRtg": 116.5,
+   "NetRtg": -17.2,
+   "Pace": 81.3,
+   "eFG%": 51,
+   "TOV%": 15.6,
+   "ORB%": 18.3,
+   "FTR": 18.9,
+   "D_eFG%": 54.6,
+   "D_TOV%": 13.6,
+   "DRB%": 65.7,
+   "D_FTR": 21.6
+  },
+  "reading": {
+   "explotar": "pintura: le anotan 50 eFG ahí (liga 45), sobre la media.",
+   "quitar": "pintura: su tiro más eficiente (51 eFG vs liga 45). Cerrar ese sector.",
+   "presionar": "F. Garcia: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "312957",
+    "name": "R. Hassan",
+    "pos": "C",
+    "PTS": 265,
+    "USG": 26.3,
+    "USGpct": 90.1,
+    "AST": 9.1,
+    "ASTpct": 31.5,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "1334179",
+    "name": "F. Garcia",
+    "pos": "G",
+    "PTS": 216,
+    "USG": 21,
+    "USGpct": 62.6,
+    "AST": 23.6,
+    "ASTpct": 86,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "2096885",
+    "name": "A. Peña",
+    "pos": "PF",
+    "PTS": 211,
+    "USG": 23.1,
+    "USGpct": 77.9,
+    "AST": 10.8,
+    "ASTpct": 41.9,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "16511",
+    "name": "S. Moglia",
+    "pos": "F",
+    "PTS": 178,
+    "USG": 18.2,
+    "USGpct": 33.8,
+    "AST": 12.2,
+    "ASTpct": 54.1,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "1314581",
+    "name": "R. Previatti",
+    "pos": "PF",
+    "PTS": 111,
+    "USG": 15.1,
+    "USGpct": 14.9,
+    "AST": 8.3,
+    "ASTpct": 23.4,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2486593",
+    "name": "M. Moore",
+    "pos": "G",
+    "PTS": 102,
+    "roleCode": "low",
+    "role": "muestra <200′"
+   },
+   {
+    "personId": "909792",
+    "name": "A. Arevalo",
+    "pos": "F",
+    "PTS": 97,
+    "USG": 26.8,
+    "USGpct": 94.1,
+    "AST": 15.9,
+    "ASTpct": 63.5,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "1642407",
+    "name": "D. Pena Garcia",
+    "pos": "F",
+    "PTS": 95,
+    "USG": 14.2,
+    "USGpct": 11.3,
+    "AST": 10.6,
+    "ASTpct": 39.2,
+    "roleCode": "scorer",
+    "role": "anotador"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 338,
+    "sharePct": 23.0,
+    "eFG": 66.3,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 340,
+    "sharePct": 23.2,
+    "eFG": 50.9,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 160,
+    "sharePct": 10.9,
+    "eFG": 36.2,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 61,
+    "sharePct": 4.2,
+    "eFG": 49.2,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 156,
+    "sharePct": 10.6,
+    "eFG": 55.8,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 145,
+    "sharePct": 9.9,
+    "eFG": 42.4,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 204,
+    "sharePct": 13.9,
+    "eFG": 43.4,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 64,
+    "sharePct": 4.4,
+    "eFG": 42.2,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 462,
+    "sharePct": 28.8,
+    "eFG": 69.0,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 316,
+    "sharePct": 19.7,
+    "eFG": 49.7,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 143,
+    "sharePct": 8.9,
+    "eFG": 37.1,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 78,
+    "sharePct": 4.9,
+    "eFG": 57.7,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 189,
+    "sharePct": 11.8,
+    "eFG": 49.2,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 138,
+    "sharePct": 8.6,
+    "eFG": 45.7,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 187,
+    "sharePct": 11.7,
+    "eFG": 52.1,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 89,
+    "sharePct": 5.6,
+    "eFG": 52.2,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "312957",
+     "name": "R. Hassan",
+     "val": 20.4
+    },
+    {
+     "personId": "2096885",
+     "name": "A. Peña",
+     "val": 19.2
+    },
+    {
+     "personId": "2620317",
+     "name": "T. Ferguson",
+     "val": 11.5
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2451012",
+     "name": "A. Zaporta",
+     "val": 12.0
+    },
+    {
+     "personId": "771526",
+     "name": "R. Jackson",
+     "val": 8.3
+    },
+    {
+     "personId": "312957",
+     "name": "R. Hassan",
+     "val": 7.8
+    }
+   ],
+   "ast": [
+    {
+     "personId": "16739",
+     "name": "G. Barrera",
+     "val": 4.8
+    },
+    {
+     "personId": "1334179",
+     "name": "F. Garcia",
+     "val": 3.4
+    },
+    {
+     "personId": "2620317",
+     "name": "T. Ferguson",
+     "val": 2.4
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "1334179",
+    "name": "F. Garcia",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 512,
+    "ppg": 9.8,
+    "inPool": true
+   },
+   {
+    "personId": "16739",
+    "name": "G. Barrera",
+    "pos": "G",
+    "GP": 20,
+    "MIN": 476,
+    "ppg": 4.1,
+    "inPool": true
+   },
+   {
+    "personId": "16511",
+    "name": "S. Moglia",
+    "pos": "F",
+    "GP": 17,
+    "MIN": 428,
+    "ppg": 10.5,
+    "inPool": true
+   },
+   {
+    "personId": "312957",
+    "name": "R. Hassan",
+    "pos": "C",
+    "GP": 13,
+    "MIN": 419,
+    "ppg": 20.4,
+    "inPool": true
+   },
+   {
+    "personId": "2096885",
+    "name": "A. Peña",
+    "pos": "PF",
+    "GP": 11,
+    "MIN": 367,
+    "ppg": 19.2,
+    "inPool": true
+   },
+   {
+    "personId": "1642407",
+    "name": "D. Pena Garcia",
+    "pos": "F",
+    "GP": 20,
+    "MIN": 356,
+    "ppg": 4.8,
+    "inPool": true
+   },
+   {
+    "personId": "1314581",
+    "name": "R. Previatti",
+    "pos": "PF",
+    "GP": 21,
+    "MIN": 318,
+    "ppg": 5.3,
+    "inPool": true
+   },
+   {
+    "personId": "1645559",
+    "name": "J. Stoll",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 296,
+    "ppg": 3.0,
+    "inPool": true
+   },
+   {
+    "personId": "909792",
+    "name": "A. Arevalo",
+    "pos": "F",
+    "GP": 11,
+    "MIN": 252,
+    "ppg": 8.8,
+    "inPool": true
+   },
+   {
+    "personId": "2620317",
+    "name": "T. Ferguson",
+    "pos": "SG",
+    "GP": 8,
+    "MIN": 223,
+    "ppg": 11.5,
+    "inPool": true
+   },
+   {
+    "personId": "1719070",
+    "name": "J. Ortiz",
+    "pos": "G",
+    "GP": 11,
+    "MIN": 187,
+    "ppg": 8.5,
+    "inPool": false
+   },
+   {
+    "personId": "2486593",
+    "name": "M. Moore",
+    "pos": "G",
+    "GP": 9,
+    "MIN": 187,
+    "ppg": 11.3,
+    "inPool": false
+   },
+   {
+    "personId": "2486592",
+    "name": "D. Esparza",
+    "pos": "G",
+    "GP": 6,
+    "MIN": 127,
+    "ppg": 10.7,
+    "inPool": false
+   },
+   {
+    "personId": "2585672",
+    "name": "C. Mc Evans",
+    "pos": "G",
+    "GP": 5,
+    "MIN": 100,
+    "ppg": 10.2,
+    "inPool": false
+   },
+   {
+    "personId": "771526",
+    "name": "R. Jackson",
+    "pos": "C",
+    "GP": 3,
+    "MIN": 77,
+    "ppg": 9.0,
+    "inPool": false
+   },
+   {
+    "personId": "16985",
+    "name": "R. Cardozo",
+    "pos": "F",
+    "GP": 3,
+    "MIN": 55,
+    "ppg": 4.0,
+    "inPool": false
+   },
+   {
+    "personId": "2451012",
+    "name": "A. Zaporta",
+    "pos": "C",
+    "GP": 1,
+    "MIN": 23,
+    "ppg": 7.0,
+    "inPool": false
+   },
+   {
+    "personId": "2077420",
+    "name": "F. Sosa",
+    "pos": "F",
+    "GP": 6,
+    "MIN": 10,
+    "ppg": 0.7,
+    "inPool": false
+   },
+   {
+    "personId": "2386796",
+    "name": "T. Segui",
+    "pos": "F",
+    "GP": 4,
+    "MIN": 4,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2377994",
+    "name": "S. Martinez",
+    "pos": "F",
+    "GP": 2,
+    "MIN": 4,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549334",
+    "name": "R. Lagos",
+    "pos": "F",
+    "GP": 2,
+    "MIN": 2,
+    "ppg": 1.0,
+    "inPool": false
+   },
+   {
+    "personId": "2334029",
+    "name": "F. Giovanetti",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 2.0,
+    "inPool": false
+   },
+   {
+    "personId": "2334033",
+    "name": "M. Prota",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2702537",
+    "name": "C. Platero",
+    "pos": "C",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 0.0,
+    "inPool": false
+   }
+  ]
+ },
+ "COR": {
+  "code": "COR",
+  "name": "CORDON",
+  "ratings": {
+   "GP": 22,
+   "ORtg": 99.6,
+   "DRtg": 117.4,
+   "NetRtg": -17.8,
+   "Pace": 80.8,
+   "eFG%": 49.6,
+   "TOV%": 17,
+   "ORB%": 28.9,
+   "FTR": 19.3,
+   "D_eFG%": 56,
+   "D_TOV%": 14,
+   "DRB%": 66.4,
+   "D_FTR": 22.6
+  },
+  "reading": {
+   "explotar": "3 esquina der: le anotan 74 eFG ahí (liga 58), sobre la media.",
+   "quitar": "3 esquina der: su tiro más eficiente (68 eFG vs liga 58). Cerrar ese sector.",
+   "presionar": "F. Medina, A. Gilder Jr., P. Rusch: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
+  },
+  "generators": [
+   {
+    "personId": "2534720",
+    "name": "B. Beamer",
+    "pos": "F",
+    "PTS": 268,
+    "USG": 26.7,
+    "USGpct": 93.2,
+    "AST": 5.8,
+    "ASTpct": 7.2,
+    "roleCode": "finisher",
+    "role": "finalizador puro"
+   },
+   {
+    "personId": "15257",
+    "name": "F. Medina",
+    "pos": "G",
+    "PTS": 185,
+    "USG": 21.2,
+    "USGpct": 65.8,
+    "AST": 23,
+    "ASTpct": 84.2,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "2577763",
+    "name": "A. Gilder Jr.",
+    "pos": "PG",
+    "PTS": 165,
+    "USG": 32.7,
+    "USGpct": 99.5,
+    "AST": 21.8,
+    "ASTpct": 83.3,
+    "roleCode": "creator",
+    "role": "anota y arma"
+   },
+   {
+    "personId": "15216",
+    "name": "E. Gonzalez",
+    "pos": "F",
+    "PTS": 162,
+    "USG": 17.5,
+    "USGpct": 28.8,
+    "AST": 13.2,
+    "ASTpct": 58.1,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "983931",
+    "name": "T. Leites",
+    "pos": "F",
+    "PTS": 160,
+    "USG": 13.5,
+    "USGpct": 6.8,
+    "AST": 7.7,
+    "ASTpct": 20.3,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "2620614",
+    "name": "A. Spruill",
+    "pos": "G",
+    "PTS": 138,
+    "USG": 25.9,
+    "USGpct": 87.8,
+    "AST": 13.7,
+    "ASTpct": 59,
+    "roleCode": "scorer_vol",
+    "role": "anotador de volumen"
+   },
+   {
+    "personId": "2620318",
+    "name": "J. O'neal",
+    "pos": "F",
+    "PTS": 133,
+    "USG": 19.9,
+    "USGpct": 48.2,
+    "AST": 9,
+    "ASTpct": 28.8,
+    "roleCode": "scorer",
+    "role": "anotador"
+   },
+   {
+    "personId": "17379",
+    "name": "P. Rusch",
+    "pos": "G",
+    "PTS": 117,
+    "USG": 13.1,
+    "USGpct": 5.9,
+    "AST": 23.2,
+    "ASTpct": 85.1,
+    "roleCode": "playmaker",
+    "role": "armador"
+   }
+  ],
+  "zonesOff": [
+   {
+    "zone": "restringida",
+    "FGA": 446,
+    "sharePct": 29.9,
+    "eFG": 62.3,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 324,
+    "sharePct": 21.7,
+    "eFG": 46.0,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 163,
+    "sharePct": 10.9,
+    "eFG": 38.0,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 50,
+    "sharePct": 3.3,
+    "eFG": 45.0,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 152,
+    "sharePct": 10.2,
+    "eFG": 40.5,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 107,
+    "sharePct": 7.2,
+    "eFG": 53.3,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 184,
+    "sharePct": 12.3,
+    "eFG": 35.1,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 68,
+    "sharePct": 4.6,
+    "eFG": 68.4,
+    "leagueEFG": 58.3
+   }
+  ],
+  "zonesDef": [
+   {
+    "zone": "restringida",
+    "FGA": 451,
+    "sharePct": 28.8,
+    "eFG": 71.4,
+    "leagueEFG": 66.1
+   },
+   {
+    "zone": "pintura",
+    "FGA": 329,
+    "sharePct": 21.0,
+    "eFG": 47.4,
+    "leagueEFG": 44.6
+   },
+   {
+    "zone": "media",
+    "FGA": 138,
+    "sharePct": 8.8,
+    "eFG": 43.5,
+    "leagueEFG": 38.5
+   },
+   {
+    "zone": "3 esquina izq",
+    "FGA": 81,
+    "sharePct": 5.2,
+    "eFG": 48.1,
+    "leagueEFG": 54.3
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 187,
+    "sharePct": 12.0,
+    "eFG": 49.7,
+    "leagueEFG": 50.1
+   },
+   {
+    "zone": "3 frente",
+    "FGA": 123,
+    "sharePct": 7.9,
+    "eFG": 45.1,
+    "leagueEFG": 48.1
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 184,
+    "sharePct": 11.8,
+    "eFG": 53.0,
+    "leagueEFG": 48.4
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 71,
+    "sharePct": 4.5,
+    "eFG": 73.9,
+    "leagueEFG": 58.3
+   }
+  ],
+  "leaders": {
+   "pts": [
+    {
+     "personId": "2577763",
+     "name": "A. Gilder Jr.",
+     "val": 23.6
+    },
+    {
+     "personId": "2706600",
+     "name": "R. Perry",
+     "val": 21.0
+    },
+    {
+     "personId": "2534720",
+     "name": "B. Beamer",
+     "val": 20.6
+    }
+   ],
+   "reb": [
+    {
+     "personId": "2255313",
+     "name": "V. Andrade",
+     "val": 11.2
+    },
+    {
+     "personId": "2620318",
+     "name": "J. O'neal",
+     "val": 8.8
+    },
+    {
+     "personId": "2534726",
+     "name": "V. Clemente Baffuto",
+     "val": 7.4
+    }
+   ],
+   "ast": [
+    {
+     "personId": "2534719",
+     "name": "K. Higgins",
+     "val": 3.8
+    },
+    {
+     "personId": "2577763",
+     "name": "A. Gilder Jr.",
+     "val": 3.7
+    },
+    {
+     "personId": "17379",
+     "name": "P. Rusch",
+     "val": 3.6
+    }
+   ]
+  },
+  "roster": [
+   {
+    "personId": "17379",
+    "name": "P. Rusch",
+    "pos": "G",
+    "GP": 22,
+    "MIN": 510,
+    "ppg": 5.3,
+    "inPool": true
+   },
+   {
+    "personId": "983931",
+    "name": "T. Leites",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 510,
+    "ppg": 7.3,
+    "inPool": true
+   },
+   {
+    "personId": "15216",
+    "name": "E. Gonzalez",
+    "pos": "F",
+    "GP": 22,
+    "MIN": 489,
+    "ppg": 7.4,
+    "inPool": true
+   },
+   {
+    "personId": "15257",
+    "name": "F. Medina",
+    "pos": "G",
+    "GP": 21,
+    "MIN": 474,
+    "ppg": 8.8,
+    "inPool": true
+   },
+   {
+    "personId": "2534720",
+    "name": "B. Beamer",
+    "pos": "F",
+    "GP": 13,
+    "MIN": 394,
+    "ppg": 20.6,
+    "inPool": true
+   },
+   {
+    "personId": "2620614",
+    "name": "A. Spruill",
+    "pos": "G",
+    "GP": 8,
+    "MIN": 290,
+    "ppg": 17.2,
+    "inPool": true
+   },
+   {
+    "personId": "2620318",
+    "name": "J. O'neal",
+    "pos": "F",
+    "GP": 8,
+    "MIN": 265,
+    "ppg": 16.6,
+    "inPool": true
+   },
+   {
+    "personId": "2577763",
+    "name": "A. Gilder Jr.",
+    "pos": "PG",
+    "GP": 7,
+    "MIN": 215,
+    "ppg": 23.6,
+    "inPool": true
+   },
+   {
+    "personId": "2255313",
+    "name": "V. Andrade",
+    "pos": "C",
+    "GP": 6,
+    "MIN": 212,
+    "ppg": 13.5,
+    "inPool": true
+   },
+   {
+    "personId": "623893",
+    "name": "L. Planells",
+    "pos": "G",
+    "GP": 14,
+    "MIN": 208,
+    "ppg": 2.8,
+    "inPool": true
+   },
+   {
+    "personId": "2534726",
+    "name": "V. Clemente Baffuto",
+    "pos": "C",
+    "GP": 8,
+    "MIN": 189,
+    "ppg": 9.0,
+    "inPool": false
+   },
+   {
+    "personId": "2619903",
+    "name": "D. Higgs",
+    "pos": "G",
+    "GP": 7,
+    "MIN": 174,
+    "ppg": 13.7,
+    "inPool": false
+   },
+   {
+    "personId": "1375364",
+    "name": "T. Araujo",
+    "pos": "F",
+    "GP": 12,
+    "MIN": 145,
+    "ppg": 3.7,
+    "inPool": false
+   },
+   {
+    "personId": "1661037",
+    "name": "M. Arregui",
+    "pos": "C",
+    "GP": 9,
+    "MIN": 87,
+    "ppg": 2.7,
+    "inPool": false
+   },
+   {
+    "personId": "2534719",
+    "name": "K. Higgins",
+    "pos": "G",
+    "GP": 4,
+    "MIN": 78,
+    "ppg": 8.2,
+    "inPool": false
+   },
+   {
+    "personId": "1807060",
+    "name": "M. Viazzo",
+    "pos": "G",
+    "GP": 14,
+    "MIN": 56,
+    "ppg": 0.4,
+    "inPool": false
+   },
+   {
+    "personId": "1873515",
+    "name": "O. Senande",
+    "pos": "G",
+    "GP": 11,
+    "MIN": 52,
+    "ppg": 1.6,
+    "inPool": false
+   },
+   {
+    "personId": "2706600",
+    "name": "R. Perry",
+    "pos": "G",
+    "GP": 1,
+    "MIN": 30,
+    "ppg": 21.0,
+    "inPool": false
+   },
+   {
+    "personId": "2134158",
+    "name": "M. Schell",
+    "pos": "F",
+    "GP": 5,
+    "MIN": 7,
+    "ppg": 0.4,
+    "inPool": false
+   },
+   {
+    "personId": "2411715",
+    "name": "T. Charbonnier",
+    "pos": "C",
+    "GP": 5,
+    "MIN": 6,
+    "ppg": 0.8,
+    "inPool": false
+   },
+   {
+    "personId": "2232160",
+    "name": "S. Garcia",
+    "pos": "F",
+    "GP": 2,
+    "MIN": 3,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549323",
+    "name": "J. Agostini",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 1.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549321",
+    "name": "L. San Sebastian",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 2,
+    "ppg": 0.0,
+    "inPool": false
+   },
+   {
+    "personId": "2549322",
+    "name": "M. Macias",
+    "pos": "F",
+    "GP": 1,
+    "MIN": 1,
+    "ppg": 2.0,
+    "inPool": false
+   }
+  ]
+ }
+}
