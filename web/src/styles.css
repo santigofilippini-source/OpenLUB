@@ -19,7 +19,7 @@ body {
 .wrap { max-width: 1040px; margin: 0 auto; padding: 24px 20px 60px; }
 
 .topbar {
-  display: flex; align-items: center; gap: 12px;
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
   border-bottom: 3px solid var(--uru); padding-bottom: 12px; margin-bottom: 20px;
 }
 .topbar .logo {
@@ -134,8 +134,8 @@ a.logo { text-decoration: none; }
 .svgbox.light { background: transparent; padding: 0; }
 
 /* --- nav topbar --- */
-.topnav { margin-left: auto; display: flex; gap: 16px; }
-.topnav a { text-decoration: none; color: var(--uru); font-weight: 600; font-size: 14px; }
+.topnav { margin-left: auto; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+.topnav a { text-decoration: none; color: var(--uru); font-weight: 600; font-size: 14px; white-space: nowrap; }
 .topnav a:hover { text-decoration: underline; }
 
 /* --- recuadro de lectura táctica (TL;DR) --- */
