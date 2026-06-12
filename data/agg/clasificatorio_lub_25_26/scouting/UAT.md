@@ -5,7 +5,7 @@
 > ### 🎯 Plan en 30 segundos
 >
 > - **QUÉ EXPLOTARLES:** **media** — le anotan 45 eFG ahí (liga 39), sobre la media.
-> - **QUÉ QUITARLES:** **3 esquina der** — es su tiro más eficiente (67 eFG vs liga 58). Cerrar ese sector.
+> - **QUÉ QUITARLES:** **3 esquina izq** — es su tiro más eficiente (67 eFG vs liga 58). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **C. Alaekwe, I. Ross** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
 ## (a) Perfil de zona
@@ -17,13 +17,13 @@
 | restringida | 27.8 | 71.0 | 66.1 |  |
 | pintura | 16.6 | 45.5 | 44.6 |  |
 | media | 13.2 | 36.2 | 38.5 |  |
-| 3 esquina izq | 5.9 | 46.0 | 54.3 | 🔵 |
-| 3 ala izq | 12.0 | 40.4 | 50.1 | 🔵 |
+| 3 esquina izq | 6.7 | 66.7 | 58.3 | 🔴 |
+| 3 ala izq | 10.9 | 35.4 | 48.4 | 🔵 |
 | 3 frente | 6.8 | 43.1 | 48.1 |  |
-| 3 ala der | 10.9 | 35.4 | 48.4 | 🔵 |
-| 3 esquina der | 6.7 | 66.7 | 58.3 | 🔴 |
+| 3 ala der | 12.0 | 40.4 | 50.1 | 🔵 |
+| 3 esquina der | 5.9 | 46.0 | 54.3 | 🔵 |
 
-→ Mayor ventaja ofensiva: **3 esquina der** (eFG 66.7 vs liga 58.3).
+→ Mayor ventaja ofensiva: **3 esquina izq** (eFG 66.7 vs liga 58.3).
 
 
 **DEFENSA** (lo que le tiran los rivales; 🔵 lo defiende por debajo de la media):
@@ -33,13 +33,13 @@
 | restringida | 26.5 | 63.5 | 66.1 |  |
 | pintura | 21.4 | 43.3 | 44.6 |  |
 | media | 8.9 | 44.7 | 38.5 | 🔴 |
-| 3 esquina izq | 4.2 | 50.8 | 54.3 |  |
-| 3 ala izq | 12.4 | 52.2 | 50.1 |  |
+| 3 esquina izq | 2.7 | 37.5 | 58.3 | 🔵 |
+| 3 ala izq | 13.4 | 42.0 | 48.4 | 🔵 |
 | 3 frente | 10.5 | 49.0 | 48.1 |  |
-| 3 ala der | 13.4 | 42.0 | 48.4 | 🔵 |
-| 3 esquina der | 2.7 | 37.5 | 58.3 | 🔵 |
+| 3 ala der | 12.4 | 52.2 | 50.1 |  |
+| 3 esquina der | 4.2 | 50.8 | 54.3 |  |
 
-→ Fortaleza defensiva: **3 esquina der** (37.5 vs liga 58.3).
+→ Fortaleza defensiva: **3 esquina izq** (37.5 vs liga 58.3).
  A explotar: **media** (44.7 vs 38.5, sobre la media).
 
 

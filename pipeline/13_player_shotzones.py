@@ -107,9 +107,9 @@ def main():
     profile("M. Sarni")
     profile("E. Weaver")
 
-    # ===== GATE: golden test antes de cualquier carta =====
+    # ===== GATE: golden test (vertical + lateralidad) antes de cualquier carta =====
     print()
-    if not chart.golden_test():
+    if not chart.golden_test() or not zones.lateral_golden_test():
         print("ABORTADO: golden test no pasa, no se generan cartas."); sys.exit(1)
 
     cdir = out / "charts" / "players"

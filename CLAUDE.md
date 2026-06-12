@@ -129,6 +129,23 @@ Partido 2845330 (Peñarol-Urunday), A. Moller (#20), Período 1, sus 2 tiros de 
 Verificado contra el render oficial de FIBA LiveStats. Si tu carta no reproduce esto (encestado
 arriba o triple abajo), el eje Y está sin invertir o invertido de más. Este caso ancla el signo.
 
+## TEST DE REGRESIÓN de LATERALIDAD (izq/der — segundo golden test, OBLIGATORIO)
+El golden test de Moller solo ancla la VERTICAL (arriba/abajo): sus dos tiros eran del lado del aro,
+así que el nombre `der`/`izq` de las zonas NUNCA quedó verificado y estuvo ESPEJADO (bug detectado
+en E. Demers: sus 10 triples de "esquina der" eran en realidad de la esquina IZQUIERDA). Marco ya
+anclado (vía Moller vs sc.html): en el feed **x alto = derecha de cancha, y alto = arriba** (el
+sc.html dibuja `left:x%`, `bottom:y%`). El lado OFENSIVO se deriva de la canasta atacada (donde caen
+los tiros): atacando la canasta izquierda (x≈5) mirás al oeste → tu derecha es el norte (y alto);
+atacando la derecha (x≈95) mirás al este → tu derecha es el sur (y bajo). Cuatro esquinas de lado
+conocido (en `pipeline/11_shotzones.py::lateral_golden_test`, GATE de los pasos 11/13/15):
+- feed `x=5, y=95`  → `3 esquina der`   (canasta izq, arriba)
+- feed `x=5, y=5`   → `3 esquina izq`   (canasta izq, abajo)
+- feed `x=95, y=5`  → `3 esquina der`   (canasta der, abajo)
+- feed `x=95, y=95` → `3 esquina izq`   (canasta der, arriba)
+El fix fue 1 línea en `zone()` (`side = "der" if dy<0 else "izq"`, estaba al revés). Los PUNTOS de
+la carta ya estaban bien (render anclado); lo espejado era solo el NOMBRE de la zona. En la carta
+(aro a la IZQUIERDA, mirando al aro): esquina IZQ ofensiva = ABAJO, esquina DER ofensiva = ARRIBA.
+
 ## REGLA DE ORO de orientación (OBLIGATORIA — NO validar cartas "a ojo")
 La causa raíz del bug anterior fue validar la carta mirando si "se veía bien". Prohibido. Anclar
 SIEMPRE contra ground truth antes de dar por buena cualquier carta:

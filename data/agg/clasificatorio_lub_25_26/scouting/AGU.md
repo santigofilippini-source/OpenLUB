@@ -4,8 +4,8 @@
 
 > ### 🎯 Plan en 30 segundos
 >
-> - **QUÉ EXPLOTARLES:** **3 ala izq** — le anotan 61 eFG ahí (liga 50), sobre la media.
-> - **QUÉ QUITARLES:** **3 esquina izq** — es su tiro más eficiente (69 eFG vs liga 54). Cerrar ese sector.
+> - **QUÉ EXPLOTARLES:** **3 ala der** — le anotan 61 eFG ahí (liga 50), sobre la media.
+> - **QUÉ QUITARLES:** **3 esquina der** — es su tiro más eficiente (69 eFG vs liga 54). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **S. Vidal, J. Santiso, D. Sims** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
 ## (a) Perfil de zona
@@ -17,13 +17,13 @@
 | restringida | 29.2 | 63.7 | 66.1 |  |
 | pintura | 18.9 | 47.8 | 44.6 |  |
 | media | 9.6 | 44.0 | 38.5 |  |
-| 3 esquina izq | 4.9 | 68.8 | 54.3 | 🔴 |
-| 3 ala izq | 11.4 | 52.7 | 50.1 |  |
+| 3 esquina izq | 5.4 | 63.8 | 58.3 |  |
+| 3 ala izq | 11.1 | 54.3 | 48.4 |  |
 | 3 frente | 9.5 | 54.6 | 48.1 | 🔴 |
-| 3 ala der | 11.1 | 54.3 | 48.4 |  |
-| 3 esquina der | 5.4 | 63.8 | 58.3 |  |
+| 3 ala der | 11.4 | 52.7 | 50.1 |  |
+| 3 esquina der | 4.9 | 68.8 | 54.3 | 🔴 |
 
-→ Mayor ventaja ofensiva: **3 esquina izq** (eFG 68.8 vs liga 54.3).
+→ Mayor ventaja ofensiva: **3 esquina der** (eFG 68.8 vs liga 54.3).
 
 
 **DEFENSA** (lo que le tiran los rivales; 🔵 lo defiende por debajo de la media):
@@ -33,14 +33,14 @@
 | restringida | 30.6 | 61.0 | 66.1 |  |
 | pintura | 20.1 | 44.8 | 44.6 |  |
 | media | 11.0 | 27.6 | 38.5 | 🔵 |
-| 3 esquina izq | 3.5 | 57.3 | 54.3 |  |
-| 3 ala izq | 10.8 | 60.5 | 50.1 | 🔴 |
+| 3 esquina izq | 4.6 | 59.6 | 58.3 |  |
+| 3 ala izq | 10.8 | 50.0 | 48.4 |  |
 | 3 frente | 8.6 | 43.8 | 48.1 |  |
-| 3 ala der | 10.8 | 50.0 | 48.4 |  |
-| 3 esquina der | 4.6 | 59.6 | 58.3 |  |
+| 3 ala der | 10.8 | 60.5 | 50.1 | 🔴 |
+| 3 esquina der | 3.5 | 57.3 | 54.3 |  |
 
 → Fortaleza defensiva: **media** (27.6 vs liga 38.5).
- A explotar: **3 ala izq** (60.5 vs 50.1, sobre la media).
+ A explotar: **3 ala der** (60.5 vs 50.1, sobre la media).
 
 
 ## (b) Generadores (PTS × USG% × AST%)

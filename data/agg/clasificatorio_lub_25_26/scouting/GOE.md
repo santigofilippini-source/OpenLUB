@@ -4,8 +4,8 @@
 
 > ### 🎯 Plan en 30 segundos
 >
-> - **QUÉ EXPLOTARLES:** **3 esquina izq** — le anotan 74 eFG ahí (liga 54), sobre la media.
-> - **QUÉ QUITARLES:** **3 ala izq** — es su tiro más eficiente (61 eFG vs liga 50). Cerrar ese sector.
+> - **QUÉ EXPLOTARLES:** **3 esquina der** — le anotan 74 eFG ahí (liga 54), sobre la media.
+> - **QUÉ QUITARLES:** **3 ala der** — es su tiro más eficiente (61 eFG vs liga 50). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **E. Bonet, T. Cracknell, A. Acosta** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
 ## (a) Perfil de zona
@@ -17,13 +17,13 @@
 | restringida | 21.4 | 67.2 | 66.1 |  |
 | pintura | 21.9 | 38.0 | 44.6 | 🔵 |
 | media | 12.6 | 33.5 | 38.5 |  |
-| 3 esquina izq | 5.5 | 53.6 | 54.3 |  |
-| 3 ala izq | 13.4 | 61.2 | 50.1 | 🔴 |
+| 3 esquina izq | 5.0 | 46.8 | 58.3 | 🔵 |
+| 3 ala izq | 12.6 | 49.0 | 48.4 |  |
 | 3 frente | 7.6 | 34.9 | 48.1 | 🔵 |
-| 3 ala der | 12.6 | 49.0 | 48.4 |  |
-| 3 esquina der | 5.0 | 46.8 | 58.3 | 🔵 |
+| 3 ala der | 13.4 | 61.2 | 50.1 | 🔴 |
+| 3 esquina der | 5.5 | 53.6 | 54.3 |  |
 
-→ Mayor ventaja ofensiva: **3 ala izq** (eFG 61.2 vs liga 50.1).
+→ Mayor ventaja ofensiva: **3 ala der** (eFG 61.2 vs liga 50.1).
 
 
 **DEFENSA** (lo que le tiran los rivales; 🔵 lo defiende por debajo de la media):
@@ -33,14 +33,14 @@
 | restringida | 27.9 | 66.9 | 66.1 |  |
 | pintura | 23.7 | 46.0 | 44.6 |  |
 | media | 9.8 | 44.3 | 38.5 |  |
-| 3 esquina izq | 3.8 | 73.7 | 54.3 | 🔴 |
-| 3 ala izq | 10.3 | 57.3 | 50.1 | 🔴 |
+| 3 esquina izq | 4.9 | 66.9 | 58.3 | 🔴 |
+| 3 ala izq | 11.9 | 43.3 | 48.4 |  |
 | 3 frente | 7.8 | 48.3 | 48.1 |  |
-| 3 ala der | 11.9 | 43.3 | 48.4 |  |
-| 3 esquina der | 4.9 | 66.9 | 58.3 | 🔴 |
+| 3 ala der | 10.3 | 57.3 | 50.1 | 🔴 |
+| 3 esquina der | 3.8 | 73.7 | 54.3 | 🔴 |
 
-→ Fortaleza defensiva: **3 ala der** (43.3 vs liga 48.4).
- A explotar: **3 esquina izq** (73.7 vs 54.3, sobre la media).
+→ Fortaleza defensiva: **3 ala izq** (43.3 vs liga 48.4).
+ A explotar: **3 esquina der** (73.7 vs 54.3, sobre la media).
 
 
 ## (b) Generadores (PTS × USG% × AST%)

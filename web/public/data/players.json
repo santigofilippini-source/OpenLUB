@@ -124,17 +124,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 5,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 17,
+    "FGM": 9,
+    "FGpct": 52.9,
+    "eFG": 79.4
    },
    {
     "zone": "3 ala izq",
-    "FGA": 32,
-    "FGM": 10,
-    "FGpct": 31.2,
-    "eFG": 46.9
+    "FGA": 25,
+    "FGM": 11,
+    "FGpct": 44.0,
+    "eFG": 66.0
    },
    {
     "zone": "3 frente",
@@ -145,17 +145,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 11,
-    "FGpct": 44.0,
-    "eFG": 66.0
+    "FGA": 32,
+    "FGM": 10,
+    "FGpct": 31.2,
+    "eFG": 46.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 17,
-    "FGM": 9,
-    "FGpct": 52.9,
-    "eFG": 79.4
+    "FGA": 10,
+    "FGM": 5,
+    "FGpct": 50.0,
+    "eFG": 75.0
    }
   ],
   "onoff": {
@@ -1867,17 +1867,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 12,
-    "FGM": 8,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 10,
+    "FGM": 2,
+    "FGpct": 20.0,
+    "eFG": 30.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 57,
-    "FGM": 19,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 41,
+    "FGM": 15,
+    "FGpct": 36.6,
+    "eFG": 54.9
    },
    {
     "zone": "3 frente",
@@ -1888,17 +1888,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 41,
-    "FGM": 15,
-    "FGpct": 36.6,
-    "eFG": 54.9
+    "FGA": 57,
+    "FGM": 19,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 10,
-    "FGM": 2,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 12,
+    "FGM": 8,
+    "FGpct": 66.7,
+    "eFG": 100.0
    }
   ],
   "onoff": {
@@ -3690,17 +3690,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
-    "FGM": 2,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 6,
+    "FGM": 5,
+    "FGpct": 83.3,
+    "eFG": 125.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 26,
-    "FGM": 13,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 35,
+    "FGM": 19,
+    "FGpct": 54.3,
+    "eFG": 81.4
    },
    {
     "zone": "3 frente",
@@ -3711,17 +3711,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 35,
-    "FGM": 19,
-    "FGpct": 54.3,
-    "eFG": 81.4
+    "FGA": 26,
+    "FGM": 13,
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 5,
-    "FGpct": 83.3,
-    "eFG": 125.0
+    "FGA": 3,
+    "FGM": 2,
+    "FGpct": 66.7,
+    "eFG": 100.0
    }
   ],
   "onoff": {
@@ -5208,17 +5208,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 14,
-    "FGM": 5,
-    "FGpct": 35.7,
-    "eFG": 53.6
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 27,
-    "FGM": 6,
-    "FGpct": 22.2,
-    "eFG": 33.3
+    "FGA": 22,
+    "FGM": 3,
+    "FGpct": 13.6,
+    "eFG": 20.5
    },
    {
     "zone": "3 frente",
@@ -5229,17 +5229,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 22,
-    "FGM": 3,
-    "FGpct": 13.6,
-    "eFG": 20.5
+    "FGA": 27,
+    "FGM": 6,
+    "FGpct": 22.2,
+    "eFG": 33.3
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 14,
+    "FGM": 5,
+    "FGpct": 35.7,
+    "eFG": 53.6
    }
   ],
   "onoff": {
@@ -6615,18 +6615,18 @@
     "eFG": 42.7
    },
    {
-    "zone": "3 ala izq",
-    "FGA": 4,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
-   },
-   {
     "zone": "3 frente",
     "FGA": 2,
     "FGM": 1,
     "FGpct": 50.0,
     "eFG": 75.0
+   },
+   {
+    "zone": "3 ala der",
+    "FGA": 4,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -7943,17 +7943,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 8,
-    "FGM": 3,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 10,
+    "FGM": 7,
+    "FGpct": 70.0,
+    "eFG": 105.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 55,
-    "FGM": 23,
-    "FGpct": 41.8,
-    "eFG": 62.7
+    "FGA": 51,
+    "FGM": 20,
+    "FGpct": 39.2,
+    "eFG": 58.8
    },
    {
     "zone": "3 frente",
@@ -7964,17 +7964,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 51,
-    "FGM": 20,
-    "FGpct": 39.2,
-    "eFG": 58.8
+    "FGA": 55,
+    "FGM": 23,
+    "FGpct": 41.8,
+    "eFG": 62.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 10,
-    "FGM": 7,
-    "FGpct": 70.0,
-    "eFG": 105.0
+    "FGA": 8,
+    "FGM": 3,
+    "FGpct": 37.5,
+    "eFG": 56.2
    }
   ],
   "onoff": {
@@ -9361,17 +9361,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 2,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 11,
+    "FGM": 6,
+    "FGpct": 54.5,
+    "eFG": 81.8
    },
    {
     "zone": "3 ala izq",
-    "FGA": 38,
-    "FGM": 11,
-    "FGpct": 28.9,
-    "eFG": 43.4
+    "FGA": 35,
+    "FGM": 16,
+    "FGpct": 45.7,
+    "eFG": 68.6
    },
    {
     "zone": "3 frente",
@@ -9382,17 +9382,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 35,
-    "FGM": 16,
-    "FGpct": 45.7,
-    "eFG": 68.6
+    "FGA": 38,
+    "FGM": 11,
+    "FGpct": 28.9,
+    "eFG": 43.4
    },
    {
     "zone": "3 esquina der",
-    "FGA": 11,
-    "FGM": 6,
-    "FGpct": 54.5,
-    "eFG": 81.8
+    "FGA": 10,
+    "FGM": 2,
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -10584,17 +10584,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 7,
-    "FGpct": 70.0,
-    "eFG": 105.0
+    "FGA": 9,
+    "FGM": 6,
+    "FGpct": 66.7,
+    "eFG": 100.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 23,
-    "FGM": 11,
-    "FGpct": 47.8,
-    "eFG": 71.7
+    "FGA": 24,
+    "FGM": 6,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 frente",
@@ -10605,17 +10605,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 24,
-    "FGM": 6,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 23,
+    "FGM": 11,
+    "FGpct": 47.8,
+    "eFG": 71.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 6,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 10,
+    "FGM": 7,
+    "FGpct": 70.0,
+    "eFG": 105.0
    }
   ],
   "onoff": {
@@ -11767,17 +11767,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGA": 4,
+    "FGM": 2,
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 27,
-    "FGM": 6,
-    "FGpct": 22.2,
-    "eFG": 33.3
+    "FGA": 45,
+    "FGM": 18,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 frente",
@@ -11788,17 +11788,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 45,
-    "FGM": 18,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 27,
+    "FGM": 6,
+    "FGpct": 22.2,
+    "eFG": 33.3
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
-    "FGM": 2,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 6,
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    }
   ],
   "onoff": {
@@ -13155,17 +13155,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 21,
-    "FGM": 7,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 17,
+    "FGM": 11,
+    "FGpct": 64.7,
+    "eFG": 97.1
    },
    {
     "zone": "3 ala izq",
-    "FGA": 33,
-    "FGM": 14,
-    "FGpct": 42.4,
-    "eFG": 63.6
+    "FGA": 25,
+    "FGM": 6,
+    "FGpct": 24.0,
+    "eFG": 36.0
    },
    {
     "zone": "3 frente",
@@ -13176,17 +13176,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 6,
-    "FGpct": 24.0,
-    "eFG": 36.0
+    "FGA": 33,
+    "FGM": 14,
+    "FGpct": 42.4,
+    "eFG": 63.6
    },
    {
     "zone": "3 esquina der",
-    "FGA": 17,
-    "FGM": 11,
-    "FGpct": 64.7,
-    "eFG": 97.1
+    "FGA": 21,
+    "FGM": 7,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -14463,17 +14463,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 18,
-    "FGM": 7,
-    "FGpct": 38.9,
-    "eFG": 58.3
+    "FGA": 8,
+    "FGM": 1,
+    "FGpct": 12.5,
+    "eFG": 18.8
    },
    {
     "zone": "3 ala izq",
-    "FGA": 24,
-    "FGM": 10,
-    "FGpct": 41.7,
-    "eFG": 62.5
+    "FGA": 19,
+    "FGM": 6,
+    "FGpct": 31.6,
+    "eFG": 47.4
    },
    {
     "zone": "3 frente",
@@ -14484,17 +14484,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 19,
-    "FGM": 6,
-    "FGpct": 31.6,
-    "eFG": 47.4
+    "FGA": 24,
+    "FGM": 10,
+    "FGpct": 41.7,
+    "eFG": 62.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 8,
-    "FGM": 1,
-    "FGpct": 12.5,
-    "eFG": 18.8
+    "FGA": 18,
+    "FGM": 7,
+    "FGpct": 38.9,
+    "eFG": 58.3
    }
   ],
   "onoff": {
@@ -15976,17 +15976,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 6,
-    "FGpct": 60.0,
-    "eFG": 90.0
+    "FGA": 19,
+    "FGM": 8,
+    "FGpct": 42.1,
+    "eFG": 63.2
    },
    {
     "zone": "3 ala izq",
-    "FGA": 16,
-    "FGM": 6,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 18,
+    "FGM": 9,
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 frente",
@@ -15997,17 +15997,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 18,
-    "FGM": 9,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 16,
+    "FGM": 6,
+    "FGpct": 37.5,
+    "eFG": 56.2
    },
    {
     "zone": "3 esquina der",
-    "FGA": 19,
-    "FGM": 8,
-    "FGpct": 42.1,
-    "eFG": 63.2
+    "FGA": 10,
+    "FGM": 6,
+    "FGpct": 60.0,
+    "eFG": 90.0
    }
   ],
   "onoff": {
@@ -17349,17 +17349,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 2,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 16,
+    "FGM": 6,
+    "FGpct": 37.5,
+    "eFG": 56.2
    },
    {
     "zone": "3 ala izq",
-    "FGA": 34,
-    "FGM": 14,
-    "FGpct": 41.2,
-    "eFG": 61.8
+    "FGA": 38,
+    "FGM": 15,
+    "FGpct": 39.5,
+    "eFG": 59.2
    },
    {
     "zone": "3 frente",
@@ -17370,17 +17370,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 38,
-    "FGM": 15,
-    "FGpct": 39.5,
-    "eFG": 59.2
+    "FGA": 34,
+    "FGM": 14,
+    "FGpct": 41.2,
+    "eFG": 61.8
    },
    {
     "zone": "3 esquina der",
-    "FGA": 16,
-    "FGM": 6,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 10,
+    "FGM": 2,
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -18766,16 +18766,9 @@
     "eFG": 26.5
    },
    {
-    "zone": "3 esquina izq",
-    "FGA": 2,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
-   },
-   {
     "zone": "3 ala izq",
-    "FGA": 36,
-    "FGM": 12,
+    "FGA": 30,
+    "FGM": 10,
     "FGpct": 33.3,
     "eFG": 50.0
    },
@@ -18788,10 +18781,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 30,
-    "FGM": 10,
+    "FGA": 36,
+    "FGM": 12,
     "FGpct": 33.3,
     "eFG": 50.0
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 2,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -20173,17 +20173,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 4,
+    "FGM": 3,
+    "FGpct": 75.0,
+    "eFG": 112.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 2,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 14,
+    "FGM": 5,
+    "FGpct": 35.7,
+    "eFG": 53.6
    },
    {
     "zone": "3 frente",
@@ -20194,17 +20194,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 14,
-    "FGM": 5,
-    "FGpct": 35.7,
-    "eFG": 53.6
+    "FGA": 2,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
-    "FGM": 3,
-    "FGpct": 75.0,
-    "eFG": 112.5
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -21226,17 +21226,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 4,
+    "FGM": 3,
+    "FGpct": 75.0,
+    "eFG": 112.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 20,
-    "FGM": 8,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 25,
+    "FGM": 3,
+    "FGpct": 12.0,
+    "eFG": 18.0
    },
    {
     "zone": "3 frente",
@@ -21247,17 +21247,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 3,
-    "FGpct": 12.0,
-    "eFG": 18.0
+    "FGA": 20,
+    "FGM": 8,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
-    "FGM": 3,
-    "FGpct": 75.0,
-    "eFG": 112.5
+    "FGA": 5,
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    }
   ],
   "onoff": {
@@ -22364,17 +22364,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 8,
-    "FGM": 3,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 21,
+    "FGM": 9,
+    "FGpct": 42.9,
+    "eFG": 64.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 32,
-    "FGM": 7,
-    "FGpct": 21.9,
-    "eFG": 32.8
+    "FGA": 47,
+    "FGM": 20,
+    "FGpct": 42.6,
+    "eFG": 63.8
    },
    {
     "zone": "3 frente",
@@ -22385,17 +22385,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 47,
-    "FGM": 20,
-    "FGpct": 42.6,
-    "eFG": 63.8
+    "FGA": 32,
+    "FGM": 7,
+    "FGpct": 21.9,
+    "eFG": 32.8
    },
    {
     "zone": "3 esquina der",
-    "FGA": 21,
-    "FGM": 9,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 8,
+    "FGM": 3,
+    "FGpct": 37.5,
+    "eFG": 56.2
    }
   ],
   "onoff": {
@@ -23602,10 +23602,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 7,
-    "FGM": 1,
-    "FGpct": 14.3,
-    "eFG": 21.4
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -23616,10 +23616,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 7,
+    "FGM": 1,
+    "FGpct": 14.3,
+    "eFG": 21.4
    }
   ],
   "onoff": {
@@ -24726,17 +24726,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 2,
+    "FGA": 1,
     "FGM": 1,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGpct": 100.0,
+    "eFG": 150.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 21,
+    "FGA": 23,
     "FGM": 6,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGpct": 26.1,
+    "eFG": 39.1
    },
    {
     "zone": "3 frente",
@@ -24747,17 +24747,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 23,
+    "FGA": 21,
     "FGM": 6,
-    "FGpct": 26.1,
-    "eFG": 39.1
+    "FGpct": 28.6,
+    "eFG": 42.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 1,
+    "FGA": 2,
     "FGM": 1,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGpct": 50.0,
+    "eFG": 75.0
    }
   ],
   "onoff": {
@@ -25929,17 +25929,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 13,
-    "FGM": 3,
-    "FGpct": 23.1,
-    "eFG": 34.6
+    "FGA": 16,
+    "FGM": 5,
+    "FGpct": 31.2,
+    "eFG": 46.9
    },
    {
     "zone": "3 ala izq",
-    "FGA": 23,
-    "FGM": 7,
-    "FGpct": 30.4,
-    "eFG": 45.7
+    "FGA": 22,
+    "FGM": 10,
+    "FGpct": 45.5,
+    "eFG": 68.2
    },
    {
     "zone": "3 frente",
@@ -25950,17 +25950,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 22,
-    "FGM": 10,
-    "FGpct": 45.5,
-    "eFG": 68.2
+    "FGA": 23,
+    "FGM": 7,
+    "FGpct": 30.4,
+    "eFG": 45.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 16,
-    "FGM": 5,
-    "FGpct": 31.2,
-    "eFG": 46.9
+    "FGA": 13,
+    "FGM": 3,
+    "FGpct": 23.1,
+    "eFG": 34.6
    }
   ],
   "onoff": {
@@ -28221,16 +28221,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 8,
-    "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGM": 1,
+    "FGpct": 12.5,
+    "eFG": 18.8
    },
    {
     "zone": "3 ala izq",
-    "FGA": 27,
-    "FGM": 7,
-    "FGpct": 25.9,
-    "eFG": 38.9
+    "FGA": 30,
+    "FGM": 12,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 frente",
@@ -28241,17 +28241,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 30,
-    "FGM": 12,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 27,
+    "FGM": 7,
+    "FGpct": 25.9,
+    "eFG": 38.9
    },
    {
     "zone": "3 esquina der",
     "FGA": 8,
-    "FGM": 1,
-    "FGpct": 12.5,
-    "eFG": 18.8
+    "FGM": 2,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -29373,17 +29373,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
-    "FGM": 1,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 14,
-    "FGM": 6,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 7,
+    "FGM": 2,
+    "FGpct": 28.6,
+    "eFG": 42.9
    },
    {
     "zone": "3 frente",
@@ -29394,17 +29394,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 7,
-    "FGM": 2,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGA": 14,
+    "FGM": 6,
+    "FGpct": 42.9,
+    "eFG": 64.3
    },
    {
     "zone": "3 esquina der",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 3,
+    "FGM": 1,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -30420,15 +30420,15 @@
     "eFG": 27.3
    },
    {
-    "zone": "3 frente",
-    "FGA": 2,
+    "zone": "3 esquina izq",
+    "FGA": 1,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
    },
    {
-    "zone": "3 esquina der",
-    "FGA": 1,
+    "zone": "3 frente",
+    "FGA": 2,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
@@ -31343,17 +31343,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 6,
-    "FGpct": 60.0,
-    "eFG": 90.0
+    "FGA": 6,
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 23,
-    "FGM": 10,
-    "FGpct": 43.5,
-    "eFG": 65.2
+    "FGA": 29,
+    "FGM": 6,
+    "FGpct": 20.7,
+    "eFG": 31.0
    },
    {
     "zone": "3 frente",
@@ -31364,17 +31364,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 29,
-    "FGM": 6,
-    "FGpct": 20.7,
-    "eFG": 31.0
+    "FGA": 23,
+    "FGM": 10,
+    "FGpct": 43.5,
+    "eFG": 65.2
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGA": 10,
+    "FGM": 6,
+    "FGpct": 60.0,
+    "eFG": 90.0
    }
   ],
   "onoff": {
@@ -32586,17 +32586,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 14,
-    "FGM": 5,
-    "FGpct": 35.7,
-    "eFG": 53.6
+    "FGA": 20,
+    "FGM": 11,
+    "FGpct": 55.0,
+    "eFG": 82.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 33,
-    "FGM": 9,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGA": 31,
+    "FGM": 13,
+    "FGpct": 41.9,
+    "eFG": 62.9
    },
    {
     "zone": "3 frente",
@@ -32607,17 +32607,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 31,
-    "FGM": 13,
-    "FGpct": 41.9,
-    "eFG": 62.9
+    "FGA": 33,
+    "FGM": 9,
+    "FGpct": 27.3,
+    "eFG": 40.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 20,
-    "FGM": 11,
-    "FGpct": 55.0,
-    "eFG": 82.5
+    "FGA": 14,
+    "FGM": 5,
+    "FGpct": 35.7,
+    "eFG": 53.6
    }
   ],
   "onoff": {
@@ -33699,17 +33699,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 9,
-    "FGM": 6,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 7,
+    "FGM": 5,
+    "FGpct": 71.4,
+    "eFG": 107.1
    },
    {
     "zone": "3 ala izq",
-    "FGA": 21,
-    "FGM": 12,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGA": 26,
+    "FGM": 13,
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 frente",
@@ -33720,17 +33720,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 26,
-    "FGM": 13,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 21,
+    "FGM": 12,
+    "FGpct": 57.1,
+    "eFG": 85.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 5,
-    "FGpct": 71.4,
-    "eFG": 107.1
+    "FGA": 9,
+    "FGM": 6,
+    "FGpct": 66.7,
+    "eFG": 100.0
    }
   ],
   "onoff": {
@@ -34707,17 +34707,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 17,
-    "FGM": 6,
-    "FGpct": 35.3,
-    "eFG": 52.9
+    "FGA": 24,
+    "FGM": 9,
+    "FGpct": 37.5,
+    "eFG": 56.2
    },
    {
     "zone": "3 ala izq",
-    "FGA": 35,
-    "FGM": 11,
-    "FGpct": 31.4,
-    "eFG": 47.1
+    "FGA": 33,
+    "FGM": 14,
+    "FGpct": 42.4,
+    "eFG": 63.6
    },
    {
     "zone": "3 frente",
@@ -34728,17 +34728,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 33,
-    "FGM": 14,
-    "FGpct": 42.4,
-    "eFG": 63.6
+    "FGA": 35,
+    "FGM": 11,
+    "FGpct": 31.4,
+    "eFG": 47.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 24,
-    "FGM": 9,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 17,
+    "FGM": 6,
+    "FGpct": 35.3,
+    "eFG": 52.9
    }
   ],
   "onoff": {
@@ -35845,10 +35845,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 8,
-    "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 7,
+    "FGM": 1,
+    "FGpct": 14.3,
+    "eFG": 21.4
    },
    {
     "zone": "3 frente",
@@ -35859,10 +35859,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 7,
-    "FGM": 1,
-    "FGpct": 14.3,
-    "eFG": 21.4
+    "FGA": 8,
+    "FGM": 2,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -36641,10 +36641,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 26,
-    "FGM": 14,
-    "FGpct": 53.8,
-    "eFG": 80.8
+    "FGA": 16,
+    "FGM": 4,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 frente",
@@ -36655,10 +36655,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 16,
-    "FGM": 4,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 26,
+    "FGM": 14,
+    "FGpct": 53.8,
+    "eFG": 80.8
    },
    {
     "zone": "3 esquina der",
@@ -37712,17 +37712,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 3,
-    "FGpct": 60.0,
-    "eFG": 90.0
+    "FGA": 4,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 14,
+    "FGM": 4,
+    "FGpct": 28.6,
+    "eFG": 42.9
    },
    {
     "zone": "3 frente",
@@ -37733,17 +37733,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 14,
-    "FGM": 4,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 5,
+    "FGM": 3,
+    "FGpct": 60.0,
+    "eFG": 90.0
    }
   ],
   "onoff": {
@@ -38710,17 +38710,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 11,
-    "FGM": 3,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGA": 6,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 27,
-    "FGM": 12,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGA": 37,
+    "FGM": 16,
+    "FGpct": 43.2,
+    "eFG": 64.9
    },
    {
     "zone": "3 frente",
@@ -38731,17 +38731,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 37,
-    "FGM": 16,
-    "FGpct": 43.2,
-    "eFG": 64.9
+    "FGA": 27,
+    "FGM": 12,
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 11,
+    "FGM": 3,
+    "FGpct": 27.3,
+    "eFG": 40.9
    }
   ],
   "onoff": {
@@ -39773,31 +39773,31 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 5,
+    "FGM": 1,
+    "FGpct": 20.0,
+    "eFG": 30.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
-   },
-   {
-    "zone": "3 ala der",
     "FGA": 8,
     "FGM": 1,
     "FGpct": 12.5,
     "eFG": 18.8
    },
    {
-    "zone": "3 esquina der",
-    "FGA": 5,
+    "zone": "3 ala der",
+    "FGA": 4,
     "FGM": 1,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGpct": 25.0,
+    "eFG": 37.5
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -40619,17 +40619,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 8,
-    "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 6,
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 23,
-    "FGM": 9,
-    "FGpct": 39.1,
-    "eFG": 58.7
+    "FGA": 27,
+    "FGM": 7,
+    "FGpct": 25.9,
+    "eFG": 38.9
    },
    {
     "zone": "3 frente",
@@ -40640,17 +40640,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 27,
-    "FGM": 7,
-    "FGpct": 25.9,
-    "eFG": 38.9
+    "FGA": 23,
+    "FGM": 9,
+    "FGpct": 39.1,
+    "eFG": 58.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGA": 8,
+    "FGM": 2,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -41712,17 +41712,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 4,
-    "FGM": 4,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGA": 8,
+    "FGM": 2,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 ala izq",
     "FGA": 31,
-    "FGM": 13,
-    "FGpct": 41.9,
-    "eFG": 62.9
+    "FGM": 9,
+    "FGpct": 29.0,
+    "eFG": 43.5
    },
    {
     "zone": "3 frente",
@@ -41734,16 +41734,16 @@
    {
     "zone": "3 ala der",
     "FGA": 31,
-    "FGM": 9,
-    "FGpct": 29.0,
-    "eFG": 43.5
+    "FGM": 13,
+    "FGpct": 41.9,
+    "eFG": 62.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 8,
-    "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 4,
+    "FGM": 4,
+    "FGpct": 100.0,
+    "eFG": 150.0
    }
   ],
   "onoff": {
@@ -42725,17 +42725,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 8,
+    "FGM": 1,
+    "FGpct": 12.5,
+    "eFG": 18.8
    },
    {
     "zone": "3 ala izq",
-    "FGA": 12,
-    "FGM": 5,
-    "FGpct": 41.7,
-    "eFG": 62.5
+    "FGA": 13,
+    "FGM": 4,
+    "FGpct": 30.8,
+    "eFG": 46.2
    },
    {
     "zone": "3 frente",
@@ -42746,17 +42746,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 13,
-    "FGM": 4,
-    "FGpct": 30.8,
-    "eFG": 46.2
+    "FGA": 12,
+    "FGM": 5,
+    "FGpct": 41.7,
+    "eFG": 62.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 8,
-    "FGM": 1,
-    "FGpct": 12.5,
-    "eFG": 18.8
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -43708,10 +43708,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 5,
-    "FGM": 1,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 9,
+    "FGM": 3,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -43722,10 +43722,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 9,
-    "FGM": 3,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 5,
+    "FGM": 1,
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -44462,17 +44462,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 9,
+    "FGM": 4,
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 ala izq",
-    "FGA": 21,
-    "FGM": 5,
-    "FGpct": 23.8,
-    "eFG": 35.7
+    "FGA": 33,
+    "FGM": 8,
+    "FGpct": 24.2,
+    "eFG": 36.4
    },
    {
     "zone": "3 frente",
@@ -44483,17 +44483,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 33,
-    "FGM": 8,
-    "FGpct": 24.2,
-    "eFG": 36.4
+    "FGA": 21,
+    "FGM": 5,
+    "FGpct": 23.8,
+    "eFG": 35.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 4,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -45605,17 +45605,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 14,
-    "FGM": 10,
-    "FGpct": 71.4,
-    "eFG": 107.1
+    "FGA": 8,
+    "FGM": 3,
+    "FGpct": 37.5,
+    "eFG": 56.2
    },
    {
     "zone": "3 ala izq",
-    "FGA": 27,
-    "FGM": 8,
-    "FGpct": 29.6,
-    "eFG": 44.4
+    "FGA": 22,
+    "FGM": 6,
+    "FGpct": 27.3,
+    "eFG": 40.9
    },
    {
     "zone": "3 frente",
@@ -45626,17 +45626,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 22,
-    "FGM": 6,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGA": 27,
+    "FGM": 8,
+    "FGpct": 29.6,
+    "eFG": 44.4
    },
    {
     "zone": "3 esquina der",
-    "FGA": 8,
-    "FGM": 3,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 14,
+    "FGM": 10,
+    "FGpct": 71.4,
+    "eFG": 107.1
    }
   ],
   "onoff": {
@@ -47336,17 +47336,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 1,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 6,
+    "FGM": 4,
+    "FGpct": 66.7,
+    "eFG": 100.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 31,
-    "FGM": 9,
-    "FGpct": 29.0,
-    "eFG": 43.5
+    "FGA": 24,
+    "FGM": 10,
+    "FGpct": 41.7,
+    "eFG": 62.5
    },
    {
     "zone": "3 frente",
@@ -47357,17 +47357,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 24,
-    "FGM": 10,
-    "FGpct": 41.7,
-    "eFG": 62.5
+    "FGA": 31,
+    "FGM": 9,
+    "FGpct": 29.0,
+    "eFG": 43.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 4,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 5,
+    "FGM": 1,
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -48333,25 +48333,25 @@
     "eFG": 50.0
    },
    {
+    "zone": "3 esquina izq",
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
+   },
+   {
     "zone": "3 frente",
     "FGA": 6,
     "FGM": 4,
     "FGpct": 66.7,
     "eFG": 100.0
-   },
-   {
-    "zone": "3 ala der",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
-   },
-   {
-    "zone": "3 esquina der",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -49027,18 +49027,11 @@
     "eFG": 23.5
    },
    {
-    "zone": "3 esquina izq",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
-   },
-   {
     "zone": "3 ala izq",
-    "FGA": 18,
-    "FGM": 5,
-    "FGpct": 27.8,
-    "eFG": 41.7
+    "FGA": 7,
+    "FGM": 4,
+    "FGpct": 57.1,
+    "eFG": 85.7
    },
    {
     "zone": "3 frente",
@@ -49049,10 +49042,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 7,
-    "FGM": 4,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGA": 18,
+    "FGM": 5,
+    "FGpct": 27.8,
+    "eFG": 41.7
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -50049,17 +50049,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 1,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 12,
+    "FGM": 7,
+    "FGpct": 58.3,
+    "eFG": 87.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 17,
-    "FGM": 4,
-    "FGpct": 23.5,
-    "eFG": 35.3
+    "FGA": 28,
+    "FGM": 5,
+    "FGpct": 17.9,
+    "eFG": 26.8
    },
    {
     "zone": "3 frente",
@@ -50070,17 +50070,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 28,
-    "FGM": 5,
-    "FGpct": 17.9,
-    "eFG": 26.8
+    "FGA": 17,
+    "FGM": 4,
+    "FGpct": 23.5,
+    "eFG": 35.3
    },
    {
     "zone": "3 esquina der",
-    "FGA": 12,
-    "FGM": 7,
-    "FGpct": 58.3,
-    "eFG": 87.5
+    "FGA": 5,
+    "FGM": 1,
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -51012,17 +51012,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 7,
-    "FGM": 3,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 4,
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 25,
-    "FGM": 8,
-    "FGpct": 32.0,
-    "eFG": 48.0
+    "FGA": 28,
+    "FGM": 9,
+    "FGpct": 32.1,
+    "eFG": 48.2
    },
    {
     "zone": "3 frente",
@@ -51033,17 +51033,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 28,
-    "FGM": 9,
-    "FGpct": 32.1,
-    "eFG": 48.2
+    "FGA": 25,
+    "FGM": 8,
+    "FGpct": 32.0,
+    "eFG": 48.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 7,
+    "FGM": 3,
+    "FGpct": 42.9,
+    "eFG": 64.3
    }
   ],
   "onoff": {
@@ -51940,17 +51940,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 9,
+    "FGM": 3,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 47,
-    "FGM": 14,
-    "FGpct": 29.8,
-    "eFG": 44.7
+    "FGA": 24,
+    "FGM": 11,
+    "FGpct": 45.8,
+    "eFG": 68.8
    },
    {
     "zone": "3 frente",
@@ -51961,17 +51961,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 24,
-    "FGM": 11,
-    "FGpct": 45.8,
-    "eFG": 68.8
+    "FGA": 47,
+    "FGM": 14,
+    "FGpct": 29.8,
+    "eFG": 44.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 3,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 5,
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    }
   ],
   "onoff": {
@@ -53023,17 +53023,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 8,
+    "FGA": 11,
     "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGpct": 18.2,
+    "eFG": 27.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 24,
-    "FGM": 6,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 25,
+    "FGM": 5,
+    "FGpct": 20.0,
+    "eFG": 30.0
    },
    {
     "zone": "3 frente",
@@ -53044,17 +53044,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 5,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 24,
+    "FGM": 6,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 11,
+    "FGA": 8,
     "FGM": 2,
-    "FGpct": 18.2,
-    "eFG": 27.3
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -54041,17 +54041,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 21,
-    "FGM": 9,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 28,
+    "FGM": 17,
+    "FGpct": 60.7,
+    "eFG": 91.1
    },
    {
     "zone": "3 ala izq",
-    "FGA": 16,
-    "FGM": 4,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 25,
+    "FGM": 7,
+    "FGpct": 28.0,
+    "eFG": 42.0
    },
    {
     "zone": "3 frente",
@@ -54062,17 +54062,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 7,
-    "FGpct": 28.0,
-    "eFG": 42.0
+    "FGA": 16,
+    "FGM": 4,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 28,
-    "FGM": 17,
-    "FGpct": 60.7,
-    "eFG": 91.1
+    "FGA": 21,
+    "FGM": 9,
+    "FGpct": 42.9,
+    "eFG": 64.3
    }
   ],
   "onoff": {
@@ -54965,16 +54965,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 8,
-    "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGM": 4,
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 31,
-    "FGM": 15,
-    "FGpct": 48.4,
-    "eFG": 72.6
+    "FGA": 23,
+    "FGM": 6,
+    "FGpct": 26.1,
+    "eFG": 39.1
    },
    {
     "zone": "3 frente",
@@ -54985,17 +54985,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 23,
-    "FGM": 6,
-    "FGpct": 26.1,
-    "eFG": 39.1
+    "FGA": 31,
+    "FGM": 15,
+    "FGpct": 48.4,
+    "eFG": 72.6
    },
    {
     "zone": "3 esquina der",
     "FGA": 8,
-    "FGM": 4,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGM": 2,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -55847,10 +55847,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 2,
-    "FGM": 1,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 7,
+    "FGM": 3,
+    "FGpct": 42.9,
+    "eFG": 64.3
    },
    {
     "zone": "3 frente",
@@ -55861,10 +55861,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 7,
-    "FGM": 3,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 2,
+    "FGM": 1,
+    "FGpct": 50.0,
+    "eFG": 75.0
    }
   ],
   "onoff": {
@@ -56836,17 +56836,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 11,
-    "FGM": 4,
-    "FGpct": 36.4,
-    "eFG": 54.5
+    "FGA": 13,
+    "FGM": 5,
+    "FGpct": 38.5,
+    "eFG": 57.7
    },
    {
     "zone": "3 ala izq",
-    "FGA": 13,
-    "FGM": 3,
-    "FGpct": 23.1,
-    "eFG": 34.6
+    "FGA": 18,
+    "FGM": 8,
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 frente",
@@ -56857,17 +56857,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 18,
-    "FGM": 8,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGA": 13,
+    "FGM": 3,
+    "FGpct": 23.1,
+    "eFG": 34.6
    },
    {
     "zone": "3 esquina der",
-    "FGA": 13,
-    "FGM": 5,
-    "FGpct": 38.5,
-    "eFG": 57.7
+    "FGA": 11,
+    "FGM": 4,
+    "FGpct": 36.4,
+    "eFG": 54.5
    }
   ],
   "onoff": {
@@ -58542,17 +58542,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 13,
-    "FGM": 2,
-    "FGpct": 15.4,
-    "eFG": 23.1
+    "FGA": 16,
+    "FGM": 7,
+    "FGpct": 43.8,
+    "eFG": 65.6
    },
    {
     "zone": "3 ala izq",
-    "FGA": 26,
-    "FGM": 6,
-    "FGpct": 23.1,
-    "eFG": 34.6
+    "FGA": 21,
+    "FGM": 7,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -58563,17 +58563,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 21,
-    "FGM": 7,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 26,
+    "FGM": 6,
+    "FGpct": 23.1,
+    "eFG": 34.6
    },
    {
     "zone": "3 esquina der",
-    "FGA": 16,
-    "FGM": 7,
-    "FGpct": 43.8,
-    "eFG": 65.6
+    "FGA": 13,
+    "FGM": 2,
+    "FGpct": 15.4,
+    "eFG": 23.1
    }
   ],
   "onoff": {
@@ -59400,17 +59400,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 8,
+    "FGM": 5,
+    "FGpct": 62.5,
+    "eFG": 93.8
    },
    {
     "zone": "3 ala izq",
-    "FGA": 8,
+    "FGA": 17,
     "FGM": 4,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGpct": 23.5,
+    "eFG": 35.3
    },
    {
     "zone": "3 frente",
@@ -59421,17 +59421,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 17,
+    "FGA": 8,
     "FGM": 4,
-    "FGpct": 23.5,
-    "eFG": 35.3
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 8,
-    "FGM": 5,
-    "FGpct": 62.5,
-    "eFG": 93.8
+    "FGA": 4,
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -60318,17 +60318,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 9,
-    "FGM": 2,
-    "FGpct": 22.2,
-    "eFG": 33.3
+    "FGA": 12,
+    "FGM": 4,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 28,
-    "FGM": 6,
-    "FGpct": 21.4,
-    "eFG": 32.1
+    "FGA": 23,
+    "FGM": 5,
+    "FGpct": 21.7,
+    "eFG": 32.6
    },
    {
     "zone": "3 frente",
@@ -60339,17 +60339,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 23,
-    "FGM": 5,
-    "FGpct": 21.7,
-    "eFG": 32.6
+    "FGA": 28,
+    "FGM": 6,
+    "FGpct": 21.4,
+    "eFG": 32.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 12,
-    "FGM": 4,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 9,
+    "FGM": 2,
+    "FGpct": 22.2,
+    "eFG": 33.3
    }
   ],
   "onoff": {
@@ -61371,17 +61371,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 15,
-    "FGM": 4,
-    "FGpct": 26.7,
-    "eFG": 40.0
+    "FGA": 5,
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 17,
-    "FGM": 3,
-    "FGpct": 17.6,
-    "eFG": 26.5
+    "FGA": 20,
+    "FGM": 7,
+    "FGpct": 35.0,
+    "eFG": 52.5
    },
    {
     "zone": "3 frente",
@@ -61392,17 +61392,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 20,
-    "FGM": 7,
-    "FGpct": 35.0,
-    "eFG": 52.5
+    "FGA": 17,
+    "FGM": 3,
+    "FGpct": 17.6,
+    "eFG": 26.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 15,
+    "FGM": 4,
+    "FGpct": 26.7,
+    "eFG": 40.0
    }
   ],
   "onoff": {
@@ -62244,17 +62244,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 7,
-    "FGpct": 70.0,
-    "eFG": 105.0
+    "FGA": 14,
+    "FGM": 5,
+    "FGpct": 35.7,
+    "eFG": 53.6
    },
    {
     "zone": "3 ala izq",
-    "FGA": 19,
-    "FGM": 7,
-    "FGpct": 36.8,
-    "eFG": 55.3
+    "FGA": 15,
+    "FGM": 6,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 frente",
@@ -62265,17 +62265,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 15,
-    "FGM": 6,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 19,
+    "FGM": 7,
+    "FGpct": 36.8,
+    "eFG": 55.3
    },
    {
     "zone": "3 esquina der",
-    "FGA": 14,
-    "FGM": 5,
-    "FGpct": 35.7,
-    "eFG": 53.6
+    "FGA": 10,
+    "FGM": 7,
+    "FGpct": 70.0,
+    "eFG": 105.0
    }
   ],
   "onoff": {
@@ -63027,17 +63027,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
-    "FGM": 1,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 5,
+    "FGM": 3,
+    "FGpct": 60.0,
+    "eFG": 90.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 17,
-    "FGM": 3,
-    "FGpct": 17.6,
-    "eFG": 26.5
+    "FGA": 21,
+    "FGM": 7,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -63048,17 +63048,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 21,
-    "FGM": 7,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 17,
+    "FGM": 3,
+    "FGpct": 17.6,
+    "eFG": 26.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
-    "FGM": 3,
-    "FGpct": 60.0,
-    "eFG": 90.0
+    "FGA": 3,
+    "FGM": 1,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -63835,17 +63835,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 17,
-    "FGM": 7,
-    "FGpct": 41.2,
-    "eFG": 61.8
+    "FGA": 9,
+    "FGM": 5,
+    "FGpct": 55.6,
+    "eFG": 83.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 28,
-    "FGM": 13,
-    "FGpct": 46.4,
-    "eFG": 69.6
+    "FGA": 17,
+    "FGM": 8,
+    "FGpct": 47.1,
+    "eFG": 70.6
    },
    {
     "zone": "3 frente",
@@ -63856,17 +63856,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 17,
-    "FGM": 8,
-    "FGpct": 47.1,
-    "eFG": 70.6
+    "FGA": 28,
+    "FGM": 13,
+    "FGpct": 46.4,
+    "eFG": 69.6
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 5,
-    "FGpct": 55.6,
-    "eFG": 83.3
+    "FGA": 17,
+    "FGM": 7,
+    "FGpct": 41.2,
+    "eFG": 61.8
    }
   ],
   "onoff": {
@@ -64603,17 +64603,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 9,
+    "FGA": 13,
     "FGM": 2,
-    "FGpct": 22.2,
-    "eFG": 33.3
+    "FGpct": 15.4,
+    "eFG": 23.1
    },
    {
     "zone": "3 ala izq",
-    "FGA": 19,
-    "FGM": 3,
-    "FGpct": 15.8,
-    "eFG": 23.7
+    "FGA": 4,
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 frente",
@@ -64624,17 +64624,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 19,
+    "FGM": 3,
+    "FGpct": 15.8,
+    "eFG": 23.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 13,
+    "FGA": 9,
     "FGM": 2,
-    "FGpct": 15.4,
-    "eFG": 23.1
+    "FGpct": 22.2,
+    "eFG": 33.3
    }
   ],
   "onoff": {
@@ -65446,17 +65446,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 3,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 9,
+    "FGM": 4,
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 ala izq",
-    "FGA": 25,
-    "FGM": 7,
-    "FGpct": 28.0,
-    "eFG": 42.0
+    "FGA": 37,
+    "FGM": 11,
+    "FGpct": 29.7,
+    "eFG": 44.6
    },
    {
     "zone": "3 frente",
@@ -65467,17 +65467,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 37,
-    "FGM": 11,
-    "FGpct": 29.7,
-    "eFG": 44.6
+    "FGA": 25,
+    "FGM": 7,
+    "FGpct": 28.0,
+    "eFG": 42.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 4,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGA": 6,
+    "FGM": 3,
+    "FGpct": 50.0,
+    "eFG": 75.0
    }
   ],
   "onoff": {
@@ -66383,6 +66383,13 @@
     "eFG": 66.7
    },
    {
+    "zone": "3 esquina izq",
+    "FGA": 7,
+    "FGM": 1,
+    "FGpct": 14.3,
+    "eFG": 21.4
+   },
+   {
     "zone": "3 ala izq",
     "FGA": 3,
     "FGM": 0,
@@ -66402,13 +66409,6 @@
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
-   },
-   {
-    "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 1,
-    "FGpct": 14.3,
-    "eFG": 21.4
    }
   ],
   "onoff": {
@@ -67156,16 +67156,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 12,
-    "FGM": 7,
-    "FGpct": 58.3,
-    "eFG": 87.5
+    "FGA": 24,
+    "FGM": 2,
+    "FGpct": 8.3,
+    "eFG": 12.5
    },
    {
     "zone": "3 frente",
@@ -67176,17 +67176,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 24,
-    "FGM": 2,
-    "FGpct": 8.3,
-    "eFG": 12.5
+    "FGA": 12,
+    "FGM": 7,
+    "FGpct": 58.3,
+    "eFG": 87.5
    },
    {
     "zone": "3 esquina der",
     "FGA": 5,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    }
   ],
   "onoff": {
@@ -67943,17 +67943,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 11,
-    "FGM": 3,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGA": 21,
+    "FGM": 8,
+    "FGpct": 38.1,
+    "eFG": 57.1
    },
    {
     "zone": "3 ala izq",
-    "FGA": 17,
-    "FGM": 7,
-    "FGpct": 41.2,
-    "eFG": 61.8
+    "FGA": 25,
+    "FGM": 8,
+    "FGpct": 32.0,
+    "eFG": 48.0
    },
    {
     "zone": "3 frente",
@@ -67964,17 +67964,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 8,
-    "FGpct": 32.0,
-    "eFG": 48.0
+    "FGA": 17,
+    "FGM": 7,
+    "FGpct": 41.2,
+    "eFG": 61.8
    },
    {
     "zone": "3 esquina der",
-    "FGA": 21,
-    "FGM": 8,
-    "FGpct": 38.1,
-    "eFG": 57.1
+    "FGA": 11,
+    "FGM": 3,
+    "FGpct": 27.3,
+    "eFG": 40.9
    }
   ],
   "onoff": {
@@ -68761,17 +68761,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 3,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 3,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 28,
-    "FGM": 8,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGA": 18,
+    "FGM": 5,
+    "FGpct": 27.8,
+    "eFG": 41.7
    },
    {
     "zone": "3 frente",
@@ -68782,17 +68782,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 18,
-    "FGM": 5,
-    "FGpct": 27.8,
-    "eFG": 41.7
+    "FGA": 28,
+    "FGM": 8,
+    "FGpct": 28.6,
+    "eFG": 42.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 3,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 6,
+    "FGM": 3,
+    "FGpct": 50.0,
+    "eFG": 75.0
    }
   ],
   "onoff": {
@@ -69659,17 +69659,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 8,
-    "FGM": 1,
-    "FGpct": 12.5,
-    "eFG": 18.8
+    "FGA": 7,
+    "FGM": 4,
+    "FGpct": 57.1,
+    "eFG": 85.7
    },
    {
     "zone": "3 ala izq",
-    "FGA": 26,
-    "FGM": 7,
-    "FGpct": 26.9,
-    "eFG": 40.4
+    "FGA": 33,
+    "FGM": 11,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -69680,17 +69680,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 33,
-    "FGM": 11,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 26,
+    "FGM": 7,
+    "FGpct": 26.9,
+    "eFG": 40.4
    },
    {
     "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 4,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGA": 8,
+    "FGM": 1,
+    "FGpct": 12.5,
+    "eFG": 18.8
    }
   ],
   "onoff": {
@@ -70602,17 +70602,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 3,
-    "FGpct": 60.0,
-    "eFG": 90.0
+    "FGA": 7,
+    "FGM": 4,
+    "FGpct": 57.1,
+    "eFG": 85.7
    },
    {
     "zone": "3 ala izq",
     "FGA": 10,
-    "FGM": 1,
-    "FGpct": 10.0,
-    "eFG": 15.0
+    "FGM": 3,
+    "FGpct": 30.0,
+    "eFG": 45.0
    },
    {
     "zone": "3 frente",
@@ -70624,16 +70624,16 @@
    {
     "zone": "3 ala der",
     "FGA": 10,
-    "FGM": 3,
-    "FGpct": 30.0,
-    "eFG": 45.0
+    "FGM": 1,
+    "FGpct": 10.0,
+    "eFG": 15.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 4,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGA": 5,
+    "FGM": 3,
+    "FGpct": 60.0,
+    "eFG": 90.0
    }
   ],
   "onoff": {
@@ -71400,17 +71400,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 2,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 4,
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 25,
-    "FGM": 10,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 21,
+    "FGM": 4,
+    "FGpct": 19.0,
+    "eFG": 28.6
    },
    {
     "zone": "3 frente",
@@ -71421,17 +71421,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 21,
-    "FGM": 4,
-    "FGpct": 19.0,
-    "eFG": 28.6
+    "FGA": 25,
+    "FGM": 10,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 2,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -72248,17 +72248,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 4,
+    "FGA": 1,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 8,
-    "FGM": 2,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 16,
+    "FGM": 9,
+    "FGpct": 56.2,
+    "eFG": 84.4
    },
    {
     "zone": "3 frente",
@@ -72269,14 +72269,14 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 16,
-    "FGM": 9,
-    "FGpct": 56.2,
-    "eFG": 84.4
+    "FGA": 8,
+    "FGM": 2,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 1,
+    "FGA": 4,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
@@ -73026,17 +73026,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 13,
+    "FGA": 9,
     "FGM": 4,
-    "FGpct": 30.8,
-    "eFG": 46.2
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 ala izq",
-    "FGA": 22,
-    "FGM": 9,
-    "FGpct": 40.9,
-    "eFG": 61.4
+    "FGA": 23,
+    "FGM": 4,
+    "FGpct": 17.4,
+    "eFG": 26.1
    },
    {
     "zone": "3 frente",
@@ -73047,17 +73047,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 23,
-    "FGM": 4,
-    "FGpct": 17.4,
-    "eFG": 26.1
+    "FGA": 22,
+    "FGM": 9,
+    "FGpct": 40.9,
+    "eFG": 61.4
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
+    "FGA": 13,
     "FGM": 4,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGpct": 30.8,
+    "eFG": 46.2
    }
   ],
   "onoff": {
@@ -73864,17 +73864,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 9,
-    "FGM": 2,
-    "FGpct": 22.2,
-    "eFG": 33.3
+    "FGA": 7,
+    "FGM": 4,
+    "FGpct": 57.1,
+    "eFG": 85.7
    },
    {
     "zone": "3 ala izq",
-    "FGA": 15,
-    "FGM": 4,
-    "FGpct": 26.7,
-    "eFG": 40.0
+    "FGA": 18,
+    "FGM": 2,
+    "FGpct": 11.1,
+    "eFG": 16.7
    },
    {
     "zone": "3 frente",
@@ -73885,17 +73885,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 18,
-    "FGM": 2,
-    "FGpct": 11.1,
-    "eFG": 16.7
+    "FGA": 15,
+    "FGM": 4,
+    "FGpct": 26.7,
+    "eFG": 40.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 4,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGA": 9,
+    "FGM": 2,
+    "FGpct": 22.2,
+    "eFG": 33.3
    }
   ],
   "onoff": {
@@ -74626,7 +74626,7 @@
     "eFG": 0.0
    },
    {
-    "zone": "3 ala izq",
+    "zone": "3 ala der",
     "FGA": 4,
     "FGM": 1,
     "FGpct": 25.0,
@@ -75181,18 +75181,18 @@
     "eFG": 25.0
    },
    {
+    "zone": "3 ala izq",
+    "FGA": 1,
+    "FGM": 1,
+    "FGpct": 100.0,
+    "eFG": 150.0
+   },
+   {
     "zone": "3 frente",
     "FGA": 4,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
-   },
-   {
-    "zone": "3 ala der",
-    "FGA": 1,
-    "FGM": 1,
-    "FGpct": 100.0,
-    "eFG": 150.0
    }
   ],
   "onoff": {
@@ -75815,16 +75815,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 4,
-    "FGM": 3,
-    "FGpct": 75.0,
-    "eFG": 112.5
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 21,
-    "FGM": 8,
-    "FGpct": 38.1,
-    "eFG": 57.1
+    "FGA": 25,
+    "FGM": 4,
+    "FGpct": 16.0,
+    "eFG": 24.0
    },
    {
     "zone": "3 frente",
@@ -75835,17 +75835,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 4,
-    "FGpct": 16.0,
-    "eFG": 24.0
+    "FGA": 21,
+    "FGM": 8,
+    "FGpct": 38.1,
+    "eFG": 57.1
    },
    {
     "zone": "3 esquina der",
     "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGM": 3,
+    "FGpct": 75.0,
+    "eFG": 112.5
    }
   ],
   "onoff": {
@@ -76627,10 +76627,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 4,
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 frente",
@@ -76641,10 +76641,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -77286,17 +77286,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 1,
-    "FGM": 1,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGA": 5,
+    "FGM": 4,
+    "FGpct": 80.0,
+    "eFG": 120.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 12,
-    "FGM": 5,
-    "FGpct": 41.7,
-    "eFG": 62.5
+    "FGA": 11,
+    "FGM": 4,
+    "FGpct": 36.4,
+    "eFG": 54.5
    },
    {
     "zone": "3 frente",
@@ -77307,17 +77307,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 11,
-    "FGM": 4,
-    "FGpct": 36.4,
-    "eFG": 54.5
+    "FGA": 12,
+    "FGM": 5,
+    "FGpct": 41.7,
+    "eFG": 62.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
-    "FGM": 4,
-    "FGpct": 80.0,
-    "eFG": 120.0
+    "FGA": 1,
+    "FGM": 1,
+    "FGpct": 100.0,
+    "eFG": 150.0
    }
   ],
   "onoff": {
@@ -77877,17 +77877,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 19,
-    "FGM": 4,
-    "FGpct": 21.1,
-    "eFG": 31.6
+    "FGA": 5,
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 32,
-    "FGM": 8,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 27,
+    "FGM": 12,
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 frente",
@@ -77898,17 +77898,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 27,
-    "FGM": 12,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGA": 32,
+    "FGM": 8,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 19,
+    "FGM": 4,
+    "FGpct": 21.1,
+    "eFG": 31.6
    }
   ],
   "onoff": {
@@ -78705,17 +78705,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 16,
-    "FGM": 6,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 11,
+    "FGM": 3,
+    "FGpct": 27.3,
+    "eFG": 40.9
    },
    {
     "zone": "3 ala izq",
-    "FGA": 25,
-    "FGM": 16,
-    "FGpct": 64.0,
-    "eFG": 96.0
+    "FGA": 22,
+    "FGM": 7,
+    "FGpct": 31.8,
+    "eFG": 47.7
    },
    {
     "zone": "3 frente",
@@ -78726,17 +78726,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 22,
-    "FGM": 7,
-    "FGpct": 31.8,
-    "eFG": 47.7
+    "FGA": 25,
+    "FGM": 16,
+    "FGpct": 64.0,
+    "eFG": 96.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 11,
-    "FGM": 3,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGA": 16,
+    "FGM": 6,
+    "FGpct": 37.5,
+    "eFG": 56.2
    }
   ],
   "onoff": {
@@ -79409,16 +79409,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 4,
-    "FGM": 3,
-    "FGpct": 75.0,
-    "eFG": 112.5
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 7,
-    "FGM": 1,
-    "FGpct": 14.3,
-    "eFG": 21.4
+    "FGA": 10,
+    "FGM": 3,
+    "FGpct": 30.0,
+    "eFG": 45.0
    },
    {
     "zone": "3 frente",
@@ -79429,17 +79429,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 10,
-    "FGM": 3,
-    "FGpct": 30.0,
-    "eFG": 45.0
+    "FGA": 7,
+    "FGM": 1,
+    "FGpct": 14.3,
+    "eFG": 21.4
    },
    {
     "zone": "3 esquina der",
     "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGM": 3,
+    "FGpct": 75.0,
+    "eFG": 112.5
    }
   ],
   "onoff": {
@@ -80136,17 +80136,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 16,
-    "FGM": 6,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 9,
+    "FGM": 5,
+    "FGpct": 55.6,
+    "eFG": 83.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 22,
-    "FGM": 6,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGA": 20,
+    "FGM": 7,
+    "FGpct": 35.0,
+    "eFG": 52.5
    },
    {
     "zone": "3 frente",
@@ -80157,17 +80157,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 20,
-    "FGM": 7,
-    "FGpct": 35.0,
-    "eFG": 52.5
+    "FGA": 22,
+    "FGM": 6,
+    "FGpct": 27.3,
+    "eFG": 40.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 5,
-    "FGpct": 55.6,
-    "eFG": 83.3
+    "FGA": 16,
+    "FGM": 6,
+    "FGpct": 37.5,
+    "eFG": 56.2
    }
   ],
   "onoff": {
@@ -80934,17 +80934,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 7,
+    "FGA": 4,
     "FGM": 1,
-    "FGpct": 14.3,
-    "eFG": 21.4
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 ala izq",
-    "FGA": 11,
-    "FGM": 2,
-    "FGpct": 18.2,
-    "eFG": 27.3
+    "FGA": 24,
+    "FGM": 7,
+    "FGpct": 29.2,
+    "eFG": 43.8
    },
    {
     "zone": "3 frente",
@@ -80955,17 +80955,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 24,
-    "FGM": 7,
-    "FGpct": 29.2,
-    "eFG": 43.8
+    "FGA": 11,
+    "FGM": 2,
+    "FGpct": 18.2,
+    "eFG": 27.3
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
+    "FGA": 7,
     "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGpct": 14.3,
+    "eFG": 21.4
    }
   ],
   "onoff": {
@@ -81777,17 +81777,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 3,
-    "FGpct": 30.0,
-    "eFG": 45.0
+    "FGA": 13,
+    "FGM": 4,
+    "FGpct": 30.8,
+    "eFG": 46.2
    },
    {
     "zone": "3 ala izq",
-    "FGA": 25,
-    "FGM": 11,
-    "FGpct": 44.0,
-    "eFG": 66.0
+    "FGA": 13,
+    "FGM": 5,
+    "FGpct": 38.5,
+    "eFG": 57.7
    },
    {
     "zone": "3 frente",
@@ -81798,17 +81798,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 13,
-    "FGM": 5,
-    "FGpct": 38.5,
-    "eFG": 57.7
+    "FGA": 25,
+    "FGM": 11,
+    "FGpct": 44.0,
+    "eFG": 66.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 13,
-    "FGM": 4,
-    "FGpct": 30.8,
-    "eFG": 46.2
+    "FGA": 10,
+    "FGM": 3,
+    "FGpct": 30.0,
+    "eFG": 45.0
    }
   ],
   "onoff": {
@@ -82485,14 +82485,14 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 2,
+    "FGA": 6,
     "FGM": 2,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 3,
+    "FGA": 1,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
@@ -82506,17 +82506,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 1,
+    "FGA": 3,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
+    "FGA": 2,
     "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGpct": 100.0,
+    "eFG": 150.0
    }
   ],
   "onoff": {
@@ -83138,10 +83138,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 2,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 3,
+    "FGM": 2,
+    "FGpct": 66.7,
+    "eFG": 100.0
    },
    {
     "zone": "3 frente",
@@ -83152,10 +83152,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 3,
-    "FGM": 2,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 2,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -83797,17 +83797,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
+    "FGA": 1,
     "FGM": 1,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGpct": 100.0,
+    "eFG": 150.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 11,
-    "FGM": 4,
-    "FGpct": 36.4,
-    "eFG": 54.5
+    "FGA": 12,
+    "FGM": 7,
+    "FGpct": 58.3,
+    "eFG": 87.5
    },
    {
     "zone": "3 frente",
@@ -83818,17 +83818,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 12,
-    "FGM": 7,
-    "FGpct": 58.3,
-    "eFG": 87.5
+    "FGA": 11,
+    "FGM": 4,
+    "FGpct": 36.4,
+    "eFG": 54.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 1,
+    "FGA": 5,
     "FGM": 1,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -84495,17 +84495,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
-    "FGM": 2,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 5,
+    "FGM": 4,
+    "FGpct": 80.0,
+    "eFG": 120.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 6,
+    "FGA": 13,
     "FGM": 3,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGpct": 23.1,
+    "eFG": 34.6
    },
    {
     "zone": "3 frente",
@@ -84516,17 +84516,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 13,
+    "FGA": 6,
     "FGM": 3,
-    "FGpct": 23.1,
-    "eFG": 34.6
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
-    "FGM": 4,
-    "FGpct": 80.0,
-    "eFG": 120.0
+    "FGA": 3,
+    "FGM": 2,
+    "FGpct": 66.7,
+    "eFG": 100.0
    }
   ],
   "onoff": {
@@ -85159,16 +85159,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 6,
-    "FGM": 4,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 14,
-    "FGM": 6,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 13,
+    "FGM": 5,
+    "FGpct": 38.5,
+    "eFG": 57.7
    },
    {
     "zone": "3 frente",
@@ -85179,17 +85179,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 13,
-    "FGM": 5,
-    "FGpct": 38.5,
-    "eFG": 57.7
+    "FGA": 14,
+    "FGM": 6,
+    "FGpct": 42.9,
+    "eFG": 64.3
    },
    {
     "zone": "3 esquina der",
     "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGM": 4,
+    "FGpct": 66.7,
+    "eFG": 100.0
    }
   ],
   "onoff": {
@@ -85756,17 +85756,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 7,
-    "FGM": 4,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 17,
+    "FGA": 13,
     "FGM": 5,
-    "FGpct": 29.4,
-    "eFG": 44.1
+    "FGpct": 38.5,
+    "eFG": 57.7
    },
    {
     "zone": "3 frente",
@@ -85777,17 +85777,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 13,
+    "FGA": 17,
     "FGM": 5,
-    "FGpct": 38.5,
-    "eFG": 57.7
+    "FGpct": 29.4,
+    "eFG": 44.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 7,
+    "FGM": 4,
+    "FGpct": 57.1,
+    "eFG": 85.7
    }
   ],
   "onoff": {
@@ -86384,17 +86384,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
-    "FGM": 2,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 12,
+    "FGA": 13,
     "FGM": 3,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGpct": 23.1,
+    "eFG": 34.6
    },
    {
     "zone": "3 frente",
@@ -86405,17 +86405,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 13,
+    "FGA": 12,
     "FGM": 3,
-    "FGpct": 23.1,
-    "eFG": 34.6
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 esquina der",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 3,
+    "FGM": 2,
+    "FGpct": 66.7,
+    "eFG": 100.0
    }
   ],
   "onoff": {
@@ -87017,17 +87017,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 4,
-    "FGM": 2,
+    "FGA": 2,
+    "FGM": 1,
     "FGpct": 50.0,
     "eFG": 75.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 3,
-    "FGM": 2,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 1,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 frente",
@@ -87038,15 +87038,15 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 3,
+    "FGM": 2,
+    "FGpct": 66.7,
+    "eFG": 100.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 2,
-    "FGM": 1,
+    "FGA": 4,
+    "FGM": 2,
     "FGpct": 50.0,
     "eFG": 75.0
    }
@@ -87590,17 +87590,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
+    "FGA": 1,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 3,
-    "FGM": 2,
-    "FGpct": 66.7,
-    "eFG": 100.0
+    "FGA": 2,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 frente",
@@ -87611,14 +87611,14 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 2,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 3,
+    "FGM": 2,
+    "FGpct": 66.7,
+    "eFG": 100.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 1,
+    "FGA": 3,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
@@ -88148,17 +88148,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 2,
-    "FGM": 1,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 13,
+    "FGM": 2,
+    "FGpct": 15.4,
+    "eFG": 23.1
    },
    {
     "zone": "3 ala izq",
-    "FGA": 15,
-    "FGM": 5,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 14,
+    "FGM": 4,
+    "FGpct": 28.6,
+    "eFG": 42.9
    },
    {
     "zone": "3 frente",
@@ -88169,17 +88169,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 14,
-    "FGM": 4,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGA": 15,
+    "FGM": 5,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 13,
-    "FGM": 2,
-    "FGpct": 15.4,
-    "eFG": 23.1
+    "FGA": 2,
+    "FGM": 1,
+    "FGpct": 50.0,
+    "eFG": 75.0
    }
   ],
   "onoff": {
@@ -90163,7 +90163,7 @@
     "eFG": 33.3
    },
    {
-    "zone": "3 ala der",
+    "zone": "3 ala izq",
     "FGA": 2,
     "FGM": 0,
     "FGpct": 0.0,
@@ -91059,17 +91059,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 1,
+    "FGA": 5,
     "FGM": 1,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGpct": 20.0,
+    "eFG": 30.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 16,
-    "FGM": 3,
-    "FGpct": 18.8,
-    "eFG": 28.1
+    "FGA": 36,
+    "FGM": 12,
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -91080,17 +91080,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 36,
-    "FGM": 12,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 16,
+    "FGM": 3,
+    "FGpct": 18.8,
+    "eFG": 28.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
+    "FGA": 1,
     "FGM": 1,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGpct": 100.0,
+    "eFG": 150.0
    }
   ],
   "onoff": {
@@ -92257,17 +92257,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 7,
+    "FGM": 3,
+    "FGpct": 42.9,
+    "eFG": 64.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 19,
-    "FGM": 8,
-    "FGpct": 42.1,
-    "eFG": 63.2
+    "FGA": 25,
+    "FGM": 6,
+    "FGpct": 24.0,
+    "eFG": 36.0
    },
    {
     "zone": "3 frente",
@@ -92278,17 +92278,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 25,
-    "FGM": 6,
-    "FGpct": 24.0,
-    "eFG": 36.0
+    "FGA": 19,
+    "FGM": 8,
+    "FGpct": 42.1,
+    "eFG": 63.2
    },
    {
     "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 3,
-    "FGpct": 42.9,
-    "eFG": 64.3
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -93205,17 +93205,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 2,
-    "FGM": 2,
-    "FGpct": 100.0,
-    "eFG": 150.0
-   },
-   {
-    "zone": "3 ala izq",
-    "FGA": 2,
+    "FGA": 4,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
+   },
+   {
+    "zone": "3 ala izq",
+    "FGA": 6,
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 frente",
@@ -93226,17 +93226,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
-   },
-   {
-    "zone": "3 esquina der",
-    "FGA": 4,
+    "FGA": 2,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
+   },
+   {
+    "zone": "3 esquina der",
+    "FGA": 2,
+    "FGM": 2,
+    "FGpct": 100.0,
+    "eFG": 150.0
    }
   ],
   "onoff": {
@@ -93808,17 +93808,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 8,
-    "FGM": 3,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 9,
+    "FGM": 2,
+    "FGpct": 22.2,
+    "eFG": 33.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 13,
-    "FGM": 3,
-    "FGpct": 23.1,
-    "eFG": 34.6
+    "FGA": 17,
+    "FGM": 6,
+    "FGpct": 35.3,
+    "eFG": 52.9
    },
    {
     "zone": "3 frente",
@@ -93829,17 +93829,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 17,
-    "FGM": 6,
-    "FGpct": 35.3,
-    "eFG": 52.9
+    "FGA": 13,
+    "FGM": 3,
+    "FGpct": 23.1,
+    "eFG": 34.6
    },
    {
     "zone": "3 esquina der",
-    "FGA": 9,
-    "FGM": 2,
-    "FGpct": 22.2,
-    "eFG": 33.3
+    "FGA": 8,
+    "FGM": 3,
+    "FGpct": 37.5,
+    "eFG": 56.2
    }
   ],
   "onoff": {
@@ -94786,17 +94786,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 6,
-    "FGM": 2,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGA": 8,
+    "FGM": 3,
+    "FGpct": 37.5,
+    "eFG": 56.2
    },
    {
     "zone": "3 ala izq",
-    "FGA": 15,
+    "FGA": 16,
     "FGM": 4,
-    "FGpct": 26.7,
-    "eFG": 40.0
+    "FGpct": 25.0,
+    "eFG": 37.5
    },
    {
     "zone": "3 frente",
@@ -94807,17 +94807,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 16,
+    "FGA": 15,
     "FGM": 4,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGpct": 26.7,
+    "eFG": 40.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 8,
-    "FGM": 3,
-    "FGpct": 37.5,
-    "eFG": 56.2
+    "FGA": 6,
+    "FGM": 2,
+    "FGpct": 33.3,
+    "eFG": 50.0
    }
   ],
   "onoff": {
@@ -95436,10 +95436,10 @@
    },
    {
     "zone": "3 ala izq",
-    "FGA": 9,
-    "FGM": 4,
-    "FGpct": 44.4,
-    "eFG": 66.7
+    "FGA": 5,
+    "FGM": 3,
+    "FGpct": 60.0,
+    "eFG": 90.0
    },
    {
     "zone": "3 frente",
@@ -95450,10 +95450,10 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 5,
-    "FGM": 3,
-    "FGpct": 60.0,
-    "eFG": 90.0
+    "FGA": 9,
+    "FGM": 4,
+    "FGpct": 44.4,
+    "eFG": 66.7
    },
    {
     "zone": "3 esquina der",
@@ -95941,11 +95941,11 @@
     "eFG": 0.0
    },
    {
-    "zone": "3 ala izq",
+    "zone": "3 esquina izq",
     "FGA": 1,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGM": 1,
+    "FGpct": 100.0,
+    "eFG": 150.0
    },
    {
     "zone": "3 frente",
@@ -95955,11 +95955,11 @@
     "eFG": 0.0
    },
    {
-    "zone": "3 esquina der",
+    "zone": "3 ala der",
     "FGA": 1,
-    "FGM": 1,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {
@@ -96411,17 +96411,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 12,
-    "FGM": 3,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGA": 7,
+    "FGM": 2,
+    "FGpct": 28.6,
+    "eFG": 42.9
    },
    {
     "zone": "3 ala izq",
-    "FGA": 26,
-    "FGM": 10,
-    "FGpct": 38.5,
-    "eFG": 57.7
+    "FGA": 22,
+    "FGM": 7,
+    "FGpct": 31.8,
+    "eFG": 47.7
    },
    {
     "zone": "3 frente",
@@ -96432,17 +96432,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 22,
-    "FGM": 7,
-    "FGpct": 31.8,
-    "eFG": 47.7
+    "FGA": 26,
+    "FGM": 10,
+    "FGpct": 38.5,
+    "eFG": 57.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 7,
-    "FGM": 2,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGA": 12,
+    "FGM": 3,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -97534,17 +97534,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 10,
-    "FGM": 2,
-    "FGpct": 20.0,
-    "eFG": 30.0
+    "FGA": 11,
+    "FGM": 5,
+    "FGpct": 45.5,
+    "eFG": 68.2
    },
    {
     "zone": "3 ala izq",
     "FGA": 13,
-    "FGM": 2,
-    "FGpct": 15.4,
-    "eFG": 23.1
+    "FGM": 7,
+    "FGpct": 53.8,
+    "eFG": 80.8
    },
    {
     "zone": "3 frente",
@@ -97556,16 +97556,16 @@
    {
     "zone": "3 ala der",
     "FGA": 13,
-    "FGM": 7,
-    "FGpct": 53.8,
-    "eFG": 80.8
+    "FGM": 2,
+    "FGpct": 15.4,
+    "eFG": 23.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 11,
-    "FGM": 5,
-    "FGpct": 45.5,
-    "eFG": 68.2
+    "FGA": 10,
+    "FGM": 2,
+    "FGpct": 20.0,
+    "eFG": 30.0
    }
   ],
   "onoff": {
@@ -98053,16 +98053,16 @@
    {
     "zone": "3 esquina izq",
     "FGA": 4,
-    "FGM": 1,
-    "FGpct": 25.0,
-    "eFG": 37.5
+    "FGM": 4,
+    "FGpct": 100.0,
+    "eFG": 150.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 12,
-    "FGM": 2,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGA": 10,
+    "FGM": 5,
+    "FGpct": 50.0,
+    "eFG": 75.0
    },
    {
     "zone": "3 frente",
@@ -98073,17 +98073,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 10,
-    "FGM": 5,
-    "FGpct": 50.0,
-    "eFG": 75.0
+    "FGA": 12,
+    "FGM": 2,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 esquina der",
     "FGA": 4,
-    "FGM": 4,
-    "FGpct": 100.0,
-    "eFG": 150.0
+    "FGM": 1,
+    "FGpct": 25.0,
+    "eFG": 37.5
    }
   ],
   "onoff": {
@@ -100543,17 +100543,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
+    "FGA": 4,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 10,
-    "FGM": 4,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 12,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    },
    {
     "zone": "3 frente",
@@ -100564,14 +100564,14 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 12,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 10,
+    "FGM": 4,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 esquina der",
-    "FGA": 4,
+    "FGA": 3,
     "FGM": 0,
     "FGpct": 0.0,
     "eFG": 0.0
@@ -101744,17 +101744,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 14,
-    "FGM": 4,
-    "FGpct": 28.6,
-    "eFG": 42.9
+    "FGA": 6,
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 7,
+    "FGA": 12,
     "FGM": 4,
-    "FGpct": 57.1,
-    "eFG": 85.7
+    "FGpct": 33.3,
+    "eFG": 50.0
    },
    {
     "zone": "3 frente",
@@ -101765,17 +101765,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 12,
+    "FGA": 7,
     "FGM": 4,
-    "FGpct": 33.3,
-    "eFG": 50.0
+    "FGpct": 57.1,
+    "eFG": 85.7
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGA": 14,
+    "FGM": 4,
+    "FGpct": 28.6,
+    "eFG": 42.9
    }
   ],
   "onoff": {
@@ -103847,17 +103847,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 6,
+    "FGM": 1,
+    "FGpct": 16.7,
+    "eFG": 25.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 11,
+    "FGA": 10,
     "FGM": 3,
-    "FGpct": 27.3,
-    "eFG": 40.9
+    "FGpct": 30.0,
+    "eFG": 45.0
    },
    {
     "zone": "3 frente",
@@ -103868,17 +103868,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 10,
+    "FGA": 11,
     "FGM": 3,
-    "FGpct": 30.0,
-    "eFG": 45.0
+    "FGpct": 27.3,
+    "eFG": 40.9
    },
    {
     "zone": "3 esquina der",
-    "FGA": 6,
-    "FGM": 1,
-    "FGpct": 16.7,
-    "eFG": 25.0
+    "FGA": 5,
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    }
   ],
   "onoff": {
@@ -104925,17 +104925,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 3,
-    "FGM": 0,
-    "FGpct": 0.0,
-    "eFG": 0.0
+    "FGA": 5,
+    "FGM": 2,
+    "FGpct": 40.0,
+    "eFG": 60.0
    },
    {
     "zone": "3 ala izq",
-    "FGA": 13,
-    "FGM": 4,
-    "FGpct": 30.8,
-    "eFG": 46.2
+    "FGA": 10,
+    "FGM": 1,
+    "FGpct": 10.0,
+    "eFG": 15.0
    },
    {
     "zone": "3 frente",
@@ -104946,17 +104946,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 10,
-    "FGM": 1,
-    "FGpct": 10.0,
-    "eFG": 15.0
+    "FGA": 13,
+    "FGM": 4,
+    "FGpct": 30.8,
+    "eFG": 46.2
    },
    {
     "zone": "3 esquina der",
-    "FGA": 5,
-    "FGM": 2,
-    "FGpct": 40.0,
-    "eFG": 60.0
+    "FGA": 3,
+    "FGM": 0,
+    "FGpct": 0.0,
+    "eFG": 0.0
    }
   ],
   "onoff": {

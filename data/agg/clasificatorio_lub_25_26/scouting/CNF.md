@@ -4,8 +4,8 @@
 
 > ### 🎯 Plan en 30 segundos
 >
-> - **QUÉ EXPLOTARLES:** **3 esquina der** — le anotan 69 eFG ahí (liga 58), sobre la media.
-> - **QUÉ QUITARLES:** **3 esquina der** — es su tiro más eficiente (70 eFG vs liga 58). Cerrar ese sector.
+> - **QUÉ EXPLOTARLES:** **3 esquina izq** — le anotan 69 eFG ahí (liga 58), sobre la media.
+> - **QUÉ QUITARLES:** **3 esquina izq** — es su tiro más eficiente (70 eFG vs liga 58). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **J. Feldeine, L. Parodi, A. Mendez** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
 ## (a) Perfil de zona
@@ -17,13 +17,13 @@
 | restringida | 33.9 | 65.9 | 66.1 |  |
 | pintura | 18.6 | 40.4 | 44.6 |  |
 | media | 7.3 | 33.9 | 38.5 |  |
-| 3 esquina izq | 3.6 | 55.3 | 54.3 |  |
-| 3 ala izq | 10.8 | 49.4 | 50.1 |  |
+| 3 esquina izq | 4.5 | 69.7 | 58.3 | 🔴 |
+| 3 ala izq | 12.5 | 52.8 | 48.4 |  |
 | 3 frente | 8.8 | 44.6 | 48.1 |  |
-| 3 ala der | 12.5 | 52.8 | 48.4 |  |
-| 3 esquina der | 4.5 | 69.7 | 58.3 | 🔴 |
+| 3 ala der | 10.8 | 49.4 | 50.1 |  |
+| 3 esquina der | 3.6 | 55.3 | 54.3 |  |
 
-→ Mayor ventaja ofensiva: **3 esquina der** (eFG 69.7 vs liga 58.3).
+→ Mayor ventaja ofensiva: **3 esquina izq** (eFG 69.7 vs liga 58.3).
 
 
 **DEFENSA** (lo que le tiran los rivales; 🔵 lo defiende por debajo de la media):
@@ -33,14 +33,14 @@
 | restringida | 29.9 | 67.0 | 66.1 |  |
 | pintura | 17.7 | 38.8 | 44.6 |  |
 | media | 9.1 | 41.0 | 38.5 |  |
-| 3 esquina izq | 4.4 | 46.9 | 54.3 | 🔵 |
-| 3 ala izq | 13.4 | 41.9 | 50.1 | 🔵 |
+| 3 esquina izq | 5.9 | 69.0 | 58.3 | 🔴 |
+| 3 ala izq | 12.6 | 46.2 | 48.4 |  |
 | 3 frente | 7.1 | 49.0 | 48.1 |  |
-| 3 ala der | 12.6 | 46.2 | 48.4 |  |
-| 3 esquina der | 5.9 | 69.0 | 58.3 | 🔴 |
+| 3 ala der | 13.4 | 41.9 | 50.1 | 🔵 |
+| 3 esquina der | 4.4 | 46.9 | 54.3 | 🔵 |
 
-→ Fortaleza defensiva: **3 ala izq** (41.9 vs liga 50.1).
- A explotar: **3 esquina der** (69.0 vs 58.3, sobre la media).
+→ Fortaleza defensiva: **3 ala der** (41.9 vs liga 50.1).
+ A explotar: **3 esquina izq** (69.0 vs 58.3, sobre la media).
 
 
 ## (b) Generadores (PTS × USG% × AST%)

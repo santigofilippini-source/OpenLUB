@@ -52,7 +52,12 @@ def zone(s):
     d = math.hypot(xm - RX, ym - RY)
     if s["actionType"] == "3pt":
         ang = abs(math.degrees(math.atan2(dy, dx)))
-        side = "izq" if dy < 0 else "der"
+        # LATERALIDAD (anclada vs sc.html oficial, ver golden test de lateralidad de Demers):
+        # tras el fold la canasta de referencia está en x ALTO (se ataca hacia el este). Mirando al
+        # este, la DERECHA ofensiva es el SUR = y bajo = dy<0. (El golden test de Moller solo fijó la
+        # vertical; sus dos tiros eran del lado del aro, así que el der/izq nunca se había anclado y
+        # estaba ESPEJADO.) dy<0 -> der, dy>0 -> izq.
+        side = "der" if dy < 0 else "izq"
         if ang >= 68:
             return f"3 esquina {side}"
         if ang >= 23:
@@ -71,7 +76,34 @@ ZONE_ORDER = ["restringida", "pintura", "media", "3 esquina izq", "3 ala izq",
               "3 frente", "3 ala der", "3 esquina der"]
 
 
+def lateral_golden_test():
+    """GATE de lateralidad (izq/der). El golden test de Moller solo fijó la vertical; el der/izq
+    estuvo ESPEJADO hasta que se ancló con Demers vs sc.html. Marco anclado: en el feed x alto =
+    derecha de cancha, y alto = arriba (sc.html dibuja left:x%, bottom:y%). El lado ofensivo se
+    deriva de la canasta atacada (donde caen los tiros):
+      - Atacando la canasta IZQUIERDA (x≈5) mirás al oeste -> tu DERECHA es el norte (y alto).
+      - Atacando la canasta DERECHA  (x≈95) mirás al este  -> tu DERECHA es el sur  (y bajo).
+    Cuatro esquinas de lado ofensivo CONOCIDO; zone() debe nombrarlas bien."""
+    casos = [
+        ({"x": 5, "y": 95, "actionType": "3pt"}, "3 esquina der"),   # canasta izq, arriba = der of.
+        ({"x": 5, "y": 5, "actionType": "3pt"}, "3 esquina izq"),    # canasta izq, abajo  = izq of.
+        ({"x": 95, "y": 5, "actionType": "3pt"}, "3 esquina der"),   # canasta der, abajo  = der of.
+        ({"x": 95, "y": 95, "actionType": "3pt"}, "3 esquina izq"),  # canasta der, arriba = izq of.
+    ]
+    print("=== GOLDEN TEST de LATERALIDAD (izq/der) — anclado vs sc.html (Demers) ===")
+    ok = True
+    for s, want in casos:
+        got = zone(s)
+        passed = got == want
+        ok = ok and passed
+        print(f"  feed x={s['x']:>3} y={s['y']:>3} -> {got:<14} (esperado {want}) {'PASA' if passed else 'FALLA'}")
+    print(f"  => LATERALIDAD {'PASA' if ok else 'FALLA'}\n")
+    return ok
+
+
 def main():
+    if not lateral_golden_test():
+        raise SystemExit("ABORTADO: golden test de lateralidad FALLA, izq/der no confiable.")
     phase = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_PHASE
     out = ROOT / "data" / "agg" / slug(phase)
     schedule = json.loads((SCH_DIR / "schedule.json").read_text(encoding="utf-8"))

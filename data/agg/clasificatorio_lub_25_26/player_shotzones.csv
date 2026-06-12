@@ -1,817 +1,817 @@
 personId,name,team,MIN,zone,FGA,FGM,FGpct,eFG
-15259,S. Zanotta,HYM,552.9,restringida,23,9,39.1,39.1
-15259,S. Zanotta,HYM,552.9,pintura,14,7,50.0,50.0
-15259,S. Zanotta,HYM,552.9,media,18,10,55.6,55.6
-15259,S. Zanotta,HYM,552.9,3 esquina izq,8,1,12.5,18.8
-15259,S. Zanotta,HYM,552.9,3 ala izq,26,7,26.9,40.4
-15259,S. Zanotta,HYM,552.9,3 frente,25,4,16.0,24.0
-15259,S. Zanotta,HYM,552.9,3 ala der,33,11,33.3,50.0
-15259,S. Zanotta,HYM,552.9,3 esquina der,7,4,57.1,85.7
-2534733,R. Abell,MAL,448.7,restringida,50,35,70.0,70.0
-2534733,R. Abell,MAL,448.7,pintura,20,10,50.0,50.0
-2534733,R. Abell,MAL,448.7,media,25,13,52.0,52.0
-2534733,R. Abell,MAL,448.7,3 esquina izq,8,2,25.0,37.5
-2534733,R. Abell,MAL,448.7,3 ala izq,27,7,25.9,38.9
-2534733,R. Abell,MAL,448.7,3 frente,28,5,17.9,26.8
-2534733,R. Abell,MAL,448.7,3 ala der,30,12,40.0,60.0
-2534733,R. Abell,MAL,448.7,3 esquina der,8,1,12.5,18.8
-1430994,J. Rodriguez,AGU,411.1,restringida,37,23,62.2,62.2
-1430994,J. Rodriguez,AGU,411.1,pintura,26,13,50.0,50.0
-1430994,J. Rodriguez,AGU,411.1,media,2,1,50.0,50.0
-1430994,J. Rodriguez,AGU,411.1,3 esquina izq,14,10,71.4,107.1
-1430994,J. Rodriguez,AGU,411.1,3 ala izq,27,8,29.6,44.4
-1430994,J. Rodriguez,AGU,411.1,3 frente,8,1,12.5,18.8
-1430994,J. Rodriguez,AGU,411.1,3 ala der,22,6,27.3,40.9
-1430994,J. Rodriguez,AGU,411.1,3 esquina der,8,3,37.5,56.2
-2324181,D. Hicks,BIG,719.4,restringida,29,22,75.9,75.9
-2324181,D. Hicks,BIG,719.4,pintura,112,56,50.0,50.0
-2324181,D. Hicks,BIG,719.4,media,19,9,47.4,47.4
-2324181,D. Hicks,BIG,719.4,3 esquina izq,3,2,66.7,100.0
-2324181,D. Hicks,BIG,719.4,3 ala izq,26,13,50.0,75.0
-2324181,D. Hicks,BIG,719.4,3 frente,39,18,46.2,69.2
-2324181,D. Hicks,BIG,719.4,3 ala der,35,19,54.3,81.4
-2324181,D. Hicks,BIG,719.4,3 esquina der,6,5,83.3,125.0
-725720,T. Metzger,DSC,546.9,restringida,43,32,74.4,74.4
-725720,T. Metzger,DSC,546.9,pintura,36,16,44.4,44.4
-725720,T. Metzger,DSC,546.9,media,13,7,53.8,53.8
-725720,T. Metzger,DSC,546.9,3 esquina izq,8,3,37.5,56.2
-725720,T. Metzger,DSC,546.9,3 ala izq,32,7,21.9,32.8
-725720,T. Metzger,DSC,546.9,3 frente,13,5,38.5,57.7
-725720,T. Metzger,DSC,546.9,3 ala der,47,20,42.6,63.8
-725720,T. Metzger,DSC,546.9,3 esquina der,21,9,42.9,64.3
-17379,P. Rusch,COR,510.4,restringida,6,2,33.3,33.3
-17379,P. Rusch,COR,510.4,pintura,6,3,50.0,50.0
-17379,P. Rusch,COR,510.4,media,17,8,47.1,47.1
-17379,P. Rusch,COR,510.4,3 esquina izq,7,4,57.1,85.7
-17379,P. Rusch,COR,510.4,3 ala izq,17,5,29.4,44.1
-17379,P. Rusch,COR,510.4,3 frente,19,7,36.8,55.3
-17379,P. Rusch,COR,510.4,3 ala der,13,5,38.5,57.7
-17379,P. Rusch,COR,510.4,3 esquina der,6,2,33.3,50.0
-2617486,W. Reed,BIG,226.5,restringida,30,20,66.7,66.7
-2617486,W. Reed,BIG,226.5,pintura,24,14,58.3,58.3
-2617486,W. Reed,BIG,226.5,media,7,2,28.6,28.6
-2321121,J. Feldeine,CNF,509.9,restringida,42,24,57.1,57.1
-2321121,J. Feldeine,CNF,509.9,pintura,47,24,51.1,51.1
-2321121,J. Feldeine,CNF,509.9,media,35,19,54.3,54.3
-2321121,J. Feldeine,CNF,509.9,3 esquina izq,6,1,16.7,25.0
-2321121,J. Feldeine,CNF,509.9,3 ala izq,27,6,22.2,33.3
-2321121,J. Feldeine,CNF,509.9,3 frente,37,14,37.8,56.8
-2321121,J. Feldeine,CNF,509.9,3 ala der,45,18,40.0,60.0
-2321121,J. Feldeine,CNF,509.9,3 esquina der,4,2,50.0,75.0
-2534734,J. Cruz,MAL,431.8,restringida,46,30,65.2,65.2
-2534734,J. Cruz,MAL,431.8,pintura,58,26,44.8,44.8
-2534734,J. Cruz,MAL,431.8,media,24,4,16.7,16.7
-2534734,J. Cruz,MAL,431.8,3 esquina izq,10,6,60.0,90.0
-2534734,J. Cruz,MAL,431.8,3 ala izq,23,10,43.5,65.2
-2534734,J. Cruz,MAL,431.8,3 frente,18,5,27.8,41.7
-2534734,J. Cruz,MAL,431.8,3 ala der,29,6,20.7,31.0
-2534734,J. Cruz,MAL,431.8,3 esquina der,6,1,16.7,25.0
-968070,G. Souza,UAT,321.7,restringida,12,10,83.3,83.3
-968070,G. Souza,UAT,321.7,pintura,3,1,33.3,33.3
-968070,G. Souza,UAT,321.7,media,4,1,25.0,25.0
-968070,G. Souza,UAT,321.7,3 esquina izq,10,2,20.0,30.0
-968070,G. Souza,UAT,321.7,3 ala izq,13,2,15.4,23.1
-968070,G. Souza,UAT,321.7,3 frente,3,1,33.3,50.0
-968070,G. Souza,UAT,321.7,3 ala der,13,7,53.8,80.8
-968070,G. Souza,UAT,321.7,3 esquina der,11,5,45.5,68.2
-16616,N. Catala,BIG,288.6,restringida,15,8,53.3,53.3
-16616,N. Catala,BIG,288.6,pintura,8,2,25.0,25.0
-16616,N. Catala,BIG,288.6,media,4,1,25.0,25.0
-16616,N. Catala,BIG,288.6,3 esquina izq,8,3,37.5,56.2
-16616,N. Catala,BIG,288.6,3 ala izq,13,3,23.1,34.6
-16616,N. Catala,BIG,288.6,3 frente,9,2,22.2,33.3
-16616,N. Catala,BIG,288.6,3 ala der,17,6,35.3,52.9
-16616,N. Catala,BIG,288.6,3 esquina der,9,2,22.2,33.3
-17554,A. Zuvich,AGU,432.9,restringida,51,35,68.6,68.6
-17554,A. Zuvich,AGU,432.9,pintura,44,28,63.6,63.6
-17554,A. Zuvich,AGU,432.9,media,1,1,100.0,100.0
-17554,A. Zuvich,AGU,432.9,3 ala izq,5,1,20.0,30.0
-17554,A. Zuvich,AGU,432.9,3 frente,9,2,22.2,33.3
-17554,A. Zuvich,AGU,432.9,3 ala der,9,3,33.3,50.0
-2620614,A. Spruill,COR,290.5,restringida,21,14,66.7,66.7
-2620614,A. Spruill,COR,290.5,pintura,30,12,40.0,40.0
-2620614,A. Spruill,COR,290.5,media,29,13,44.8,44.8
-2620614,A. Spruill,COR,290.5,3 esquina izq,7,1,14.3,21.4
-2620614,A. Spruill,COR,290.5,3 ala izq,11,2,18.2,27.3
-2620614,A. Spruill,COR,290.5,3 frente,8,2,25.0,37.5
-2620614,A. Spruill,COR,290.5,3 ala der,24,7,29.2,43.8
-2620614,A. Spruill,COR,290.5,3 esquina der,4,1,25.0,37.5
-2486580,J. Canty,HYM,572.8,restringida,114,76,66.7,66.7
-2486580,J. Canty,HYM,572.8,pintura,77,33,42.9,42.9
-2486580,J. Canty,HYM,572.8,media,9,3,33.3,33.3
-2603089,C. Alaekwe,UAT,400.4,restringida,24,13,54.2,54.2
-2603089,C. Alaekwe,UAT,400.4,pintura,35,16,45.7,45.7
-2603089,C. Alaekwe,UAT,400.4,media,27,7,25.9,25.9
-2603089,C. Alaekwe,UAT,400.4,3 esquina izq,9,2,22.2,33.3
-2603089,C. Alaekwe,UAT,400.4,3 ala izq,28,6,21.4,32.1
-2603089,C. Alaekwe,UAT,400.4,3 frente,18,5,27.8,41.7
-2603089,C. Alaekwe,UAT,400.4,3 ala der,23,5,21.7,32.6
-2603089,C. Alaekwe,UAT,400.4,3 esquina der,12,4,33.3,50.0
-1642407,D. Pena Garcia,WEL,355.8,restringida,5,2,40.0,40.0
-1642407,D. Pena Garcia,WEL,355.8,pintura,7,3,42.9,42.9
-1642407,D. Pena Garcia,WEL,355.8,media,2,1,50.0,50.0
-1642407,D. Pena Garcia,WEL,355.8,3 esquina izq,6,2,33.3,50.0
-1642407,D. Pena Garcia,WEL,355.8,3 ala izq,19,8,42.1,63.2
-1642407,D. Pena Garcia,WEL,355.8,3 frente,17,5,29.4,44.1
-1642407,D. Pena Garcia,WEL,355.8,3 ala der,25,6,24.0,36.0
-1642407,D. Pena Garcia,WEL,355.8,3 esquina der,7,3,42.9,64.3
-17677,B. Barrera,CNF,334.9,restringida,36,24,66.7,66.7
-17677,B. Barrera,CNF,334.9,pintura,17,5,29.4,29.4
-17677,B. Barrera,CNF,334.9,media,7,2,28.6,28.6
-17677,B. Barrera,CNF,334.9,3 esquina izq,4,3,75.0,112.5
-17677,B. Barrera,CNF,334.9,3 ala izq,21,8,38.1,57.1
-17677,B. Barrera,CNF,334.9,3 frente,14,4,28.6,42.9
-17677,B. Barrera,CNF,334.9,3 ala der,25,4,16.0,24.0
-17677,B. Barrera,CNF,334.9,3 esquina der,4,1,25.0,37.5
-2486591,Q. Wilson,UAT,623.2,restringida,99,74,74.7,74.7
-2486591,Q. Wilson,UAT,623.2,pintura,55,25,45.5,45.5
-2486591,Q. Wilson,UAT,623.2,media,75,32,42.7,42.7
-2486591,Q. Wilson,UAT,623.2,3 ala izq,4,0,0.0,0.0
-2486591,Q. Wilson,UAT,623.2,3 frente,2,1,50.0,75.0
-1645560,N. Martinez,MAL,560.4,restringida,73,48,65.8,65.8
-1645560,N. Martinez,MAL,560.4,pintura,37,14,37.8,37.8
-1645560,N. Martinez,MAL,560.4,media,6,2,33.3,33.3
-1645560,N. Martinez,MAL,560.4,3 esquina izq,13,3,23.1,34.6
-1645560,N. Martinez,MAL,560.4,3 ala izq,23,7,30.4,45.7
-1645560,N. Martinez,MAL,560.4,3 frente,6,3,50.0,75.0
-1645560,N. Martinez,MAL,560.4,3 ala der,22,10,45.5,68.2
-1645560,N. Martinez,MAL,560.4,3 esquina der,16,5,31.2,46.9
-2261706,S. Conceicao,GOE,264.1,restringida,21,13,61.9,61.9
-2261706,S. Conceicao,GOE,264.1,pintura,15,7,46.7,46.7
-2261706,S. Conceicao,GOE,264.1,media,12,4,33.3,33.3
-2261706,S. Conceicao,GOE,264.1,3 esquina izq,1,0,0.0,0.0
-2261706,S. Conceicao,GOE,264.1,3 ala izq,9,4,44.4,66.7
-2261706,S. Conceicao,GOE,264.1,3 frente,4,0,0.0,0.0
-2261706,S. Conceicao,GOE,264.1,3 ala der,5,3,60.0,90.0
-2261706,S. Conceicao,GOE,264.1,3 esquina der,1,0,0.0,0.0
-15217,F. Haller,HYM,380.9,restringida,33,21,63.6,63.6
-15217,F. Haller,HYM,380.9,pintura,25,16,64.0,64.0
-15217,F. Haller,HYM,380.9,media,76,38,50.0,50.0
-15217,F. Haller,HYM,380.9,3 esquina izq,3,1,33.3,50.0
-15217,F. Haller,HYM,380.9,3 ala izq,14,6,42.9,64.3
-15217,F. Haller,HYM,380.9,3 frente,16,8,50.0,75.0
-15217,F. Haller,HYM,380.9,3 ala der,7,2,28.6,42.9
-15217,F. Haller,HYM,380.9,3 esquina der,1,0,0.0,0.0
-1676246,N. Lema,CAP,273.1,restringida,10,8,80.0,80.0
-1676246,N. Lema,CAP,273.1,pintura,1,0,0.0,0.0
-1676246,N. Lema,CAP,273.1,3 esquina izq,14,4,28.6,42.9
-1676246,N. Lema,CAP,273.1,3 ala izq,7,4,57.1,85.7
-1676246,N. Lema,CAP,273.1,3 frente,3,1,33.3,50.0
-1676246,N. Lema,CAP,273.1,3 ala der,12,4,33.3,50.0
-1676246,N. Lema,CAP,273.1,3 esquina der,6,1,16.7,25.0
-1645559,J. Stoll,WEL,296.2,restringida,13,11,84.6,84.6
-1645559,J. Stoll,WEL,296.2,pintura,9,4,44.4,44.4
-1645559,J. Stoll,WEL,296.2,3 esquina izq,3,0,0.0,0.0
-1645559,J. Stoll,WEL,296.2,3 ala izq,10,4,40.0,60.0
-1645559,J. Stoll,WEL,296.2,3 frente,7,2,28.6,42.9
-1645559,J. Stoll,WEL,296.2,3 ala der,12,0,0.0,0.0
-1645559,J. Stoll,WEL,296.2,3 esquina der,4,0,0.0,0.0
-909792,A. Arevalo,WEL,251.6,restringida,10,3,30.0,30.0
-909792,A. Arevalo,WEL,251.6,pintura,16,3,18.8,18.8
-909792,A. Arevalo,WEL,251.6,media,13,6,46.2,46.2
-909792,A. Arevalo,WEL,251.6,3 esquina izq,1,1,100.0,150.0
-909792,A. Arevalo,WEL,251.6,3 ala izq,16,3,18.8,28.1
-909792,A. Arevalo,WEL,251.6,3 frente,18,5,27.8,41.7
-909792,A. Arevalo,WEL,251.6,3 ala der,36,12,33.3,50.0
-909792,A. Arevalo,WEL,251.6,3 esquina der,5,1,20.0,30.0
-2178363,E. Romero,CAP,250.5,restringida,39,30,76.9,76.9
-2178363,E. Romero,CAP,250.5,pintura,20,10,50.0,50.0
-2178363,E. Romero,CAP,250.5,media,7,1,14.3,14.3
-2178363,E. Romero,CAP,250.5,3 esquina izq,3,0,0.0,0.0
-2178363,E. Romero,CAP,250.5,3 ala izq,3,2,66.7,100.0
-2178363,E. Romero,CAP,250.5,3 frente,2,1,50.0,75.0
-2178363,E. Romero,CAP,250.5,3 ala der,2,0,0.0,0.0
-2178363,E. Romero,CAP,250.5,3 esquina der,1,0,0.0,0.0
-17044,F. Verrone,GOE,372.5,restringida,9,5,55.6,55.6
-17044,F. Verrone,GOE,372.5,pintura,5,2,40.0,40.0
-17044,F. Verrone,GOE,372.5,media,4,1,25.0,25.0
-17044,F. Verrone,GOE,372.5,3 esquina izq,16,6,37.5,56.2
-17044,F. Verrone,GOE,372.5,3 ala izq,25,16,64.0,96.0
-17044,F. Verrone,GOE,372.5,3 frente,14,3,21.4,32.1
-17044,F. Verrone,GOE,372.5,3 ala der,22,7,31.8,47.7
-17044,F. Verrone,GOE,372.5,3 esquina der,11,3,27.3,40.9
-15257,F. Medina,COR,473.6,restringida,33,18,54.5,54.5
-15257,F. Medina,COR,473.6,pintura,37,17,45.9,45.9
-15257,F. Medina,COR,473.6,media,14,5,35.7,35.7
-15257,F. Medina,COR,473.6,3 esquina izq,5,1,20.0,30.0
-15257,F. Medina,COR,473.6,3 ala izq,17,4,23.5,35.3
-15257,F. Medina,COR,473.6,3 frente,12,6,50.0,75.0
-15257,F. Medina,COR,473.6,3 ala der,28,5,17.9,26.8
-15257,F. Medina,COR,473.6,3 esquina der,12,7,58.3,87.5
-43224,N. Colmenares,DSC,506.8,restringida,95,67,70.5,70.5
-43224,N. Colmenares,DSC,506.8,pintura,40,19,47.5,47.5
-43224,N. Colmenares,DSC,506.8,media,5,2,40.0,40.0
-16739,G. Barrera,WEL,476.3,restringida,12,6,50.0,50.0
-16739,G. Barrera,WEL,476.3,pintura,17,6,35.3,35.3
-16739,G. Barrera,WEL,476.3,media,9,2,22.2,22.2
-16739,G. Barrera,WEL,476.3,3 esquina izq,6,2,33.3,50.0
-16739,G. Barrera,WEL,476.3,3 ala izq,15,4,26.7,40.0
-16739,G. Barrera,WEL,476.3,3 frente,11,1,9.1,13.6
-16739,G. Barrera,WEL,476.3,3 ala der,16,4,25.0,37.5
-16739,G. Barrera,WEL,476.3,3 esquina der,8,3,37.5,56.2
-999249,M. Bianchi,DSC,427.0,restringida,45,30,66.7,66.7
-999249,M. Bianchi,DSC,427.0,pintura,32,19,59.4,59.4
-999249,M. Bianchi,DSC,427.0,media,1,0,0.0,0.0
-999249,M. Bianchi,DSC,427.0,3 ala izq,4,1,25.0,37.5
-1338848,M. Giano,UAT,746.1,restringida,70,48,68.6,68.6
-1338848,M. Giano,UAT,746.1,pintura,38,11,28.9,28.9
-1338848,M. Giano,UAT,746.1,media,9,4,44.4,44.4
-1338848,M. Giano,UAT,746.1,3 esquina izq,21,7,33.3,50.0
-1338848,M. Giano,UAT,746.1,3 ala izq,33,14,42.4,63.6
-1338848,M. Giano,UAT,746.1,3 frente,14,5,35.7,53.6
-1338848,M. Giano,UAT,746.1,3 ala der,25,6,24.0,36.0
-1338848,M. Giano,UAT,746.1,3 esquina der,17,11,64.7,97.1
-2534738,I. Ross,UAT,292.2,restringida,22,13,59.1,59.1
-2534738,I. Ross,UAT,292.2,pintura,18,10,55.6,55.6
-2534738,I. Ross,UAT,292.2,media,18,9,50.0,50.0
-2534738,I. Ross,UAT,292.2,3 esquina izq,2,0,0.0,0.0
-2534738,I. Ross,UAT,292.2,3 ala izq,25,10,40.0,60.0
-2534738,I. Ross,UAT,292.2,3 frente,25,5,20.0,30.0
-2534738,I. Ross,UAT,292.2,3 ala der,21,4,19.0,28.6
-2534738,I. Ross,UAT,292.2,3 esquina der,4,1,25.0,37.5
-1346396,S. Fernandez,MAL,477.2,restringida,36,18,50.0,50.0
-1346396,S. Fernandez,MAL,477.2,pintura,32,11,34.4,34.4
-1346396,S. Fernandez,MAL,477.2,media,11,4,36.4,36.4
-1346396,S. Fernandez,MAL,477.2,3 esquina izq,5,2,40.0,60.0
-1346396,S. Fernandez,MAL,477.2,3 ala izq,47,14,29.8,44.7
-1346396,S. Fernandez,MAL,477.2,3 frente,18,5,27.8,41.7
-1346396,S. Fernandez,MAL,477.2,3 ala der,24,11,45.8,68.8
-1346396,S. Fernandez,MAL,477.2,3 esquina der,9,3,33.3,50.0
-1924909,F. Hassell,BIG,329.2,restringida,58,37,63.8,63.8
-1924909,F. Hassell,BIG,329.2,pintura,65,34,52.3,52.3
-1924909,F. Hassell,BIG,329.2,media,10,5,50.0,50.0
-17488,K. Wachsman,MAL,556.5,restringida,48,25,52.1,52.1
-17488,K. Wachsman,MAL,556.5,pintura,13,4,30.8,30.8
-17488,K. Wachsman,MAL,556.5,media,7,5,71.4,71.4
-17488,K. Wachsman,MAL,556.5,3 frente,2,0,0.0,0.0
-16508,A. Acosta,GOE,454.4,restringida,18,12,66.7,66.7
-16508,A. Acosta,GOE,454.4,pintura,31,11,35.5,35.5
-16508,A. Acosta,GOE,454.4,media,6,2,33.3,33.3
-16508,A. Acosta,GOE,454.4,3 esquina izq,13,4,30.8,46.2
-16508,A. Acosta,GOE,454.4,3 ala izq,22,9,40.9,61.4
-16508,A. Acosta,GOE,454.4,3 frente,11,3,27.3,40.9
-16508,A. Acosta,GOE,454.4,3 ala der,23,4,17.4,26.1
-16508,A. Acosta,GOE,454.4,3 esquina der,9,4,44.4,66.7
-2386709,C. Zinaich,CNF,433.4,restringida,89,73,82.0,82.0
-2386709,C. Zinaich,CNF,433.4,pintura,42,19,45.2,45.2
-2386709,C. Zinaich,CNF,433.4,media,15,1,6.7,6.7
-2386709,C. Zinaich,CNF,433.4,3 esquina izq,1,0,0.0,0.0
-2386709,C. Zinaich,CNF,433.4,3 ala izq,2,0,0.0,0.0
-2386709,C. Zinaich,CNF,433.4,3 frente,9,2,22.2,33.3
-2386709,C. Zinaich,CNF,433.4,3 ala der,14,5,35.7,53.6
-2386709,C. Zinaich,CNF,433.4,3 esquina der,4,3,75.0,112.5
-1989296,T. Rodriguez,BIG,279.4,restringida,22,15,68.2,68.2
-1989296,T. Rodriguez,BIG,279.4,pintura,21,11,52.4,52.4
-1989296,T. Rodriguez,BIG,279.4,media,9,3,33.3,33.3
-1989296,T. Rodriguez,BIG,279.4,3 esquina izq,3,2,66.7,100.0
-1989296,T. Rodriguez,BIG,279.4,3 ala izq,6,3,50.0,75.0
-1989296,T. Rodriguez,BIG,279.4,3 frente,19,4,21.1,31.6
-1989296,T. Rodriguez,BIG,279.4,3 ala der,13,3,23.1,34.6
-1989296,T. Rodriguez,BIG,279.4,3 esquina der,5,4,80.0,120.0
-623893,L. Planells,COR,208.3,restringida,4,4,100.0,100.0
-623893,L. Planells,COR,208.3,pintura,2,0,0.0,0.0
-623893,L. Planells,COR,208.3,media,3,1,33.3,33.3
-623893,L. Planells,COR,208.3,3 esquina izq,3,0,0.0,0.0
-623893,L. Planells,COR,208.3,3 ala izq,13,4,30.8,46.2
-623893,L. Planells,COR,208.3,3 frente,4,2,50.0,75.0
-623893,L. Planells,COR,208.3,3 ala der,10,1,10.0,15.0
-623893,L. Planells,COR,208.3,3 esquina der,5,2,40.0,60.0
-2620317,T. Ferguson,WEL,223.4,restringida,21,11,52.4,52.4
-2620317,T. Ferguson,WEL,223.4,pintura,27,15,55.6,55.6
-2620317,T. Ferguson,WEL,223.4,media,21,6,28.6,28.6
-2620317,T. Ferguson,WEL,223.4,3 esquina izq,2,2,100.0,150.0
-2620317,T. Ferguson,WEL,223.4,3 ala izq,2,0,0.0,0.0
-2620317,T. Ferguson,WEL,223.4,3 frente,3,1,33.3,50.0
-2620317,T. Ferguson,WEL,223.4,3 ala der,6,1,16.7,25.0
-2620317,T. Ferguson,WEL,223.4,3 esquina der,4,0,0.0,0.0
-2589974,E. Weaver,DSC,470.9,restringida,59,51,86.4,86.4
-2589974,E. Weaver,DSC,470.9,pintura,32,18,56.2,56.2
-2589974,E. Weaver,DSC,470.9,media,20,8,40.0,40.0
-2589974,E. Weaver,DSC,470.9,3 esquina izq,10,7,70.0,105.0
-2589974,E. Weaver,DSC,470.9,3 ala izq,23,11,47.8,71.7
-2589974,E. Weaver,DSC,470.9,3 frente,25,10,40.0,60.0
-2589974,E. Weaver,DSC,470.9,3 ala der,24,6,25.0,37.5
-2589974,E. Weaver,DSC,470.9,3 esquina der,9,6,66.7,100.0
-571401,X. Couste,GOE,311.2,restringida,14,12,85.7,85.7
-571401,X. Couste,GOE,311.2,pintura,12,5,41.7,41.7
-571401,X. Couste,GOE,311.2,media,10,3,30.0,30.0
-571401,X. Couste,GOE,311.2,3 esquina izq,10,3,30.0,45.0
-571401,X. Couste,GOE,311.2,3 ala izq,25,11,44.0,66.0
-571401,X. Couste,GOE,311.2,3 frente,10,2,20.0,30.0
-571401,X. Couste,GOE,311.2,3 ala der,13,5,38.5,57.7
-571401,X. Couste,GOE,311.2,3 esquina der,13,4,30.8,46.2
-811063,N. Pomoli,CAP,514.8,restringida,60,31,51.7,51.7
-811063,N. Pomoli,CAP,514.8,pintura,71,29,40.8,40.8
-811063,N. Pomoli,CAP,514.8,media,3,0,0.0,0.0
-811063,N. Pomoli,CAP,514.8,3 esquina izq,10,2,20.0,30.0
-811063,N. Pomoli,CAP,514.8,3 ala izq,34,14,41.2,61.8
-811063,N. Pomoli,CAP,514.8,3 frente,17,6,35.3,52.9
-811063,N. Pomoli,CAP,514.8,3 ala der,38,15,39.5,59.2
-811063,N. Pomoli,CAP,514.8,3 esquina der,16,6,37.5,56.2
-701864,D. Sims,AGU,214.1,restringida,14,10,71.4,71.4
-701864,D. Sims,AGU,214.1,pintura,21,11,52.4,52.4
-701864,D. Sims,AGU,214.1,media,9,5,55.6,55.6
-701864,D. Sims,AGU,214.1,3 esquina izq,1,1,100.0,150.0
-701864,D. Sims,AGU,214.1,3 ala izq,12,5,41.7,62.5
-701864,D. Sims,AGU,214.1,3 frente,12,6,50.0,75.0
-701864,D. Sims,AGU,214.1,3 ala der,11,4,36.4,54.5
-701864,D. Sims,AGU,214.1,3 esquina der,5,4,80.0,120.0
-208488,J. Ducasse,UAT,608.8,restringida,45,34,75.6,75.6
-208488,J. Ducasse,UAT,608.8,pintura,26,12,46.2,46.2
-208488,J. Ducasse,UAT,608.8,media,12,4,33.3,33.3
-208488,J. Ducasse,UAT,608.8,3 esquina izq,8,2,25.0,37.5
-208488,J. Ducasse,UAT,608.8,3 ala izq,24,6,25.0,37.5
-208488,J. Ducasse,UAT,608.8,3 frente,18,5,27.8,41.7
-208488,J. Ducasse,UAT,608.8,3 ala der,25,5,20.0,30.0
-208488,J. Ducasse,UAT,608.8,3 esquina der,11,2,18.2,27.3
-15196,M. Cabot,CNF,302.2,restringida,16,11,68.8,68.8
-15196,M. Cabot,CNF,302.2,pintura,15,7,46.7,46.7
-15196,M. Cabot,CNF,302.2,media,12,5,41.7,41.7
-15196,M. Cabot,CNF,302.2,3 esquina izq,2,1,50.0,75.0
-15196,M. Cabot,CNF,302.2,3 ala izq,15,5,33.3,50.0
-15196,M. Cabot,CNF,302.2,3 frente,11,3,27.3,40.9
-15196,M. Cabot,CNF,302.2,3 ala der,14,4,28.6,42.9
-15196,M. Cabot,CNF,302.2,3 esquina der,13,2,15.4,23.1
-2394559,D. Zekovic,MAL,566.0,restringida,48,33,68.8,68.8
-2394559,D. Zekovic,MAL,566.0,pintura,56,29,51.8,51.8
-2394559,D. Zekovic,MAL,566.0,media,17,10,58.8,58.8
-2394559,D. Zekovic,MAL,566.0,3 esquina izq,2,1,50.0,75.0
-2394559,D. Zekovic,MAL,566.0,3 ala izq,21,6,28.6,42.9
-2394559,D. Zekovic,MAL,566.0,3 frente,38,13,34.2,51.3
-2394559,D. Zekovic,MAL,566.0,3 ala der,23,6,26.1,39.1
-2394559,D. Zekovic,MAL,566.0,3 esquina der,1,1,100.0,150.0
-2577763,A. Gilder Jr.,COR,214.6,restringida,30,21,70.0,70.0
-2577763,A. Gilder Jr.,COR,214.6,pintura,31,15,48.4,48.4
-2577763,A. Gilder Jr.,COR,214.6,media,11,3,27.3,27.3
-2577763,A. Gilder Jr.,COR,214.6,3 esquina izq,3,1,33.3,50.0
-2577763,A. Gilder Jr.,COR,214.6,3 ala izq,17,3,17.6,26.5
-2577763,A. Gilder Jr.,COR,214.6,3 frente,9,6,66.7,100.0
-2577763,A. Gilder Jr.,COR,214.6,3 ala der,21,7,33.3,50.0
-2577763,A. Gilder Jr.,COR,214.6,3 esquina der,5,3,60.0,90.0
-1661038,P. Gomez,CNF,245.9,restringida,48,24,50.0,50.0
-1661038,P. Gomez,CNF,245.9,pintura,10,3,30.0,30.0
-1661038,P. Gomez,CNF,245.9,media,2,0,0.0,0.0
-1661038,P. Gomez,CNF,245.9,3 frente,2,0,0.0,0.0
-14724,S. Vidal,AGU,540.5,restringida,31,13,41.9,41.9
-14724,S. Vidal,AGU,540.5,pintura,32,14,43.8,43.8
-14724,S. Vidal,AGU,540.5,media,13,5,38.5,38.5
-14724,S. Vidal,AGU,540.5,3 esquina izq,9,6,66.7,100.0
-14724,S. Vidal,AGU,540.5,3 ala izq,21,12,57.1,85.7
-14724,S. Vidal,AGU,540.5,3 frente,28,9,32.1,48.2
-14724,S. Vidal,AGU,540.5,3 ala der,26,13,50.0,75.0
-14724,S. Vidal,AGU,540.5,3 esquina der,7,5,71.4,107.1
-62685,S. Massa,UUN,495.4,restringida,27,21,77.8,77.8
-62685,S. Massa,UUN,495.4,pintura,22,10,45.5,45.5
-62685,S. Massa,UUN,495.4,media,12,3,25.0,25.0
-62685,S. Massa,UUN,495.4,3 esquina izq,17,6,35.3,52.9
-62685,S. Massa,UUN,495.4,3 ala izq,35,11,31.4,47.1
-62685,S. Massa,UUN,495.4,3 frente,23,5,21.7,32.6
-62685,S. Massa,UUN,495.4,3 ala der,33,14,42.4,63.6
-62685,S. Massa,UUN,495.4,3 esquina der,24,9,37.5,56.2
-2288279,J. Strings,GOE,379.6,restringida,30,22,73.3,73.3
-2288279,J. Strings,GOE,379.6,pintura,80,34,42.5,42.5
-2288279,J. Strings,GOE,379.6,media,39,14,35.9,35.9
-2288279,J. Strings,GOE,379.6,3 ala izq,2,1,50.0,75.0
-2288279,J. Strings,GOE,379.6,3 frente,8,2,25.0,37.5
-2288279,J. Strings,GOE,379.6,3 ala der,7,3,42.9,64.3
-17571,F. Pereiras,AGU,498.0,restringida,37,22,59.5,59.5
-17571,F. Pereiras,AGU,498.0,pintura,12,7,58.3,58.3
-17571,F. Pereiras,AGU,498.0,media,5,4,80.0,80.0
-17571,F. Pereiras,AGU,498.0,3 esquina izq,13,2,15.4,23.1
-17571,F. Pereiras,AGU,498.0,3 ala izq,26,6,23.1,34.6
-17571,F. Pereiras,AGU,498.0,3 frente,7,5,71.4,107.1
-17571,F. Pereiras,AGU,498.0,3 ala der,21,7,33.3,50.0
-17571,F. Pereiras,AGU,498.0,3 esquina der,16,7,43.8,65.6
-258681,M. Rojas,CAP,436.6,restringida,43,27,62.8,62.8
-258681,M. Rojas,CAP,436.6,pintura,44,20,45.5,45.5
-258681,M. Rojas,CAP,436.6,media,1,0,0.0,0.0
-258681,M. Rojas,CAP,436.6,3 ala izq,2,0,0.0,0.0
-258681,M. Rojas,CAP,436.6,3 frente,7,3,42.9,64.3
-258681,M. Rojas,CAP,436.6,3 ala der,3,2,66.7,100.0
-1314581,R. Previatti,WEL,318.1,restringida,36,20,55.6,55.6
-1314581,R. Previatti,WEL,318.1,pintura,22,13,59.1,59.1
-1314581,R. Previatti,WEL,318.1,media,3,1,33.3,33.3
-1314581,R. Previatti,WEL,318.1,3 esquina izq,4,2,50.0,75.0
-1314581,R. Previatti,WEL,318.1,3 ala izq,3,2,66.7,100.0
-1314581,R. Previatti,WEL,318.1,3 frente,9,5,55.6,83.3
-1314581,R. Previatti,WEL,318.1,3 ala der,1,0,0.0,0.0
-1314581,R. Previatti,WEL,318.1,3 esquina der,2,1,50.0,75.0
-2534717,E. Clark,AGU,668.9,restringida,63,42,66.7,66.7
-2534717,E. Clark,AGU,668.9,pintura,46,22,47.8,47.8
-2534717,E. Clark,AGU,668.9,media,95,41,43.2,43.2
-2534717,E. Clark,AGU,668.9,3 esquina izq,10,5,50.0,75.0
-2534717,E. Clark,AGU,668.9,3 ala izq,32,10,31.2,46.9
-2534717,E. Clark,AGU,668.9,3 frente,26,11,42.3,63.5
-2534717,E. Clark,AGU,668.9,3 ala der,25,11,44.0,66.0
-2534717,E. Clark,AGU,668.9,3 esquina der,17,9,52.9,79.4
-617418,S. Vescovi,CAP,560.9,restringida,45,34,75.6,75.6
-617418,S. Vescovi,CAP,560.9,pintura,37,15,40.5,40.5
-617418,S. Vescovi,CAP,560.9,media,3,1,33.3,33.3
-617418,S. Vescovi,CAP,560.9,3 esquina izq,10,2,20.0,30.0
-617418,S. Vescovi,CAP,560.9,3 ala izq,38,11,28.9,43.4
-617418,S. Vescovi,CAP,560.9,3 frente,31,18,58.1,87.1
-617418,S. Vescovi,CAP,560.9,3 ala der,35,16,45.7,68.6
-617418,S. Vescovi,CAP,560.9,3 esquina der,11,6,54.5,81.8
-191820,F. Terra,DSC,642.0,restringida,58,34,58.6,58.6
-191820,F. Terra,DSC,642.0,pintura,55,16,29.1,29.1
-191820,F. Terra,DSC,642.0,media,34,9,26.5,26.5
-191820,F. Terra,DSC,642.0,3 esquina izq,2,0,0.0,0.0
-191820,F. Terra,DSC,642.0,3 ala izq,36,12,33.3,50.0
-191820,F. Terra,DSC,642.0,3 frente,33,12,36.4,54.5
-191820,F. Terra,DSC,642.0,3 ala der,30,10,33.3,50.0
-16715,B. Garcia,BIG,383.9,restringida,4,3,75.0,75.0
-16715,B. Garcia,BIG,383.9,pintura,5,1,20.0,20.0
-16715,B. Garcia,BIG,383.9,media,2,0,0.0,0.0
-16715,B. Garcia,BIG,383.9,3 esquina izq,12,3,25.0,37.5
-16715,B. Garcia,BIG,383.9,3 ala izq,26,10,38.5,57.7
-16715,B. Garcia,BIG,383.9,3 frente,4,0,0.0,0.0
-16715,B. Garcia,BIG,383.9,3 ala der,22,7,31.8,47.7
-16715,B. Garcia,BIG,383.9,3 esquina der,7,2,28.6,42.9
-2096885,A. Peña,WEL,366.9,restringida,62,42,67.7,67.7
-2096885,A. Peña,WEL,366.9,pintura,46,28,60.9,60.9
-2096885,A. Peña,WEL,366.9,media,10,3,30.0,30.0
-2096885,A. Peña,WEL,366.9,3 esquina izq,1,0,0.0,0.0
-2096885,A. Peña,WEL,366.9,3 ala izq,4,1,25.0,37.5
-2096885,A. Peña,WEL,366.9,3 ala der,8,1,12.5,18.8
-2096885,A. Peña,WEL,366.9,3 esquina der,5,1,20.0,30.0
-425204,A. Louis,HYM,560.1,restringida,91,53,58.2,58.2
-425204,A. Louis,HYM,560.1,pintura,31,8,25.8,25.8
-425204,A. Louis,HYM,560.1,media,55,24,43.6,43.6
-425204,A. Louis,HYM,560.1,3 esquina izq,18,7,38.9,58.3
-425204,A. Louis,HYM,560.1,3 ala izq,24,10,41.7,62.5
-425204,A. Louis,HYM,560.1,3 frente,22,9,40.9,61.4
-425204,A. Louis,HYM,560.1,3 ala der,19,6,31.6,47.4
-425204,A. Louis,HYM,560.1,3 esquina der,8,1,12.5,18.8
-983931,T. Leites,COR,509.8,restringida,64,44,68.8,68.8
-983931,T. Leites,COR,509.8,pintura,37,14,37.8,37.8
-983931,T. Leites,COR,509.8,media,6,4,66.7,66.7
-983931,T. Leites,COR,509.8,3 ala izq,3,0,0.0,0.0
-983931,T. Leites,COR,509.8,3 frente,1,0,0.0,0.0
-983931,T. Leites,COR,509.8,3 ala der,3,0,0.0,0.0
-983931,T. Leites,COR,509.8,3 esquina der,7,1,14.3,21.4
-17046,M. Zubiaurre,DSC,408.3,restringida,42,29,69.0,69.0
-17046,M. Zubiaurre,DSC,408.3,pintura,34,15,44.1,44.1
-17046,M. Zubiaurre,DSC,408.3,media,8,4,50.0,50.0
-17046,M. Zubiaurre,DSC,408.3,3 esquina izq,5,3,60.0,90.0
-17046,M. Zubiaurre,DSC,408.3,3 ala izq,10,1,10.0,15.0
-17046,M. Zubiaurre,DSC,408.3,3 frente,9,1,11.1,16.7
-17046,M. Zubiaurre,DSC,408.3,3 ala der,10,3,30.0,45.0
-17046,M. Zubiaurre,DSC,408.3,3 esquina der,7,4,57.1,85.7
-1644398,J. Sacco,UUN,246.7,restringida,35,22,62.9,62.9
-1644398,J. Sacco,UUN,246.7,pintura,20,9,45.0,45.0
-1644398,J. Sacco,UUN,246.7,media,4,0,0.0,0.0
-1644398,J. Sacco,UUN,246.7,3 ala izq,1,0,0.0,0.0
-1644398,J. Sacco,UUN,246.7,3 frente,1,0,0.0,0.0
-1644398,J. Sacco,UUN,246.7,3 esquina der,1,1,100.0,150.0
-1722930,P. Prieto,CNF,489.6,restringida,61,37,60.7,60.7
-1722930,P. Prieto,CNF,489.6,pintura,14,5,35.7,35.7
-1722930,P. Prieto,CNF,489.6,media,4,0,0.0,0.0
-1722930,P. Prieto,CNF,489.6,3 esquina izq,14,5,35.7,53.6
-1722930,P. Prieto,CNF,489.6,3 ala izq,33,9,27.3,40.9
-1722930,P. Prieto,CNF,489.6,3 frente,11,5,45.5,68.2
-1722930,P. Prieto,CNF,489.6,3 ala der,31,13,41.9,62.9
-1722930,P. Prieto,CNF,489.6,3 esquina der,20,11,55.0,82.5
-17669,G. Espindola,CNF,483.9,restringida,52,25,48.1,48.1
-17669,G. Espindola,CNF,483.9,pintura,41,15,36.6,36.6
-17669,G. Espindola,CNF,483.9,media,12,2,16.7,16.7
-17669,G. Espindola,CNF,483.9,3 esquina izq,4,1,25.0,37.5
-17669,G. Espindola,CNF,483.9,3 ala izq,8,4,50.0,75.0
-17669,G. Espindola,CNF,483.9,3 frente,7,1,14.3,21.4
-17669,G. Espindola,CNF,483.9,3 ala der,17,4,23.5,35.3
-17669,G. Espindola,CNF,483.9,3 esquina der,8,5,62.5,93.8
-17071,F. Bavosi,CAP,284.0,restringida,2,2,100.0,100.0
-17071,F. Bavosi,CAP,284.0,pintura,5,1,20.0,20.0
-17071,F. Bavosi,CAP,284.0,media,7,3,42.9,42.9
-17071,F. Bavosi,CAP,284.0,3 esquina izq,5,2,40.0,60.0
-17071,F. Bavosi,CAP,284.0,3 ala izq,11,3,27.3,40.9
-17071,F. Bavosi,CAP,284.0,3 frente,4,1,25.0,37.5
-17071,F. Bavosi,CAP,284.0,3 ala der,10,3,30.0,45.0
-17071,F. Bavosi,CAP,284.0,3 esquina der,6,1,16.7,25.0
-539387,F. Soto,DSC,459.0,restringida,34,21,61.8,61.8
-539387,F. Soto,DSC,459.0,pintura,13,8,61.5,61.5
-539387,F. Soto,DSC,459.0,media,6,1,16.7,16.7
-539387,F. Soto,DSC,459.0,3 esquina izq,16,6,37.5,56.2
-539387,F. Soto,DSC,459.0,3 ala izq,22,6,27.3,40.9
-539387,F. Soto,DSC,459.0,3 frente,5,0,0.0,0.0
-539387,F. Soto,DSC,459.0,3 ala der,20,7,35.0,52.5
-539387,F. Soto,DSC,459.0,3 esquina der,9,5,55.6,83.3
-1975797,A. Ibarguen,CAP,454.8,restringida,83,64,77.1,77.1
-1975797,A. Ibarguen,CAP,454.8,pintura,57,36,63.2,63.2
-1975797,A. Ibarguen,CAP,454.8,media,11,3,27.3,27.3
-1975797,A. Ibarguen,CAP,454.8,3 frente,2,0,0.0,0.0
-1975797,A. Ibarguen,CAP,454.8,3 esquina der,1,0,0.0,0.0
-2486578,A. Nation,HYM,491.9,restringida,63,36,57.1,57.1
-2486578,A. Nation,HYM,491.9,pintura,22,12,54.5,54.5
-2486578,A. Nation,HYM,491.9,media,27,12,44.4,44.4
-2486578,A. Nation,HYM,491.9,3 esquina izq,6,1,16.7,25.0
-2486578,A. Nation,HYM,491.9,3 ala izq,26,14,53.8,80.8
-2486578,A. Nation,HYM,491.9,3 frente,15,4,26.7,40.0
-2486578,A. Nation,HYM,491.9,3 ala der,16,4,25.0,37.5
-2486578,A. Nation,HYM,491.9,3 esquina der,6,1,16.7,25.0
-1723827,M. Mac Mullen,DSC,236.5,restringida,12,7,58.3,58.3
-1723827,M. Mac Mullen,DSC,236.5,pintura,8,5,62.5,62.5
-1723827,M. Mac Mullen,DSC,236.5,media,12,4,33.3,33.3
-1723827,M. Mac Mullen,DSC,236.5,3 esquina izq,4,1,25.0,37.5
-1723827,M. Mac Mullen,DSC,236.5,3 ala izq,12,2,16.7,25.0
-1723827,M. Mac Mullen,DSC,236.5,3 frente,2,1,50.0,75.0
-1723827,M. Mac Mullen,DSC,236.5,3 ala der,10,5,50.0,75.0
-1723827,M. Mac Mullen,DSC,236.5,3 esquina der,4,4,100.0,150.0
-43252,M. Sarni,UUN,611.5,restringida,38,21,55.3,55.3
-43252,M. Sarni,UUN,611.5,pintura,70,24,34.3,34.3
-43252,M. Sarni,UUN,611.5,media,17,4,23.5,23.5
-43252,M. Sarni,UUN,611.5,3 esquina izq,1,0,0.0,0.0
-43252,M. Sarni,UUN,611.5,3 ala izq,18,5,27.8,41.7
-43252,M. Sarni,UUN,611.5,3 frente,20,9,45.0,67.5
-43252,M. Sarni,UUN,611.5,3 ala der,7,4,57.1,85.7
-1334179,F. Garcia,WEL,511.5,restringida,28,13,46.4,46.4
-1334179,F. Garcia,WEL,511.5,pintura,26,10,38.5,38.5
-1334179,F. Garcia,WEL,511.5,media,10,4,40.0,40.0
-1334179,F. Garcia,WEL,511.5,3 esquina izq,11,3,27.3,40.9
-1334179,F. Garcia,WEL,511.5,3 ala izq,27,12,44.4,66.7
-1334179,F. Garcia,WEL,511.5,3 frente,33,14,42.4,63.6
-1334179,F. Garcia,WEL,511.5,3 ala der,37,16,43.2,64.9
-1334179,F. Garcia,WEL,511.5,3 esquina der,6,0,0.0,0.0
-16807,A. Lopez,UAT,408.5,restringida,23,15,65.2,65.2
-16807,A. Lopez,UAT,408.5,pintura,13,5,38.5,38.5
-16807,A. Lopez,UAT,408.5,media,16,2,12.5,12.5
-16807,A. Lopez,UAT,408.5,3 esquina izq,21,9,42.9,64.3
-16807,A. Lopez,UAT,408.5,3 ala izq,16,4,25.0,37.5
-16807,A. Lopez,UAT,408.5,3 frente,8,2,25.0,37.5
-16807,A. Lopez,UAT,408.5,3 ala der,25,7,28.0,42.0
-16807,A. Lopez,UAT,408.5,3 esquina der,28,17,60.7,91.1
-2534718,J. Matos,BIG,647.5,restringida,71,36,50.7,50.7
-2534718,J. Matos,BIG,647.5,pintura,83,35,42.2,42.2
-2534718,J. Matos,BIG,647.5,media,38,15,39.5,39.5
-2534718,J. Matos,BIG,647.5,3 esquina izq,12,8,66.7,100.0
-2534718,J. Matos,BIG,647.5,3 ala izq,57,19,33.3,50.0
-2534718,J. Matos,BIG,647.5,3 frente,18,4,22.2,33.3
-2534718,J. Matos,BIG,647.5,3 ala der,41,15,36.6,54.9
-2534718,J. Matos,BIG,647.5,3 esquina der,10,2,20.0,30.0
-1871466,A. Pruitt,GOE,400.9,restringida,35,21,60.0,60.0
-1871466,A. Pruitt,GOE,400.9,pintura,27,12,44.4,44.4
-1871466,A. Pruitt,GOE,400.9,media,18,6,33.3,33.3
-1871466,A. Pruitt,GOE,400.9,3 esquina izq,6,3,50.0,75.0
-1871466,A. Pruitt,GOE,400.9,3 ala izq,28,8,28.6,42.9
-1871466,A. Pruitt,GOE,400.9,3 frente,10,4,40.0,60.0
-1871466,A. Pruitt,GOE,400.9,3 ala der,18,5,27.8,41.7
-1871466,A. Pruitt,GOE,400.9,3 esquina der,3,0,0.0,0.0
-1642412,S. Hogan,CAP,602.1,restringida,62,45,72.6,72.6
-1642412,S. Hogan,CAP,602.1,pintura,69,33,47.8,47.8
-1642412,S. Hogan,CAP,602.1,media,41,23,56.1,56.1
-1642412,S. Hogan,CAP,602.1,3 esquina izq,10,6,60.0,90.0
-1642412,S. Hogan,CAP,602.1,3 ala izq,16,6,37.5,56.2
-1642412,S. Hogan,CAP,602.1,3 frente,5,2,40.0,60.0
-1642412,S. Hogan,CAP,602.1,3 ala der,18,9,50.0,75.0
-1642412,S. Hogan,CAP,602.1,3 esquina der,19,8,42.1,63.2
-1894506,A. Mendez,CNF,366.3,restringida,22,13,59.1,59.1
-1894506,A. Mendez,CNF,366.3,pintura,9,6,66.7,66.7
-1894506,A. Mendez,CNF,366.3,media,5,1,20.0,20.0
-1894506,A. Mendez,CNF,366.3,3 esquina izq,17,7,41.2,61.8
-1894506,A. Mendez,CNF,366.3,3 ala izq,28,13,46.4,69.6
-1894506,A. Mendez,CNF,366.3,3 frente,12,4,33.3,50.0
-1894506,A. Mendez,CNF,366.3,3 ala der,17,8,47.1,70.6
-1894506,A. Mendez,CNF,366.3,3 esquina der,9,5,55.6,83.3
-2619167,T. Cracknell,GOE,312.9,restringida,21,13,61.9,61.9
-2619167,T. Cracknell,GOE,312.9,pintura,22,7,31.8,31.8
-2619167,T. Cracknell,GOE,312.9,media,30,8,26.7,26.7
-2619167,T. Cracknell,GOE,312.9,3 esquina izq,4,0,0.0,0.0
-2619167,T. Cracknell,GOE,312.9,3 ala izq,8,2,25.0,37.5
-2619167,T. Cracknell,GOE,312.9,3 frente,19,7,36.8,55.3
-2619167,T. Cracknell,GOE,312.9,3 ala der,16,9,56.2,84.4
-2619167,T. Cracknell,GOE,312.9,3 esquina der,1,0,0.0,0.0
-17628,E. Oglivie,CNF,257.7,restringida,60,48,80.0,80.0
-17628,E. Oglivie,CNF,257.7,pintura,27,9,33.3,33.3
-17628,E. Oglivie,CNF,257.7,media,4,1,25.0,25.0
-17628,E. Oglivie,CNF,257.7,3 frente,4,0,0.0,0.0
-17628,E. Oglivie,CNF,257.7,3 ala der,1,1,100.0,150.0
-16857,G. Iglesias,BIG,520.4,restringida,28,16,57.1,57.1
-16857,G. Iglesias,BIG,520.4,pintura,26,12,46.2,46.2
-16857,G. Iglesias,BIG,520.4,media,12,4,33.3,33.3
-16857,G. Iglesias,BIG,520.4,3 esquina izq,4,4,100.0,150.0
-16857,G. Iglesias,BIG,520.4,3 ala izq,31,13,41.9,62.9
-16857,G. Iglesias,BIG,520.4,3 frente,28,10,35.7,53.6
-16857,G. Iglesias,BIG,520.4,3 ala der,31,9,29.0,43.5
-16857,G. Iglesias,BIG,520.4,3 esquina der,8,2,25.0,37.5
-2534742,T. Daniels,UUN,447.4,restringida,66,58,87.9,87.9
-2534742,T. Daniels,UUN,447.4,pintura,20,9,45.0,45.0
-2534742,T. Daniels,UUN,447.4,media,9,3,33.3,33.3
-2534742,T. Daniels,UUN,447.4,3 ala izq,8,2,25.0,37.5
-2534742,T. Daniels,UUN,447.4,3 frente,16,9,56.2,84.4
-2534742,T. Daniels,UUN,447.4,3 ala der,7,1,14.3,21.4
-258698,M. Mayora,HYM,464.2,restringida,34,21,61.8,61.8
-258698,M. Mayora,HYM,464.2,pintura,19,7,36.8,36.8
-258698,M. Mayora,HYM,464.2,media,30,10,33.3,33.3
-258698,M. Mayora,HYM,464.2,3 esquina izq,4,3,75.0,112.5
-258698,M. Mayora,HYM,464.2,3 ala izq,7,1,14.3,21.4
-258698,M. Mayora,HYM,464.2,3 frente,3,0,0.0,0.0
-258698,M. Mayora,HYM,464.2,3 ala der,10,3,30.0,45.0
-258698,M. Mayora,HYM,464.2,3 esquina der,4,1,25.0,37.5
 2413907,E. Bell,CNF,318.4,restringida,67,50,74.6,74.6
 2413907,E. Bell,CNF,318.4,pintura,20,8,40.0,40.0
 2413907,E. Bell,CNF,318.4,media,5,2,40.0,40.0
-2413907,E. Bell,CNF,318.4,3 ala izq,1,0,0.0,0.0
+2413907,E. Bell,CNF,318.4,3 ala izq,4,1,25.0,37.5
 2413907,E. Bell,CNF,318.4,3 frente,3,0,0.0,0.0
-2413907,E. Bell,CNF,318.4,3 ala der,4,1,25.0,37.5
-17101,J. Santiso,AGU,592.6,restringida,45,25,55.6,55.6
-17101,J. Santiso,AGU,592.6,pintura,39,14,35.9,35.9
-17101,J. Santiso,AGU,592.6,media,4,1,25.0,25.0
-17101,J. Santiso,AGU,592.6,3 esquina izq,8,2,25.0,37.5
-17101,J. Santiso,AGU,592.6,3 ala izq,23,9,39.1,58.7
-17101,J. Santiso,AGU,592.6,3 frente,32,9,28.1,42.2
-17101,J. Santiso,AGU,592.6,3 ala der,27,7,25.9,38.9
-17101,J. Santiso,AGU,592.6,3 esquina der,6,1,16.7,25.0
-2074488,M. Benitez,UUN,380.9,restringida,57,43,75.4,75.4
-2074488,M. Benitez,UUN,380.9,pintura,22,7,31.8,31.8
-2074488,M. Benitez,UUN,380.9,media,3,2,66.7,66.7
-2074488,M. Benitez,UUN,380.9,3 esquina izq,9,2,22.2,33.3
-2074488,M. Benitez,UUN,380.9,3 ala izq,19,3,15.8,23.7
-2074488,M. Benitez,UUN,380.9,3 frente,7,2,28.6,42.9
-2074488,M. Benitez,UUN,380.9,3 ala der,4,1,25.0,37.5
-2074488,M. Benitez,UUN,380.9,3 esquina der,13,2,15.4,23.1
-15216,E. Gonzalez,COR,489.1,restringida,40,23,57.5,57.5
-15216,E. Gonzalez,COR,489.1,pintura,20,8,40.0,40.0
-15216,E. Gonzalez,COR,489.1,media,7,1,14.3,14.3
-15216,E. Gonzalez,COR,489.1,3 esquina izq,6,3,50.0,75.0
-15216,E. Gonzalez,COR,489.1,3 ala izq,25,7,28.0,42.0
-15216,E. Gonzalez,COR,489.1,3 frente,9,2,22.2,33.3
-15216,E. Gonzalez,COR,489.1,3 ala der,37,11,29.7,44.6
-15216,E. Gonzalez,COR,489.1,3 esquina der,9,4,44.4,66.7
-16177,M. Romero,MAL,489.6,restringida,19,9,47.4,47.4
-16177,M. Romero,MAL,489.6,pintura,15,4,26.7,26.7
-16177,M. Romero,MAL,489.6,media,5,3,60.0,60.0
-16177,M. Romero,MAL,489.6,3 esquina izq,11,3,27.3,40.9
-16177,M. Romero,MAL,489.6,3 ala izq,17,7,41.2,61.8
-16177,M. Romero,MAL,489.6,3 frente,16,6,37.5,56.2
-16177,M. Romero,MAL,489.6,3 ala der,25,8,32.0,48.0
-16177,M. Romero,MAL,489.6,3 esquina der,21,8,38.1,57.1
-17110,O. Medina,MAL,300.4,restringida,39,32,82.1,82.1
-17110,O. Medina,MAL,300.4,pintura,17,8,47.1,47.1
-17110,O. Medina,MAL,300.4,media,15,5,33.3,33.3
-17110,O. Medina,MAL,300.4,3 ala der,2,0,0.0,0.0
-1314626,L. Santos,AGU,327.3,restringida,67,52,77.6,77.6
-1314626,L. Santos,AGU,327.3,pintura,30,15,50.0,50.0
-1314626,L. Santos,AGU,327.3,media,2,1,50.0,50.0
-1314626,L. Santos,AGU,327.3,3 frente,6,4,66.7,100.0
-1314626,L. Santos,AGU,327.3,3 ala der,1,0,0.0,0.0
-1314626,L. Santos,AGU,327.3,3 esquina der,1,0,0.0,0.0
-2534720,B. Beamer,COR,393.8,restringida,61,41,67.2,67.2
-2534720,B. Beamer,COR,393.8,pintura,51,30,58.8,58.8
-2534720,B. Beamer,COR,393.8,media,9,7,77.8,77.8
-2534720,B. Beamer,COR,393.8,3 esquina izq,5,2,40.0,60.0
-2534720,B. Beamer,COR,393.8,3 ala izq,20,8,40.0,60.0
-2534720,B. Beamer,COR,393.8,3 frente,18,7,38.9,58.3
-2534720,B. Beamer,COR,393.8,3 ala der,25,3,12.0,18.0
-2534720,B. Beamer,COR,393.8,3 esquina der,4,3,75.0,112.5
-15251,L. Parodi,CNF,498.2,restringida,26,16,61.5,61.5
-15251,L. Parodi,CNF,498.2,pintura,41,15,36.6,36.6
-15251,L. Parodi,CNF,498.2,media,12,4,33.3,33.3
-15251,L. Parodi,CNF,498.2,3 esquina izq,5,1,20.0,30.0
-15251,L. Parodi,CNF,498.2,3 ala izq,31,9,29.0,43.5
-15251,L. Parodi,CNF,498.2,3 frente,20,7,35.0,52.5
-15251,L. Parodi,CNF,498.2,3 ala der,24,10,41.7,62.5
-15251,L. Parodi,CNF,498.2,3 esquina der,6,4,66.7,100.0
-2399946,J. Webster,MAL,262.0,restringida,26,19,73.1,73.1
-2399946,J. Webster,MAL,262.0,pintura,26,8,30.8,30.8
-2399946,J. Webster,MAL,262.0,media,17,9,52.9,52.9
-2399946,J. Webster,MAL,262.0,3 esquina izq,5,1,20.0,30.0
-2399946,J. Webster,MAL,262.0,3 ala izq,11,4,36.4,54.5
-2399946,J. Webster,MAL,262.0,3 frente,7,1,14.3,21.4
-2399946,J. Webster,MAL,262.0,3 ala der,12,7,58.3,87.5
-2399946,J. Webster,MAL,262.0,3 esquina der,1,1,100.0,150.0
-1981004,D. Wright,DSC,272.1,restringida,24,20,83.3,83.3
-1981004,D. Wright,DSC,272.1,pintura,27,7,25.9,25.9
-1981004,D. Wright,DSC,272.1,media,6,2,33.3,33.3
-1981004,D. Wright,DSC,272.1,3 esquina izq,3,2,66.7,100.0
-1981004,D. Wright,DSC,272.1,3 ala izq,12,3,25.0,37.5
-1981004,D. Wright,DSC,272.1,3 frente,6,5,83.3,125.0
-1981004,D. Wright,DSC,272.1,3 ala der,13,3,23.1,34.6
-1981004,D. Wright,DSC,272.1,3 esquina der,1,0,0.0,0.0
-191795,S. Ottonello,BIG,439.1,restringida,65,39,60.0,60.0
-191795,S. Ottonello,BIG,439.1,pintura,50,28,56.0,56.0
-191795,S. Ottonello,BIG,439.1,media,17,6,35.3,35.3
-191795,S. Ottonello,BIG,439.1,3 esquina izq,5,3,60.0,90.0
-191795,S. Ottonello,BIG,439.1,3 ala izq,6,2,33.3,50.0
-191795,S. Ottonello,BIG,439.1,3 frente,4,1,25.0,37.5
-191795,S. Ottonello,BIG,439.1,3 ala der,14,4,28.6,42.9
-191795,S. Ottonello,BIG,439.1,3 esquina der,4,0,0.0,0.0
-16511,S. Moglia,WEL,427.8,restringida,36,29,80.6,80.6
-16511,S. Moglia,WEL,427.8,pintura,16,8,50.0,50.0
-16511,S. Moglia,WEL,427.8,media,3,1,33.3,33.3
-16511,S. Moglia,WEL,427.8,3 esquina izq,8,2,25.0,37.5
-16511,S. Moglia,WEL,427.8,3 ala izq,31,15,48.4,72.6
-16511,S. Moglia,WEL,427.8,3 frente,17,1,5.9,8.8
-16511,S. Moglia,WEL,427.8,3 ala der,23,6,26.1,39.1
-16511,S. Moglia,WEL,427.8,3 esquina der,8,4,50.0,75.0
-1987397,J. Josiah,GOE,218.1,restringida,20,13,65.0,65.0
-1987397,J. Josiah,GOE,218.1,pintura,12,5,41.7,41.7
-1987397,J. Josiah,GOE,218.1,media,8,0,0.0,0.0
-1987397,J. Josiah,GOE,218.1,3 esquina izq,6,4,66.7,100.0
-1987397,J. Josiah,GOE,218.1,3 ala izq,14,6,42.9,64.3
-1987397,J. Josiah,GOE,218.1,3 frente,6,2,33.3,50.0
-1987397,J. Josiah,GOE,218.1,3 ala der,13,5,38.5,57.7
-1987397,J. Josiah,GOE,218.1,3 esquina der,6,1,16.7,25.0
-1942261,M. Espinosa,BIG,441.6,restringida,30,22,73.3,73.3
-1942261,M. Espinosa,BIG,441.6,pintura,31,17,54.8,54.8
-1942261,M. Espinosa,BIG,441.6,media,1,1,100.0,100.0
-1942261,M. Espinosa,BIG,441.6,3 esquina izq,9,2,22.2,33.3
-1942261,M. Espinosa,BIG,441.6,3 ala izq,15,4,26.7,40.0
-1942261,M. Espinosa,BIG,441.6,3 frente,7,3,42.9,64.3
-1942261,M. Espinosa,BIG,441.6,3 ala der,18,2,11.1,16.7
-1942261,M. Espinosa,BIG,441.6,3 esquina der,7,4,57.1,85.7
+2413907,E. Bell,CNF,318.4,3 ala der,1,0,0.0,0.0
+1346396,S. Fernandez,MAL,477.2,restringida,36,18,50.0,50.0
+1346396,S. Fernandez,MAL,477.2,pintura,32,11,34.4,34.4
+1346396,S. Fernandez,MAL,477.2,media,11,4,36.4,36.4
+1346396,S. Fernandez,MAL,477.2,3 esquina izq,9,3,33.3,50.0
+1346396,S. Fernandez,MAL,477.2,3 ala izq,24,11,45.8,68.8
+1346396,S. Fernandez,MAL,477.2,3 frente,18,5,27.8,41.7
+1346396,S. Fernandez,MAL,477.2,3 ala der,47,14,29.8,44.7
+1346396,S. Fernandez,MAL,477.2,3 esquina der,5,2,40.0,60.0
+15259,S. Zanotta,HYM,552.9,restringida,23,9,39.1,39.1
+15259,S. Zanotta,HYM,552.9,pintura,14,7,50.0,50.0
+15259,S. Zanotta,HYM,552.9,media,18,10,55.6,55.6
+15259,S. Zanotta,HYM,552.9,3 esquina izq,7,4,57.1,85.7
+15259,S. Zanotta,HYM,552.9,3 ala izq,33,11,33.3,50.0
+15259,S. Zanotta,HYM,552.9,3 frente,25,4,16.0,24.0
+15259,S. Zanotta,HYM,552.9,3 ala der,26,7,26.9,40.4
+15259,S. Zanotta,HYM,552.9,3 esquina der,8,1,12.5,18.8
+2321121,J. Feldeine,CNF,509.9,restringida,42,24,57.1,57.1
+2321121,J. Feldeine,CNF,509.9,pintura,47,24,51.1,51.1
+2321121,J. Feldeine,CNF,509.9,media,35,19,54.3,54.3
+2321121,J. Feldeine,CNF,509.9,3 esquina izq,4,2,50.0,75.0
+2321121,J. Feldeine,CNF,509.9,3 ala izq,45,18,40.0,60.0
+2321121,J. Feldeine,CNF,509.9,3 frente,37,14,37.8,56.8
+2321121,J. Feldeine,CNF,509.9,3 ala der,27,6,22.2,33.3
+2321121,J. Feldeine,CNF,509.9,3 esquina der,6,1,16.7,25.0
 1714808,B. Curadossi,UUN,404.2,restringida,48,32,66.7,66.7
 1714808,B. Curadossi,UUN,404.2,pintura,25,8,32.0,32.0
 1714808,B. Curadossi,UUN,404.2,media,4,1,25.0,25.0
-1714808,B. Curadossi,UUN,404.2,3 esquina izq,11,4,36.4,54.5
-1714808,B. Curadossi,UUN,404.2,3 ala izq,13,3,23.1,34.6
+1714808,B. Curadossi,UUN,404.2,3 esquina izq,13,5,38.5,57.7
+1714808,B. Curadossi,UUN,404.2,3 ala izq,18,8,44.4,66.7
 1714808,B. Curadossi,UUN,404.2,3 frente,14,4,28.6,42.9
-1714808,B. Curadossi,UUN,404.2,3 ala der,18,8,44.4,66.7
-1714808,B. Curadossi,UUN,404.2,3 esquina der,13,5,38.5,57.7
-312957,R. Hassan,WEL,418.8,restringida,46,39,84.8,84.8
-312957,R. Hassan,WEL,418.8,pintura,67,44,65.7,65.7
-312957,R. Hassan,WEL,418.8,media,53,25,47.2,47.2
-312957,R. Hassan,WEL,418.8,3 ala izq,7,1,14.3,21.4
-312957,R. Hassan,WEL,418.8,3 frente,14,3,21.4,32.1
-312957,R. Hassan,WEL,418.8,3 ala der,6,2,33.3,50.0
-1567203,M. Oyenard,GOE,471.5,restringida,53,43,81.1,81.1
-1567203,M. Oyenard,GOE,471.5,pintura,43,18,41.9,41.9
-1567203,M. Oyenard,GOE,471.5,media,22,8,36.4,36.4
-1567203,M. Oyenard,GOE,471.5,3 esquina izq,6,2,33.3,50.0
-1567203,M. Oyenard,GOE,471.5,3 ala izq,12,5,41.7,62.5
-1567203,M. Oyenard,GOE,471.5,3 frente,5,1,20.0,30.0
-1567203,M. Oyenard,GOE,471.5,3 ala der,13,4,30.8,46.2
-1567203,M. Oyenard,GOE,471.5,3 esquina der,8,1,12.5,18.8
-16717,G. Semiglia,HYM,351.8,restringida,12,4,33.3,33.3
-16717,G. Semiglia,HYM,351.8,pintura,5,2,40.0,40.0
-16717,G. Semiglia,HYM,351.8,3 esquina izq,19,4,21.1,31.6
-16717,G. Semiglia,HYM,351.8,3 ala izq,32,8,25.0,37.5
-16717,G. Semiglia,HYM,351.8,3 frente,31,13,41.9,62.9
-16717,G. Semiglia,HYM,351.8,3 ala der,27,12,44.4,66.7
-16717,G. Semiglia,HYM,351.8,3 esquina der,5,2,40.0,60.0
-2534746,E. Demers,UUN,492.5,restringida,27,21,77.8,77.8
-2534746,E. Demers,UUN,492.5,pintura,36,16,44.4,44.4
-2534746,E. Demers,UUN,492.5,media,29,14,48.3,48.3
-2534746,E. Demers,UUN,492.5,3 esquina izq,8,3,37.5,56.2
-2534746,E. Demers,UUN,492.5,3 ala izq,55,23,41.8,62.7
-2534746,E. Demers,UUN,492.5,3 frente,33,11,33.3,50.0
-2534746,E. Demers,UUN,492.5,3 ala der,51,20,39.2,58.8
-2534746,E. Demers,UUN,492.5,3 esquina der,10,7,70.0,105.0
-1765563,A. Moller,UUN,318.4,restringida,44,33,75.0,75.0
-1765563,A. Moller,UUN,318.4,pintura,22,10,45.5,45.5
-1765563,A. Moller,UUN,318.4,media,5,1,20.0,20.0
-1765563,A. Moller,UUN,318.4,3 esquina izq,5,2,40.0,60.0
-1765563,A. Moller,UUN,318.4,3 ala izq,12,7,58.3,87.5
-1765563,A. Moller,UUN,318.4,3 frente,6,3,50.0,75.0
-1765563,A. Moller,UUN,318.4,3 ala der,24,2,8.3,12.5
-1765563,A. Moller,UUN,318.4,3 esquina der,5,0,0.0,0.0
-961332,E. Bonet,GOE,551.2,restringida,64,41,64.1,64.1
-961332,E. Bonet,GOE,551.2,pintura,41,10,24.4,24.4
-961332,E. Bonet,GOE,551.2,media,7,4,57.1,57.1
-961332,E. Bonet,GOE,551.2,3 esquina izq,6,2,33.3,50.0
-961332,E. Bonet,GOE,551.2,3 ala izq,21,5,23.8,35.7
-961332,E. Bonet,GOE,551.2,3 frente,13,1,7.7,11.5
-961332,E. Bonet,GOE,551.2,3 ala der,33,8,24.2,36.4
-961332,E. Bonet,GOE,551.2,3 esquina der,9,4,44.4,66.7
+1714808,B. Curadossi,UUN,404.2,3 ala der,13,3,23.1,34.6
+1714808,B. Curadossi,UUN,404.2,3 esquina der,11,4,36.4,54.5
+17628,E. Oglivie,CNF,257.7,restringida,60,48,80.0,80.0
+17628,E. Oglivie,CNF,257.7,pintura,27,9,33.3,33.3
+17628,E. Oglivie,CNF,257.7,media,4,1,25.0,25.0
+17628,E. Oglivie,CNF,257.7,3 ala izq,1,1,100.0,150.0
+17628,E. Oglivie,CNF,257.7,3 frente,4,0,0.0,0.0
+539387,F. Soto,DSC,459.0,restringida,34,21,61.8,61.8
+539387,F. Soto,DSC,459.0,pintura,13,8,61.5,61.5
+539387,F. Soto,DSC,459.0,media,6,1,16.7,16.7
+539387,F. Soto,DSC,459.0,3 esquina izq,9,5,55.6,83.3
+539387,F. Soto,DSC,459.0,3 ala izq,20,7,35.0,52.5
+539387,F. Soto,DSC,459.0,3 frente,5,0,0.0,0.0
+539387,F. Soto,DSC,459.0,3 ala der,22,6,27.3,40.9
+539387,F. Soto,DSC,459.0,3 esquina der,16,6,37.5,56.2
+1430994,J. Rodriguez,AGU,411.1,restringida,37,23,62.2,62.2
+1430994,J. Rodriguez,AGU,411.1,pintura,26,13,50.0,50.0
+1430994,J. Rodriguez,AGU,411.1,media,2,1,50.0,50.0
+1430994,J. Rodriguez,AGU,411.1,3 esquina izq,8,3,37.5,56.2
+1430994,J. Rodriguez,AGU,411.1,3 ala izq,22,6,27.3,40.9
+1430994,J. Rodriguez,AGU,411.1,3 frente,8,1,12.5,18.8
+1430994,J. Rodriguez,AGU,411.1,3 ala der,27,8,29.6,44.4
+1430994,J. Rodriguez,AGU,411.1,3 esquina der,14,10,71.4,107.1
+1338848,M. Giano,UAT,746.1,restringida,70,48,68.6,68.6
+1338848,M. Giano,UAT,746.1,pintura,38,11,28.9,28.9
+1338848,M. Giano,UAT,746.1,media,9,4,44.4,44.4
+1338848,M. Giano,UAT,746.1,3 esquina izq,17,11,64.7,97.1
+1338848,M. Giano,UAT,746.1,3 ala izq,25,6,24.0,36.0
+1338848,M. Giano,UAT,746.1,3 frente,14,5,35.7,53.6
+1338848,M. Giano,UAT,746.1,3 ala der,33,14,42.4,63.6
+1338848,M. Giano,UAT,746.1,3 esquina der,21,7,33.3,50.0
+1642407,D. Pena Garcia,WEL,355.8,restringida,5,2,40.0,40.0
+1642407,D. Pena Garcia,WEL,355.8,pintura,7,3,42.9,42.9
+1642407,D. Pena Garcia,WEL,355.8,media,2,1,50.0,50.0
+1642407,D. Pena Garcia,WEL,355.8,3 esquina izq,7,3,42.9,64.3
+1642407,D. Pena Garcia,WEL,355.8,3 ala izq,25,6,24.0,36.0
+1642407,D. Pena Garcia,WEL,355.8,3 frente,17,5,29.4,44.1
+1642407,D. Pena Garcia,WEL,355.8,3 ala der,19,8,42.1,63.2
+1642407,D. Pena Garcia,WEL,355.8,3 esquina der,6,2,33.3,50.0
 2255313,V. Andrade,COR,212.5,restringida,29,14,48.3,48.3
 2255313,V. Andrade,COR,212.5,pintura,30,13,43.3,43.3
 2255313,V. Andrade,COR,212.5,media,19,9,47.4,47.4
 2255313,V. Andrade,COR,212.5,3 frente,1,0,0.0,0.0
-1709203,E. Holt,UUN,383.7,restringida,30,23,76.7,76.7
-1709203,E. Holt,UUN,383.7,pintura,28,12,42.9,42.9
-1709203,E. Holt,UUN,383.7,media,13,4,30.8,30.8
-1709203,E. Holt,UUN,383.7,3 esquina izq,7,3,42.9,64.3
-1709203,E. Holt,UUN,383.7,3 ala izq,25,8,32.0,48.0
-1709203,E. Holt,UUN,383.7,3 frente,16,6,37.5,56.2
-1709203,E. Holt,UUN,383.7,3 ala der,28,9,32.1,48.2
-1709203,E. Holt,UUN,383.7,3 esquina der,4,1,25.0,37.5
-17691,E. Serres,CAP,361.7,restringida,37,21,56.8,56.8
-17691,E. Serres,CAP,361.7,pintura,20,8,40.0,40.0
-17691,E. Serres,CAP,361.7,media,1,1,100.0,100.0
-17691,E. Serres,CAP,361.7,3 esquina izq,10,7,70.0,105.0
-17691,E. Serres,CAP,361.7,3 ala izq,19,7,36.8,55.3
-17691,E. Serres,CAP,361.7,3 frente,6,0,0.0,0.0
-17691,E. Serres,CAP,361.7,3 ala der,15,6,40.0,60.0
-17691,E. Serres,CAP,361.7,3 esquina der,14,5,35.7,53.6
-2620318,J. O'neal,COR,265.0,restringida,43,33,76.7,76.7
-2620318,J. O'neal,COR,265.0,pintura,23,11,47.8,47.8
-2620318,J. O'neal,COR,265.0,media,10,3,30.0,30.0
-2620318,J. O'neal,COR,265.0,3 esquina izq,2,2,100.0,150.0
-2620318,J. O'neal,COR,265.0,3 ala izq,3,0,0.0,0.0
-2620318,J. O'neal,COR,265.0,3 frente,8,1,12.5,18.8
-2620318,J. O'neal,COR,265.0,3 ala der,1,0,0.0,0.0
-2620318,J. O'neal,COR,265.0,3 esquina der,6,2,33.3,50.0
+43252,M. Sarni,UUN,611.5,restringida,38,21,55.3,55.3
+43252,M. Sarni,UUN,611.5,pintura,70,24,34.3,34.3
+43252,M. Sarni,UUN,611.5,media,17,4,23.5,23.5
+43252,M. Sarni,UUN,611.5,3 ala izq,7,4,57.1,85.7
+43252,M. Sarni,UUN,611.5,3 frente,20,9,45.0,67.5
+43252,M. Sarni,UUN,611.5,3 ala der,18,5,27.8,41.7
+43252,M. Sarni,UUN,611.5,3 esquina der,1,0,0.0,0.0
+17554,A. Zuvich,AGU,432.9,restringida,51,35,68.6,68.6
+17554,A. Zuvich,AGU,432.9,pintura,44,28,63.6,63.6
+17554,A. Zuvich,AGU,432.9,media,1,1,100.0,100.0
+17554,A. Zuvich,AGU,432.9,3 ala izq,9,3,33.3,50.0
+17554,A. Zuvich,AGU,432.9,3 frente,9,2,22.2,33.3
+17554,A. Zuvich,AGU,432.9,3 ala der,5,1,20.0,30.0
+2534733,R. Abell,MAL,448.7,restringida,50,35,70.0,70.0
+2534733,R. Abell,MAL,448.7,pintura,20,10,50.0,50.0
+2534733,R. Abell,MAL,448.7,media,25,13,52.0,52.0
+2534733,R. Abell,MAL,448.7,3 esquina izq,8,1,12.5,18.8
+2534733,R. Abell,MAL,448.7,3 ala izq,30,12,40.0,60.0
+2534733,R. Abell,MAL,448.7,3 frente,28,5,17.9,26.8
+2534733,R. Abell,MAL,448.7,3 ala der,27,7,25.9,38.9
+2534733,R. Abell,MAL,448.7,3 esquina der,8,2,25.0,37.5
+623893,L. Planells,COR,208.3,restringida,4,4,100.0,100.0
+623893,L. Planells,COR,208.3,pintura,2,0,0.0,0.0
+623893,L. Planells,COR,208.3,media,3,1,33.3,33.3
+623893,L. Planells,COR,208.3,3 esquina izq,5,2,40.0,60.0
+623893,L. Planells,COR,208.3,3 ala izq,10,1,10.0,15.0
+623893,L. Planells,COR,208.3,3 frente,4,2,50.0,75.0
+623893,L. Planells,COR,208.3,3 ala der,13,4,30.8,46.2
+623893,L. Planells,COR,208.3,3 esquina der,3,0,0.0,0.0
+968070,G. Souza,UAT,321.7,restringida,12,10,83.3,83.3
+968070,G. Souza,UAT,321.7,pintura,3,1,33.3,33.3
+968070,G. Souza,UAT,321.7,media,4,1,25.0,25.0
+968070,G. Souza,UAT,321.7,3 esquina izq,11,5,45.5,68.2
+968070,G. Souza,UAT,321.7,3 ala izq,13,7,53.8,80.8
+968070,G. Souza,UAT,321.7,3 frente,3,1,33.3,50.0
+968070,G. Souza,UAT,321.7,3 ala der,13,2,15.4,23.1
+968070,G. Souza,UAT,321.7,3 esquina der,10,2,20.0,30.0
+617418,S. Vescovi,CAP,560.9,restringida,45,34,75.6,75.6
+617418,S. Vescovi,CAP,560.9,pintura,37,15,40.5,40.5
+617418,S. Vescovi,CAP,560.9,media,3,1,33.3,33.3
+617418,S. Vescovi,CAP,560.9,3 esquina izq,11,6,54.5,81.8
+617418,S. Vescovi,CAP,560.9,3 ala izq,35,16,45.7,68.6
+617418,S. Vescovi,CAP,560.9,3 frente,31,18,58.1,87.1
+617418,S. Vescovi,CAP,560.9,3 ala der,38,11,28.9,43.4
+617418,S. Vescovi,CAP,560.9,3 esquina der,10,2,20.0,30.0
+983931,T. Leites,COR,509.8,restringida,64,44,68.8,68.8
+983931,T. Leites,COR,509.8,pintura,37,14,37.8,37.8
+983931,T. Leites,COR,509.8,media,6,4,66.7,66.7
+983931,T. Leites,COR,509.8,3 esquina izq,7,1,14.3,21.4
+983931,T. Leites,COR,509.8,3 ala izq,3,0,0.0,0.0
+983931,T. Leites,COR,509.8,3 frente,1,0,0.0,0.0
+983931,T. Leites,COR,509.8,3 ala der,3,0,0.0,0.0
+2620614,A. Spruill,COR,290.5,restringida,21,14,66.7,66.7
+2620614,A. Spruill,COR,290.5,pintura,30,12,40.0,40.0
+2620614,A. Spruill,COR,290.5,media,29,13,44.8,44.8
+2620614,A. Spruill,COR,290.5,3 esquina izq,4,1,25.0,37.5
+2620614,A. Spruill,COR,290.5,3 ala izq,24,7,29.2,43.8
+2620614,A. Spruill,COR,290.5,3 frente,8,2,25.0,37.5
+2620614,A. Spruill,COR,290.5,3 ala der,11,2,18.2,27.3
+2620614,A. Spruill,COR,290.5,3 esquina der,7,1,14.3,21.4
+17046,M. Zubiaurre,DSC,408.3,restringida,42,29,69.0,69.0
+17046,M. Zubiaurre,DSC,408.3,pintura,34,15,44.1,44.1
+17046,M. Zubiaurre,DSC,408.3,media,8,4,50.0,50.0
+17046,M. Zubiaurre,DSC,408.3,3 esquina izq,7,4,57.1,85.7
+17046,M. Zubiaurre,DSC,408.3,3 ala izq,10,3,30.0,45.0
+17046,M. Zubiaurre,DSC,408.3,3 frente,9,1,11.1,16.7
+17046,M. Zubiaurre,DSC,408.3,3 ala der,10,1,10.0,15.0
+17046,M. Zubiaurre,DSC,408.3,3 esquina der,5,3,60.0,90.0
+909792,A. Arevalo,WEL,251.6,restringida,10,3,30.0,30.0
+909792,A. Arevalo,WEL,251.6,pintura,16,3,18.8,18.8
+909792,A. Arevalo,WEL,251.6,media,13,6,46.2,46.2
+909792,A. Arevalo,WEL,251.6,3 esquina izq,5,1,20.0,30.0
+909792,A. Arevalo,WEL,251.6,3 ala izq,36,12,33.3,50.0
+909792,A. Arevalo,WEL,251.6,3 frente,18,5,27.8,41.7
+909792,A. Arevalo,WEL,251.6,3 ala der,16,3,18.8,28.1
+909792,A. Arevalo,WEL,251.6,3 esquina der,1,1,100.0,150.0
+2534742,T. Daniels,UUN,447.4,restringida,66,58,87.9,87.9
+2534742,T. Daniels,UUN,447.4,pintura,20,9,45.0,45.0
+2534742,T. Daniels,UUN,447.4,media,9,3,33.3,33.3
+2534742,T. Daniels,UUN,447.4,3 ala izq,7,1,14.3,21.4
+2534742,T. Daniels,UUN,447.4,3 frente,16,9,56.2,84.4
+2534742,T. Daniels,UUN,447.4,3 ala der,8,2,25.0,37.5
+14724,S. Vidal,AGU,540.5,restringida,31,13,41.9,41.9
+14724,S. Vidal,AGU,540.5,pintura,32,14,43.8,43.8
+14724,S. Vidal,AGU,540.5,media,13,5,38.5,38.5
+14724,S. Vidal,AGU,540.5,3 esquina izq,7,5,71.4,107.1
+14724,S. Vidal,AGU,540.5,3 ala izq,26,13,50.0,75.0
+14724,S. Vidal,AGU,540.5,3 frente,28,9,32.1,48.2
+14724,S. Vidal,AGU,540.5,3 ala der,21,12,57.1,85.7
+14724,S. Vidal,AGU,540.5,3 esquina der,9,6,66.7,100.0
+2534718,J. Matos,BIG,647.5,restringida,71,36,50.7,50.7
+2534718,J. Matos,BIG,647.5,pintura,83,35,42.2,42.2
+2534718,J. Matos,BIG,647.5,media,38,15,39.5,39.5
+2534718,J. Matos,BIG,647.5,3 esquina izq,10,2,20.0,30.0
+2534718,J. Matos,BIG,647.5,3 ala izq,41,15,36.6,54.9
+2534718,J. Matos,BIG,647.5,3 frente,18,4,22.2,33.3
+2534718,J. Matos,BIG,647.5,3 ala der,57,19,33.3,50.0
+2534718,J. Matos,BIG,647.5,3 esquina der,12,8,66.7,100.0
+15217,F. Haller,HYM,380.9,restringida,33,21,63.6,63.6
+15217,F. Haller,HYM,380.9,pintura,25,16,64.0,64.0
+15217,F. Haller,HYM,380.9,media,76,38,50.0,50.0
+15217,F. Haller,HYM,380.9,3 esquina izq,1,0,0.0,0.0
+15217,F. Haller,HYM,380.9,3 ala izq,7,2,28.6,42.9
+15217,F. Haller,HYM,380.9,3 frente,16,8,50.0,75.0
+15217,F. Haller,HYM,380.9,3 ala der,14,6,42.9,64.3
+15217,F. Haller,HYM,380.9,3 esquina der,3,1,33.3,50.0
+16508,A. Acosta,GOE,454.4,restringida,18,12,66.7,66.7
+16508,A. Acosta,GOE,454.4,pintura,31,11,35.5,35.5
+16508,A. Acosta,GOE,454.4,media,6,2,33.3,33.3
+16508,A. Acosta,GOE,454.4,3 esquina izq,9,4,44.4,66.7
+16508,A. Acosta,GOE,454.4,3 ala izq,23,4,17.4,26.1
+16508,A. Acosta,GOE,454.4,3 frente,11,3,27.3,40.9
+16508,A. Acosta,GOE,454.4,3 ala der,22,9,40.9,61.4
+16508,A. Acosta,GOE,454.4,3 esquina der,13,4,30.8,46.2
+1942261,M. Espinosa,BIG,441.6,restringida,30,22,73.3,73.3
+1942261,M. Espinosa,BIG,441.6,pintura,31,17,54.8,54.8
+1942261,M. Espinosa,BIG,441.6,media,1,1,100.0,100.0
+1942261,M. Espinosa,BIG,441.6,3 esquina izq,7,4,57.1,85.7
+1942261,M. Espinosa,BIG,441.6,3 ala izq,18,2,11.1,16.7
+1942261,M. Espinosa,BIG,441.6,3 frente,7,3,42.9,64.3
+1942261,M. Espinosa,BIG,441.6,3 ala der,15,4,26.7,40.0
+1942261,M. Espinosa,BIG,441.6,3 esquina der,9,2,22.2,33.3
+2288279,J. Strings,GOE,379.6,restringida,30,22,73.3,73.3
+2288279,J. Strings,GOE,379.6,pintura,80,34,42.5,42.5
+2288279,J. Strings,GOE,379.6,media,39,14,35.9,35.9
+2288279,J. Strings,GOE,379.6,3 ala izq,7,3,42.9,64.3
+2288279,J. Strings,GOE,379.6,3 frente,8,2,25.0,37.5
+2288279,J. Strings,GOE,379.6,3 ala der,2,1,50.0,75.0
+961332,E. Bonet,GOE,551.2,restringida,64,41,64.1,64.1
+961332,E. Bonet,GOE,551.2,pintura,41,10,24.4,24.4
+961332,E. Bonet,GOE,551.2,media,7,4,57.1,57.1
+961332,E. Bonet,GOE,551.2,3 esquina izq,9,4,44.4,66.7
+961332,E. Bonet,GOE,551.2,3 ala izq,33,8,24.2,36.4
+961332,E. Bonet,GOE,551.2,3 frente,13,1,7.7,11.5
+961332,E. Bonet,GOE,551.2,3 ala der,21,5,23.8,35.7
+961332,E. Bonet,GOE,551.2,3 esquina der,6,2,33.3,50.0
+2386709,C. Zinaich,CNF,433.4,restringida,89,73,82.0,82.0
+2386709,C. Zinaich,CNF,433.4,pintura,42,19,45.2,45.2
+2386709,C. Zinaich,CNF,433.4,media,15,1,6.7,6.7
+2386709,C. Zinaich,CNF,433.4,3 esquina izq,4,3,75.0,112.5
+2386709,C. Zinaich,CNF,433.4,3 ala izq,14,5,35.7,53.6
+2386709,C. Zinaich,CNF,433.4,3 frente,9,2,22.2,33.3
+2386709,C. Zinaich,CNF,433.4,3 ala der,2,0,0.0,0.0
+2386709,C. Zinaich,CNF,433.4,3 esquina der,1,0,0.0,0.0
+2534720,B. Beamer,COR,393.8,restringida,61,41,67.2,67.2
+2534720,B. Beamer,COR,393.8,pintura,51,30,58.8,58.8
+2534720,B. Beamer,COR,393.8,media,9,7,77.8,77.8
+2534720,B. Beamer,COR,393.8,3 esquina izq,4,3,75.0,112.5
+2534720,B. Beamer,COR,393.8,3 ala izq,25,3,12.0,18.0
+2534720,B. Beamer,COR,393.8,3 frente,18,7,38.9,58.3
+2534720,B. Beamer,COR,393.8,3 ala der,20,8,40.0,60.0
+2534720,B. Beamer,COR,393.8,3 esquina der,5,2,40.0,60.0
+17677,B. Barrera,CNF,334.9,restringida,36,24,66.7,66.7
+17677,B. Barrera,CNF,334.9,pintura,17,5,29.4,29.4
+17677,B. Barrera,CNF,334.9,media,7,2,28.6,28.6
+17677,B. Barrera,CNF,334.9,3 esquina izq,4,1,25.0,37.5
+17677,B. Barrera,CNF,334.9,3 ala izq,25,4,16.0,24.0
+17677,B. Barrera,CNF,334.9,3 frente,14,4,28.6,42.9
+17677,B. Barrera,CNF,334.9,3 ala der,21,8,38.1,57.1
+17677,B. Barrera,CNF,334.9,3 esquina der,4,3,75.0,112.5
+1645559,J. Stoll,WEL,296.2,restringida,13,11,84.6,84.6
+1645559,J. Stoll,WEL,296.2,pintura,9,4,44.4,44.4
+1645559,J. Stoll,WEL,296.2,3 esquina izq,4,0,0.0,0.0
+1645559,J. Stoll,WEL,296.2,3 ala izq,12,0,0.0,0.0
+1645559,J. Stoll,WEL,296.2,3 frente,7,2,28.6,42.9
+1645559,J. Stoll,WEL,296.2,3 ala der,10,4,40.0,60.0
+1645559,J. Stoll,WEL,296.2,3 esquina der,3,0,0.0,0.0
+1722930,P. Prieto,CNF,489.6,restringida,61,37,60.7,60.7
+1722930,P. Prieto,CNF,489.6,pintura,14,5,35.7,35.7
+1722930,P. Prieto,CNF,489.6,media,4,0,0.0,0.0
+1722930,P. Prieto,CNF,489.6,3 esquina izq,20,11,55.0,82.5
+1722930,P. Prieto,CNF,489.6,3 ala izq,31,13,41.9,62.9
+1722930,P. Prieto,CNF,489.6,3 frente,11,5,45.5,68.2
+1722930,P. Prieto,CNF,489.6,3 ala der,33,9,27.3,40.9
+1722930,P. Prieto,CNF,489.6,3 esquina der,14,5,35.7,53.6
+191795,S. Ottonello,BIG,439.1,restringida,65,39,60.0,60.0
+191795,S. Ottonello,BIG,439.1,pintura,50,28,56.0,56.0
+191795,S. Ottonello,BIG,439.1,media,17,6,35.3,35.3
+191795,S. Ottonello,BIG,439.1,3 esquina izq,4,0,0.0,0.0
+191795,S. Ottonello,BIG,439.1,3 ala izq,14,4,28.6,42.9
+191795,S. Ottonello,BIG,439.1,3 frente,4,1,25.0,37.5
+191795,S. Ottonello,BIG,439.1,3 ala der,6,2,33.3,50.0
+191795,S. Ottonello,BIG,439.1,3 esquina der,5,3,60.0,90.0
+17571,F. Pereiras,AGU,498.0,restringida,37,22,59.5,59.5
+17571,F. Pereiras,AGU,498.0,pintura,12,7,58.3,58.3
+17571,F. Pereiras,AGU,498.0,media,5,4,80.0,80.0
+17571,F. Pereiras,AGU,498.0,3 esquina izq,16,7,43.8,65.6
+17571,F. Pereiras,AGU,498.0,3 ala izq,21,7,33.3,50.0
+17571,F. Pereiras,AGU,498.0,3 frente,7,5,71.4,107.1
+17571,F. Pereiras,AGU,498.0,3 ala der,26,6,23.1,34.6
+17571,F. Pereiras,AGU,498.0,3 esquina der,13,2,15.4,23.1
+1314626,L. Santos,AGU,327.3,restringida,67,52,77.6,77.6
+1314626,L. Santos,AGU,327.3,pintura,30,15,50.0,50.0
+1314626,L. Santos,AGU,327.3,media,2,1,50.0,50.0
+1314626,L. Santos,AGU,327.3,3 esquina izq,1,0,0.0,0.0
+1314626,L. Santos,AGU,327.3,3 ala izq,1,0,0.0,0.0
+1314626,L. Santos,AGU,327.3,3 frente,6,4,66.7,100.0
+208488,J. Ducasse,UAT,608.8,restringida,45,34,75.6,75.6
+208488,J. Ducasse,UAT,608.8,pintura,26,12,46.2,46.2
+208488,J. Ducasse,UAT,608.8,media,12,4,33.3,33.3
+208488,J. Ducasse,UAT,608.8,3 esquina izq,11,2,18.2,27.3
+208488,J. Ducasse,UAT,608.8,3 ala izq,25,5,20.0,30.0
+208488,J. Ducasse,UAT,608.8,3 frente,18,5,27.8,41.7
+208488,J. Ducasse,UAT,608.8,3 ala der,24,6,25.0,37.5
+208488,J. Ducasse,UAT,608.8,3 esquina der,8,2,25.0,37.5
+312957,R. Hassan,WEL,418.8,restringida,46,39,84.8,84.8
+312957,R. Hassan,WEL,418.8,pintura,67,44,65.7,65.7
+312957,R. Hassan,WEL,418.8,media,53,25,47.2,47.2
+312957,R. Hassan,WEL,418.8,3 ala izq,6,2,33.3,50.0
+312957,R. Hassan,WEL,418.8,3 frente,14,3,21.4,32.1
+312957,R. Hassan,WEL,418.8,3 ala der,7,1,14.3,21.4
+1567203,M. Oyenard,GOE,471.5,restringida,53,43,81.1,81.1
+1567203,M. Oyenard,GOE,471.5,pintura,43,18,41.9,41.9
+1567203,M. Oyenard,GOE,471.5,media,22,8,36.4,36.4
+1567203,M. Oyenard,GOE,471.5,3 esquina izq,8,1,12.5,18.8
+1567203,M. Oyenard,GOE,471.5,3 ala izq,13,4,30.8,46.2
+1567203,M. Oyenard,GOE,471.5,3 frente,5,1,20.0,30.0
+1567203,M. Oyenard,GOE,471.5,3 ala der,12,5,41.7,62.5
+1567203,M. Oyenard,GOE,471.5,3 esquina der,6,2,33.3,50.0
+2534717,E. Clark,AGU,668.9,restringida,63,42,66.7,66.7
+2534717,E. Clark,AGU,668.9,pintura,46,22,47.8,47.8
+2534717,E. Clark,AGU,668.9,media,95,41,43.2,43.2
+2534717,E. Clark,AGU,668.9,3 esquina izq,17,9,52.9,79.4
+2534717,E. Clark,AGU,668.9,3 ala izq,25,11,44.0,66.0
+2534717,E. Clark,AGU,668.9,3 frente,26,11,42.3,63.5
+2534717,E. Clark,AGU,668.9,3 ala der,32,10,31.2,46.9
+2534717,E. Clark,AGU,668.9,3 esquina der,10,5,50.0,75.0
+2399946,J. Webster,MAL,262.0,restringida,26,19,73.1,73.1
+2399946,J. Webster,MAL,262.0,pintura,26,8,30.8,30.8
+2399946,J. Webster,MAL,262.0,media,17,9,52.9,52.9
+2399946,J. Webster,MAL,262.0,3 esquina izq,1,1,100.0,150.0
+2399946,J. Webster,MAL,262.0,3 ala izq,12,7,58.3,87.5
+2399946,J. Webster,MAL,262.0,3 frente,7,1,14.3,21.4
+2399946,J. Webster,MAL,262.0,3 ala der,11,4,36.4,54.5
+2399946,J. Webster,MAL,262.0,3 esquina der,5,1,20.0,30.0
+2096885,A. Peña,WEL,366.9,restringida,62,42,67.7,67.7
+2096885,A. Peña,WEL,366.9,pintura,46,28,60.9,60.9
+2096885,A. Peña,WEL,366.9,media,10,3,30.0,30.0
+2096885,A. Peña,WEL,366.9,3 esquina izq,5,1,20.0,30.0
+2096885,A. Peña,WEL,366.9,3 ala izq,8,1,12.5,18.8
+2096885,A. Peña,WEL,366.9,3 ala der,4,1,25.0,37.5
+2096885,A. Peña,WEL,366.9,3 esquina der,1,0,0.0,0.0
+1765563,A. Moller,UUN,318.4,restringida,44,33,75.0,75.0
+1765563,A. Moller,UUN,318.4,pintura,22,10,45.5,45.5
+1765563,A. Moller,UUN,318.4,media,5,1,20.0,20.0
+1765563,A. Moller,UUN,318.4,3 esquina izq,5,0,0.0,0.0
+1765563,A. Moller,UUN,318.4,3 ala izq,24,2,8.3,12.5
+1765563,A. Moller,UUN,318.4,3 frente,6,3,50.0,75.0
+1765563,A. Moller,UUN,318.4,3 ala der,12,7,58.3,87.5
+1765563,A. Moller,UUN,318.4,3 esquina der,5,2,40.0,60.0
+17044,F. Verrone,GOE,372.5,restringida,9,5,55.6,55.6
+17044,F. Verrone,GOE,372.5,pintura,5,2,40.0,40.0
+17044,F. Verrone,GOE,372.5,media,4,1,25.0,25.0
+17044,F. Verrone,GOE,372.5,3 esquina izq,11,3,27.3,40.9
+17044,F. Verrone,GOE,372.5,3 ala izq,22,7,31.8,47.7
+17044,F. Verrone,GOE,372.5,3 frente,14,3,21.4,32.1
+17044,F. Verrone,GOE,372.5,3 ala der,25,16,64.0,96.0
+17044,F. Verrone,GOE,372.5,3 esquina der,16,6,37.5,56.2
+1924909,F. Hassell,BIG,329.2,restringida,58,37,63.8,63.8
+1924909,F. Hassell,BIG,329.2,pintura,65,34,52.3,52.3
+1924909,F. Hassell,BIG,329.2,media,10,5,50.0,50.0
+16715,B. Garcia,BIG,383.9,restringida,4,3,75.0,75.0
+16715,B. Garcia,BIG,383.9,pintura,5,1,20.0,20.0
+16715,B. Garcia,BIG,383.9,media,2,0,0.0,0.0
+16715,B. Garcia,BIG,383.9,3 esquina izq,7,2,28.6,42.9
+16715,B. Garcia,BIG,383.9,3 ala izq,22,7,31.8,47.7
+16715,B. Garcia,BIG,383.9,3 frente,4,0,0.0,0.0
+16715,B. Garcia,BIG,383.9,3 ala der,26,10,38.5,57.7
+16715,B. Garcia,BIG,383.9,3 esquina der,12,3,25.0,37.5
+2324181,D. Hicks,BIG,719.4,restringida,29,22,75.9,75.9
+2324181,D. Hicks,BIG,719.4,pintura,112,56,50.0,50.0
+2324181,D. Hicks,BIG,719.4,media,19,9,47.4,47.4
+2324181,D. Hicks,BIG,719.4,3 esquina izq,6,5,83.3,125.0
+2324181,D. Hicks,BIG,719.4,3 ala izq,35,19,54.3,81.4
+2324181,D. Hicks,BIG,719.4,3 frente,39,18,46.2,69.2
+2324181,D. Hicks,BIG,719.4,3 ala der,26,13,50.0,75.0
+2324181,D. Hicks,BIG,719.4,3 esquina der,3,2,66.7,100.0
+2603089,C. Alaekwe,UAT,400.4,restringida,24,13,54.2,54.2
+2603089,C. Alaekwe,UAT,400.4,pintura,35,16,45.7,45.7
+2603089,C. Alaekwe,UAT,400.4,media,27,7,25.9,25.9
+2603089,C. Alaekwe,UAT,400.4,3 esquina izq,12,4,33.3,50.0
+2603089,C. Alaekwe,UAT,400.4,3 ala izq,23,5,21.7,32.6
+2603089,C. Alaekwe,UAT,400.4,3 frente,18,5,27.8,41.7
+2603089,C. Alaekwe,UAT,400.4,3 ala der,28,6,21.4,32.1
+2603089,C. Alaekwe,UAT,400.4,3 esquina der,9,2,22.2,33.3
+1676246,N. Lema,CAP,273.1,restringida,10,8,80.0,80.0
+1676246,N. Lema,CAP,273.1,pintura,1,0,0.0,0.0
+1676246,N. Lema,CAP,273.1,3 esquina izq,6,1,16.7,25.0
+1676246,N. Lema,CAP,273.1,3 ala izq,12,4,33.3,50.0
+1676246,N. Lema,CAP,273.1,3 frente,3,1,33.3,50.0
+1676246,N. Lema,CAP,273.1,3 ala der,7,4,57.1,85.7
+1676246,N. Lema,CAP,273.1,3 esquina der,14,4,28.6,42.9
+2589974,E. Weaver,DSC,470.9,restringida,59,51,86.4,86.4
+2589974,E. Weaver,DSC,470.9,pintura,32,18,56.2,56.2
+2589974,E. Weaver,DSC,470.9,media,20,8,40.0,40.0
+2589974,E. Weaver,DSC,470.9,3 esquina izq,9,6,66.7,100.0
+2589974,E. Weaver,DSC,470.9,3 ala izq,24,6,25.0,37.5
+2589974,E. Weaver,DSC,470.9,3 frente,25,10,40.0,60.0
+2589974,E. Weaver,DSC,470.9,3 ala der,23,11,47.8,71.7
+2589974,E. Weaver,DSC,470.9,3 esquina der,10,7,70.0,105.0
 2534741,T. Prince,UAT,758.7,restringida,103,79,76.7,76.7
 2534741,T. Prince,UAT,758.7,pintura,46,28,60.9,60.9
 2534741,T. Prince,UAT,758.7,media,22,8,36.4,36.4
-2534741,T. Prince,UAT,758.7,3 esquina izq,14,5,35.7,53.6
-2534741,T. Prince,UAT,758.7,3 ala izq,27,6,22.2,33.3
+2534741,T. Prince,UAT,758.7,3 esquina izq,6,2,33.3,50.0
+2534741,T. Prince,UAT,758.7,3 ala izq,22,3,13.6,20.5
 2534741,T. Prince,UAT,758.7,3 frente,7,3,42.9,64.3
-2534741,T. Prince,UAT,758.7,3 ala der,22,3,13.6,20.5
-2534741,T. Prince,UAT,758.7,3 esquina der,6,2,33.3,50.0
+2534741,T. Prince,UAT,758.7,3 ala der,27,6,22.2,33.3
+2534741,T. Prince,UAT,758.7,3 esquina der,14,5,35.7,53.6
+17110,O. Medina,MAL,300.4,restringida,39,32,82.1,82.1
+17110,O. Medina,MAL,300.4,pintura,17,8,47.1,47.1
+17110,O. Medina,MAL,300.4,media,15,5,33.3,33.3
+17110,O. Medina,MAL,300.4,3 ala izq,2,0,0.0,0.0
+2620317,T. Ferguson,WEL,223.4,restringida,21,11,52.4,52.4
+2620317,T. Ferguson,WEL,223.4,pintura,27,15,55.6,55.6
+2620317,T. Ferguson,WEL,223.4,media,21,6,28.6,28.6
+2620317,T. Ferguson,WEL,223.4,3 esquina izq,4,0,0.0,0.0
+2620317,T. Ferguson,WEL,223.4,3 ala izq,6,1,16.7,25.0
+2620317,T. Ferguson,WEL,223.4,3 frente,3,1,33.3,50.0
+2620317,T. Ferguson,WEL,223.4,3 ala der,2,0,0.0,0.0
+2620317,T. Ferguson,WEL,223.4,3 esquina der,2,2,100.0,150.0
+999249,M. Bianchi,DSC,427.0,restringida,45,30,66.7,66.7
+999249,M. Bianchi,DSC,427.0,pintura,32,19,59.4,59.4
+999249,M. Bianchi,DSC,427.0,media,1,0,0.0,0.0
+999249,M. Bianchi,DSC,427.0,3 ala der,4,1,25.0,37.5
+17101,J. Santiso,AGU,592.6,restringida,45,25,55.6,55.6
+17101,J. Santiso,AGU,592.6,pintura,39,14,35.9,35.9
+17101,J. Santiso,AGU,592.6,media,4,1,25.0,25.0
+17101,J. Santiso,AGU,592.6,3 esquina izq,6,1,16.7,25.0
+17101,J. Santiso,AGU,592.6,3 ala izq,27,7,25.9,38.9
+17101,J. Santiso,AGU,592.6,3 frente,32,9,28.1,42.2
+17101,J. Santiso,AGU,592.6,3 ala der,23,9,39.1,58.7
+17101,J. Santiso,AGU,592.6,3 esquina der,8,2,25.0,37.5
+2617486,W. Reed,BIG,226.5,restringida,30,20,66.7,66.7
+2617486,W. Reed,BIG,226.5,pintura,24,14,58.3,58.3
+2617486,W. Reed,BIG,226.5,media,7,2,28.6,28.6
+191820,F. Terra,DSC,642.0,restringida,58,34,58.6,58.6
+191820,F. Terra,DSC,642.0,pintura,55,16,29.1,29.1
+191820,F. Terra,DSC,642.0,media,34,9,26.5,26.5
+191820,F. Terra,DSC,642.0,3 ala izq,30,10,33.3,50.0
+191820,F. Terra,DSC,642.0,3 frente,33,12,36.4,54.5
+191820,F. Terra,DSC,642.0,3 ala der,36,12,33.3,50.0
+191820,F. Terra,DSC,642.0,3 esquina der,2,0,0.0,0.0
+17488,K. Wachsman,MAL,556.5,restringida,48,25,52.1,52.1
+17488,K. Wachsman,MAL,556.5,pintura,13,4,30.8,30.8
+17488,K. Wachsman,MAL,556.5,media,7,5,71.4,71.4
+17488,K. Wachsman,MAL,556.5,3 frente,2,0,0.0,0.0
+1894506,A. Mendez,CNF,366.3,restringida,22,13,59.1,59.1
+1894506,A. Mendez,CNF,366.3,pintura,9,6,66.7,66.7
+1894506,A. Mendez,CNF,366.3,media,5,1,20.0,20.0
+1894506,A. Mendez,CNF,366.3,3 esquina izq,9,5,55.6,83.3
+1894506,A. Mendez,CNF,366.3,3 ala izq,17,8,47.1,70.6
+1894506,A. Mendez,CNF,366.3,3 frente,12,4,33.3,50.0
+1894506,A. Mendez,CNF,366.3,3 ala der,28,13,46.4,69.6
+1894506,A. Mendez,CNF,366.3,3 esquina der,17,7,41.2,61.8
+2178363,E. Romero,CAP,250.5,restringida,39,30,76.9,76.9
+2178363,E. Romero,CAP,250.5,pintura,20,10,50.0,50.0
+2178363,E. Romero,CAP,250.5,media,7,1,14.3,14.3
+2178363,E. Romero,CAP,250.5,3 esquina izq,1,0,0.0,0.0
+2178363,E. Romero,CAP,250.5,3 ala izq,2,0,0.0,0.0
+2178363,E. Romero,CAP,250.5,3 frente,2,1,50.0,75.0
+2178363,E. Romero,CAP,250.5,3 ala der,3,2,66.7,100.0
+2178363,E. Romero,CAP,250.5,3 esquina der,3,0,0.0,0.0
+16857,G. Iglesias,BIG,520.4,restringida,28,16,57.1,57.1
+16857,G. Iglesias,BIG,520.4,pintura,26,12,46.2,46.2
+16857,G. Iglesias,BIG,520.4,media,12,4,33.3,33.3
+16857,G. Iglesias,BIG,520.4,3 esquina izq,8,2,25.0,37.5
+16857,G. Iglesias,BIG,520.4,3 ala izq,31,9,29.0,43.5
+16857,G. Iglesias,BIG,520.4,3 frente,28,10,35.7,53.6
+16857,G. Iglesias,BIG,520.4,3 ala der,31,13,41.9,62.9
+16857,G. Iglesias,BIG,520.4,3 esquina der,4,4,100.0,150.0
+571401,X. Couste,GOE,311.2,restringida,14,12,85.7,85.7
+571401,X. Couste,GOE,311.2,pintura,12,5,41.7,41.7
+571401,X. Couste,GOE,311.2,media,10,3,30.0,30.0
+571401,X. Couste,GOE,311.2,3 esquina izq,13,4,30.8,46.2
+571401,X. Couste,GOE,311.2,3 ala izq,13,5,38.5,57.7
+571401,X. Couste,GOE,311.2,3 frente,10,2,20.0,30.0
+571401,X. Couste,GOE,311.2,3 ala der,25,11,44.0,66.0
+571401,X. Couste,GOE,311.2,3 esquina der,10,3,30.0,45.0
+2261706,S. Conceicao,GOE,264.1,restringida,21,13,61.9,61.9
+2261706,S. Conceicao,GOE,264.1,pintura,15,7,46.7,46.7
+2261706,S. Conceicao,GOE,264.1,media,12,4,33.3,33.3
+2261706,S. Conceicao,GOE,264.1,3 esquina izq,1,0,0.0,0.0
+2261706,S. Conceicao,GOE,264.1,3 ala izq,5,3,60.0,90.0
+2261706,S. Conceicao,GOE,264.1,3 frente,4,0,0.0,0.0
+2261706,S. Conceicao,GOE,264.1,3 ala der,9,4,44.4,66.7
+2261706,S. Conceicao,GOE,264.1,3 esquina der,1,0,0.0,0.0
+1644398,J. Sacco,UUN,246.7,restringida,35,22,62.9,62.9
+1644398,J. Sacco,UUN,246.7,pintura,20,9,45.0,45.0
+1644398,J. Sacco,UUN,246.7,media,4,0,0.0,0.0
+1644398,J. Sacco,UUN,246.7,3 esquina izq,1,1,100.0,150.0
+1644398,J. Sacco,UUN,246.7,3 frente,1,0,0.0,0.0
+1644398,J. Sacco,UUN,246.7,3 ala der,1,0,0.0,0.0
+2619167,T. Cracknell,GOE,312.9,restringida,21,13,61.9,61.9
+2619167,T. Cracknell,GOE,312.9,pintura,22,7,31.8,31.8
+2619167,T. Cracknell,GOE,312.9,media,30,8,26.7,26.7
+2619167,T. Cracknell,GOE,312.9,3 esquina izq,1,0,0.0,0.0
+2619167,T. Cracknell,GOE,312.9,3 ala izq,16,9,56.2,84.4
+2619167,T. Cracknell,GOE,312.9,3 frente,19,7,36.8,55.3
+2619167,T. Cracknell,GOE,312.9,3 ala der,8,2,25.0,37.5
+2619167,T. Cracknell,GOE,312.9,3 esquina der,4,0,0.0,0.0
+2534738,I. Ross,UAT,292.2,restringida,22,13,59.1,59.1
+2534738,I. Ross,UAT,292.2,pintura,18,10,55.6,55.6
+2534738,I. Ross,UAT,292.2,media,18,9,50.0,50.0
+2534738,I. Ross,UAT,292.2,3 esquina izq,4,1,25.0,37.5
+2534738,I. Ross,UAT,292.2,3 ala izq,21,4,19.0,28.6
+2534738,I. Ross,UAT,292.2,3 frente,25,5,20.0,30.0
+2534738,I. Ross,UAT,292.2,3 ala der,25,10,40.0,60.0
+2534738,I. Ross,UAT,292.2,3 esquina der,2,0,0.0,0.0
+1981004,D. Wright,DSC,272.1,restringida,24,20,83.3,83.3
+1981004,D. Wright,DSC,272.1,pintura,27,7,25.9,25.9
+1981004,D. Wright,DSC,272.1,media,6,2,33.3,33.3
+1981004,D. Wright,DSC,272.1,3 esquina izq,1,0,0.0,0.0
+1981004,D. Wright,DSC,272.1,3 ala izq,13,3,23.1,34.6
+1981004,D. Wright,DSC,272.1,3 frente,6,5,83.3,125.0
+1981004,D. Wright,DSC,272.1,3 ala der,12,3,25.0,37.5
+1981004,D. Wright,DSC,272.1,3 esquina der,3,2,66.7,100.0
+1989296,T. Rodriguez,BIG,279.4,restringida,22,15,68.2,68.2
+1989296,T. Rodriguez,BIG,279.4,pintura,21,11,52.4,52.4
+1989296,T. Rodriguez,BIG,279.4,media,9,3,33.3,33.3
+1989296,T. Rodriguez,BIG,279.4,3 esquina izq,5,4,80.0,120.0
+1989296,T. Rodriguez,BIG,279.4,3 ala izq,13,3,23.1,34.6
+1989296,T. Rodriguez,BIG,279.4,3 frente,19,4,21.1,31.6
+1989296,T. Rodriguez,BIG,279.4,3 ala der,6,3,50.0,75.0
+1989296,T. Rodriguez,BIG,279.4,3 esquina der,3,2,66.7,100.0
+1661038,P. Gomez,CNF,245.9,restringida,48,24,50.0,50.0
+1661038,P. Gomez,CNF,245.9,pintura,10,3,30.0,30.0
+1661038,P. Gomez,CNF,245.9,media,2,0,0.0,0.0
+1661038,P. Gomez,CNF,245.9,3 frente,2,0,0.0,0.0
+1723827,M. Mac Mullen,DSC,236.5,restringida,12,7,58.3,58.3
+1723827,M. Mac Mullen,DSC,236.5,pintura,8,5,62.5,62.5
+1723827,M. Mac Mullen,DSC,236.5,media,12,4,33.3,33.3
+1723827,M. Mac Mullen,DSC,236.5,3 esquina izq,4,4,100.0,150.0
+1723827,M. Mac Mullen,DSC,236.5,3 ala izq,10,5,50.0,75.0
+1723827,M. Mac Mullen,DSC,236.5,3 frente,2,1,50.0,75.0
+1723827,M. Mac Mullen,DSC,236.5,3 ala der,12,2,16.7,25.0
+1723827,M. Mac Mullen,DSC,236.5,3 esquina der,4,1,25.0,37.5
+16807,A. Lopez,UAT,408.5,restringida,23,15,65.2,65.2
+16807,A. Lopez,UAT,408.5,pintura,13,5,38.5,38.5
+16807,A. Lopez,UAT,408.5,media,16,2,12.5,12.5
+16807,A. Lopez,UAT,408.5,3 esquina izq,28,17,60.7,91.1
+16807,A. Lopez,UAT,408.5,3 ala izq,25,7,28.0,42.0
+16807,A. Lopez,UAT,408.5,3 frente,8,2,25.0,37.5
+16807,A. Lopez,UAT,408.5,3 ala der,16,4,25.0,37.5
+16807,A. Lopez,UAT,408.5,3 esquina der,21,9,42.9,64.3
+2577763,A. Gilder Jr.,COR,214.6,restringida,30,21,70.0,70.0
+2577763,A. Gilder Jr.,COR,214.6,pintura,31,15,48.4,48.4
+2577763,A. Gilder Jr.,COR,214.6,media,11,3,27.3,27.3
+2577763,A. Gilder Jr.,COR,214.6,3 esquina izq,5,3,60.0,90.0
+2577763,A. Gilder Jr.,COR,214.6,3 ala izq,21,7,33.3,50.0
+2577763,A. Gilder Jr.,COR,214.6,3 frente,9,6,66.7,100.0
+2577763,A. Gilder Jr.,COR,214.6,3 ala der,17,3,17.6,26.5
+2577763,A. Gilder Jr.,COR,214.6,3 esquina der,3,1,33.3,50.0
+258698,M. Mayora,HYM,464.2,restringida,34,21,61.8,61.8
+258698,M. Mayora,HYM,464.2,pintura,19,7,36.8,36.8
+258698,M. Mayora,HYM,464.2,media,30,10,33.3,33.3
+258698,M. Mayora,HYM,464.2,3 esquina izq,4,1,25.0,37.5
+258698,M. Mayora,HYM,464.2,3 ala izq,10,3,30.0,45.0
+258698,M. Mayora,HYM,464.2,3 frente,3,0,0.0,0.0
+258698,M. Mayora,HYM,464.2,3 ala der,7,1,14.3,21.4
+258698,M. Mayora,HYM,464.2,3 esquina der,4,3,75.0,112.5
+2074488,M. Benitez,UUN,380.9,restringida,57,43,75.4,75.4
+2074488,M. Benitez,UUN,380.9,pintura,22,7,31.8,31.8
+2074488,M. Benitez,UUN,380.9,media,3,2,66.7,66.7
+2074488,M. Benitez,UUN,380.9,3 esquina izq,13,2,15.4,23.1
+2074488,M. Benitez,UUN,380.9,3 ala izq,4,1,25.0,37.5
+2074488,M. Benitez,UUN,380.9,3 frente,7,2,28.6,42.9
+2074488,M. Benitez,UUN,380.9,3 ala der,19,3,15.8,23.7
+2074488,M. Benitez,UUN,380.9,3 esquina der,9,2,22.2,33.3
+425204,A. Louis,HYM,560.1,restringida,91,53,58.2,58.2
+425204,A. Louis,HYM,560.1,pintura,31,8,25.8,25.8
+425204,A. Louis,HYM,560.1,media,55,24,43.6,43.6
+425204,A. Louis,HYM,560.1,3 esquina izq,8,1,12.5,18.8
+425204,A. Louis,HYM,560.1,3 ala izq,19,6,31.6,47.4
+425204,A. Louis,HYM,560.1,3 frente,22,9,40.9,61.4
+425204,A. Louis,HYM,560.1,3 ala der,24,10,41.7,62.5
+425204,A. Louis,HYM,560.1,3 esquina der,18,7,38.9,58.3
+17691,E. Serres,CAP,361.7,restringida,37,21,56.8,56.8
+17691,E. Serres,CAP,361.7,pintura,20,8,40.0,40.0
+17691,E. Serres,CAP,361.7,media,1,1,100.0,100.0
+17691,E. Serres,CAP,361.7,3 esquina izq,14,5,35.7,53.6
+17691,E. Serres,CAP,361.7,3 ala izq,15,6,40.0,60.0
+17691,E. Serres,CAP,361.7,3 frente,6,0,0.0,0.0
+17691,E. Serres,CAP,361.7,3 ala der,19,7,36.8,55.3
+17691,E. Serres,CAP,361.7,3 esquina der,10,7,70.0,105.0
+17379,P. Rusch,COR,510.4,restringida,6,2,33.3,33.3
+17379,P. Rusch,COR,510.4,pintura,6,3,50.0,50.0
+17379,P. Rusch,COR,510.4,media,17,8,47.1,47.1
+17379,P. Rusch,COR,510.4,3 esquina izq,6,2,33.3,50.0
+17379,P. Rusch,COR,510.4,3 ala izq,13,5,38.5,57.7
+17379,P. Rusch,COR,510.4,3 frente,19,7,36.8,55.3
+17379,P. Rusch,COR,510.4,3 ala der,17,5,29.4,44.1
+17379,P. Rusch,COR,510.4,3 esquina der,7,4,57.1,85.7
+811063,N. Pomoli,CAP,514.8,restringida,60,31,51.7,51.7
+811063,N. Pomoli,CAP,514.8,pintura,71,29,40.8,40.8
+811063,N. Pomoli,CAP,514.8,media,3,0,0.0,0.0
+811063,N. Pomoli,CAP,514.8,3 esquina izq,16,6,37.5,56.2
+811063,N. Pomoli,CAP,514.8,3 ala izq,38,15,39.5,59.2
+811063,N. Pomoli,CAP,514.8,3 frente,17,6,35.3,52.9
+811063,N. Pomoli,CAP,514.8,3 ala der,34,14,41.2,61.8
+811063,N. Pomoli,CAP,514.8,3 esquina der,10,2,20.0,30.0
+701864,D. Sims,AGU,214.1,restringida,14,10,71.4,71.4
+701864,D. Sims,AGU,214.1,pintura,21,11,52.4,52.4
+701864,D. Sims,AGU,214.1,media,9,5,55.6,55.6
+701864,D. Sims,AGU,214.1,3 esquina izq,5,4,80.0,120.0
+701864,D. Sims,AGU,214.1,3 ala izq,11,4,36.4,54.5
+701864,D. Sims,AGU,214.1,3 frente,12,6,50.0,75.0
+701864,D. Sims,AGU,214.1,3 ala der,12,5,41.7,62.5
+701864,D. Sims,AGU,214.1,3 esquina der,1,1,100.0,150.0
+1642412,S. Hogan,CAP,602.1,restringida,62,45,72.6,72.6
+1642412,S. Hogan,CAP,602.1,pintura,69,33,47.8,47.8
+1642412,S. Hogan,CAP,602.1,media,41,23,56.1,56.1
+1642412,S. Hogan,CAP,602.1,3 esquina izq,19,8,42.1,63.2
+1642412,S. Hogan,CAP,602.1,3 ala izq,18,9,50.0,75.0
+1642412,S. Hogan,CAP,602.1,3 frente,5,2,40.0,60.0
+1642412,S. Hogan,CAP,602.1,3 ala der,16,6,37.5,56.2
+1642412,S. Hogan,CAP,602.1,3 esquina der,10,6,60.0,90.0
 727814,I. Xavier,HYM,460.4,restringida,58,35,60.3,60.3
 727814,I. Xavier,HYM,460.4,pintura,18,4,22.2,22.2
 727814,I. Xavier,HYM,460.4,media,5,3,60.0,60.0
-727814,I. Xavier,HYM,460.4,3 esquina izq,15,4,26.7,40.0
-727814,I. Xavier,HYM,460.4,3 ala izq,17,3,17.6,26.5
+727814,I. Xavier,HYM,460.4,3 esquina izq,5,2,40.0,60.0
+727814,I. Xavier,HYM,460.4,3 ala izq,20,7,35.0,52.5
 727814,I. Xavier,HYM,460.4,3 frente,2,0,0.0,0.0
-727814,I. Xavier,HYM,460.4,3 ala der,20,7,35.0,52.5
-727814,I. Xavier,HYM,460.4,3 esquina der,5,2,40.0,60.0
+727814,I. Xavier,HYM,460.4,3 ala der,17,3,17.6,26.5
+727814,I. Xavier,HYM,460.4,3 esquina der,15,4,26.7,40.0
+2486578,A. Nation,HYM,491.9,restringida,63,36,57.1,57.1
+2486578,A. Nation,HYM,491.9,pintura,22,12,54.5,54.5
+2486578,A. Nation,HYM,491.9,media,27,12,44.4,44.4
+2486578,A. Nation,HYM,491.9,3 esquina izq,6,1,16.7,25.0
+2486578,A. Nation,HYM,491.9,3 ala izq,16,4,25.0,37.5
+2486578,A. Nation,HYM,491.9,3 frente,15,4,26.7,40.0
+2486578,A. Nation,HYM,491.9,3 ala der,26,14,53.8,80.8
+2486578,A. Nation,HYM,491.9,3 esquina der,6,1,16.7,25.0
+16616,N. Catala,BIG,288.6,restringida,15,8,53.3,53.3
+16616,N. Catala,BIG,288.6,pintura,8,2,25.0,25.0
+16616,N. Catala,BIG,288.6,media,4,1,25.0,25.0
+16616,N. Catala,BIG,288.6,3 esquina izq,9,2,22.2,33.3
+16616,N. Catala,BIG,288.6,3 ala izq,17,6,35.3,52.9
+16616,N. Catala,BIG,288.6,3 frente,9,2,22.2,33.3
+16616,N. Catala,BIG,288.6,3 ala der,13,3,23.1,34.6
+16616,N. Catala,BIG,288.6,3 esquina der,8,3,37.5,56.2
+1334179,F. Garcia,WEL,511.5,restringida,28,13,46.4,46.4
+1334179,F. Garcia,WEL,511.5,pintura,26,10,38.5,38.5
+1334179,F. Garcia,WEL,511.5,media,10,4,40.0,40.0
+1334179,F. Garcia,WEL,511.5,3 esquina izq,6,0,0.0,0.0
+1334179,F. Garcia,WEL,511.5,3 ala izq,37,16,43.2,64.9
+1334179,F. Garcia,WEL,511.5,3 frente,33,14,42.4,63.6
+1334179,F. Garcia,WEL,511.5,3 ala der,27,12,44.4,66.7
+1334179,F. Garcia,WEL,511.5,3 esquina der,11,3,27.3,40.9
+1709203,E. Holt,UUN,383.7,restringida,30,23,76.7,76.7
+1709203,E. Holt,UUN,383.7,pintura,28,12,42.9,42.9
+1709203,E. Holt,UUN,383.7,media,13,4,30.8,30.8
+1709203,E. Holt,UUN,383.7,3 esquina izq,4,1,25.0,37.5
+1709203,E. Holt,UUN,383.7,3 ala izq,28,9,32.1,48.2
+1709203,E. Holt,UUN,383.7,3 frente,16,6,37.5,56.2
+1709203,E. Holt,UUN,383.7,3 ala der,25,8,32.0,48.0
+1709203,E. Holt,UUN,383.7,3 esquina der,7,3,42.9,64.3
+1987397,J. Josiah,GOE,218.1,restringida,20,13,65.0,65.0
+1987397,J. Josiah,GOE,218.1,pintura,12,5,41.7,41.7
+1987397,J. Josiah,GOE,218.1,media,8,0,0.0,0.0
+1987397,J. Josiah,GOE,218.1,3 esquina izq,6,1,16.7,25.0
+1987397,J. Josiah,GOE,218.1,3 ala izq,13,5,38.5,57.7
+1987397,J. Josiah,GOE,218.1,3 frente,6,2,33.3,50.0
+1987397,J. Josiah,GOE,218.1,3 ala der,14,6,42.9,64.3
+1987397,J. Josiah,GOE,218.1,3 esquina der,6,4,66.7,100.0
+2534746,E. Demers,UUN,492.5,restringida,27,21,77.8,77.8
+2534746,E. Demers,UUN,492.5,pintura,36,16,44.4,44.4
+2534746,E. Demers,UUN,492.5,media,29,14,48.3,48.3
+2534746,E. Demers,UUN,492.5,3 esquina izq,10,7,70.0,105.0
+2534746,E. Demers,UUN,492.5,3 ala izq,51,20,39.2,58.8
+2534746,E. Demers,UUN,492.5,3 frente,33,11,33.3,50.0
+2534746,E. Demers,UUN,492.5,3 ala der,55,23,41.8,62.7
+2534746,E. Demers,UUN,492.5,3 esquina der,8,3,37.5,56.2
+16717,G. Semiglia,HYM,351.8,restringida,12,4,33.3,33.3
+16717,G. Semiglia,HYM,351.8,pintura,5,2,40.0,40.0
+16717,G. Semiglia,HYM,351.8,3 esquina izq,5,2,40.0,60.0
+16717,G. Semiglia,HYM,351.8,3 ala izq,27,12,44.4,66.7
+16717,G. Semiglia,HYM,351.8,3 frente,31,13,41.9,62.9
+16717,G. Semiglia,HYM,351.8,3 ala der,32,8,25.0,37.5
+16717,G. Semiglia,HYM,351.8,3 esquina der,19,4,21.1,31.6
+15251,L. Parodi,CNF,498.2,restringida,26,16,61.5,61.5
+15251,L. Parodi,CNF,498.2,pintura,41,15,36.6,36.6
+15251,L. Parodi,CNF,498.2,media,12,4,33.3,33.3
+15251,L. Parodi,CNF,498.2,3 esquina izq,6,4,66.7,100.0
+15251,L. Parodi,CNF,498.2,3 ala izq,24,10,41.7,62.5
+15251,L. Parodi,CNF,498.2,3 frente,20,7,35.0,52.5
+15251,L. Parodi,CNF,498.2,3 ala der,31,9,29.0,43.5
+15251,L. Parodi,CNF,498.2,3 esquina der,5,1,20.0,30.0
+2486591,Q. Wilson,UAT,623.2,restringida,99,74,74.7,74.7
+2486591,Q. Wilson,UAT,623.2,pintura,55,25,45.5,45.5
+2486591,Q. Wilson,UAT,623.2,media,75,32,42.7,42.7
+2486591,Q. Wilson,UAT,623.2,3 frente,2,1,50.0,75.0
+2486591,Q. Wilson,UAT,623.2,3 ala der,4,0,0.0,0.0
+1871466,A. Pruitt,GOE,400.9,restringida,35,21,60.0,60.0
+1871466,A. Pruitt,GOE,400.9,pintura,27,12,44.4,44.4
+1871466,A. Pruitt,GOE,400.9,media,18,6,33.3,33.3
+1871466,A. Pruitt,GOE,400.9,3 esquina izq,3,0,0.0,0.0
+1871466,A. Pruitt,GOE,400.9,3 ala izq,18,5,27.8,41.7
+1871466,A. Pruitt,GOE,400.9,3 frente,10,4,40.0,60.0
+1871466,A. Pruitt,GOE,400.9,3 ala der,28,8,28.6,42.9
+1871466,A. Pruitt,GOE,400.9,3 esquina der,6,3,50.0,75.0
+15196,M. Cabot,CNF,302.2,restringida,16,11,68.8,68.8
+15196,M. Cabot,CNF,302.2,pintura,15,7,46.7,46.7
+15196,M. Cabot,CNF,302.2,media,12,5,41.7,41.7
+15196,M. Cabot,CNF,302.2,3 esquina izq,13,2,15.4,23.1
+15196,M. Cabot,CNF,302.2,3 ala izq,14,4,28.6,42.9
+15196,M. Cabot,CNF,302.2,3 frente,11,3,27.3,40.9
+15196,M. Cabot,CNF,302.2,3 ala der,15,5,33.3,50.0
+15196,M. Cabot,CNF,302.2,3 esquina der,2,1,50.0,75.0
+16177,M. Romero,MAL,489.6,restringida,19,9,47.4,47.4
+16177,M. Romero,MAL,489.6,pintura,15,4,26.7,26.7
+16177,M. Romero,MAL,489.6,media,5,3,60.0,60.0
+16177,M. Romero,MAL,489.6,3 esquina izq,21,8,38.1,57.1
+16177,M. Romero,MAL,489.6,3 ala izq,25,8,32.0,48.0
+16177,M. Romero,MAL,489.6,3 frente,16,6,37.5,56.2
+16177,M. Romero,MAL,489.6,3 ala der,17,7,41.2,61.8
+16177,M. Romero,MAL,489.6,3 esquina der,11,3,27.3,40.9
+15257,F. Medina,COR,473.6,restringida,33,18,54.5,54.5
+15257,F. Medina,COR,473.6,pintura,37,17,45.9,45.9
+15257,F. Medina,COR,473.6,media,14,5,35.7,35.7
+15257,F. Medina,COR,473.6,3 esquina izq,12,7,58.3,87.5
+15257,F. Medina,COR,473.6,3 ala izq,28,5,17.9,26.8
+15257,F. Medina,COR,473.6,3 frente,12,6,50.0,75.0
+15257,F. Medina,COR,473.6,3 ala der,17,4,23.5,35.3
+15257,F. Medina,COR,473.6,3 esquina der,5,1,20.0,30.0
+258681,M. Rojas,CAP,436.6,restringida,43,27,62.8,62.8
+258681,M. Rojas,CAP,436.6,pintura,44,20,45.5,45.5
+258681,M. Rojas,CAP,436.6,media,1,0,0.0,0.0
+258681,M. Rojas,CAP,436.6,3 ala izq,3,2,66.7,100.0
+258681,M. Rojas,CAP,436.6,3 frente,7,3,42.9,64.3
+258681,M. Rojas,CAP,436.6,3 ala der,2,0,0.0,0.0
+1314581,R. Previatti,WEL,318.1,restringida,36,20,55.6,55.6
+1314581,R. Previatti,WEL,318.1,pintura,22,13,59.1,59.1
+1314581,R. Previatti,WEL,318.1,media,3,1,33.3,33.3
+1314581,R. Previatti,WEL,318.1,3 esquina izq,2,1,50.0,75.0
+1314581,R. Previatti,WEL,318.1,3 ala izq,1,0,0.0,0.0
+1314581,R. Previatti,WEL,318.1,3 frente,9,5,55.6,83.3
+1314581,R. Previatti,WEL,318.1,3 ala der,3,2,66.7,100.0
+1314581,R. Previatti,WEL,318.1,3 esquina der,4,2,50.0,75.0
+16739,G. Barrera,WEL,476.3,restringida,12,6,50.0,50.0
+16739,G. Barrera,WEL,476.3,pintura,17,6,35.3,35.3
+16739,G. Barrera,WEL,476.3,media,9,2,22.2,22.2
+16739,G. Barrera,WEL,476.3,3 esquina izq,8,3,37.5,56.2
+16739,G. Barrera,WEL,476.3,3 ala izq,16,4,25.0,37.5
+16739,G. Barrera,WEL,476.3,3 frente,11,1,9.1,13.6
+16739,G. Barrera,WEL,476.3,3 ala der,15,4,26.7,40.0
+16739,G. Barrera,WEL,476.3,3 esquina der,6,2,33.3,50.0
+725720,T. Metzger,DSC,546.9,restringida,43,32,74.4,74.4
+725720,T. Metzger,DSC,546.9,pintura,36,16,44.4,44.4
+725720,T. Metzger,DSC,546.9,media,13,7,53.8,53.8
+725720,T. Metzger,DSC,546.9,3 esquina izq,21,9,42.9,64.3
+725720,T. Metzger,DSC,546.9,3 ala izq,47,20,42.6,63.8
+725720,T. Metzger,DSC,546.9,3 frente,13,5,38.5,57.7
+725720,T. Metzger,DSC,546.9,3 ala der,32,7,21.9,32.8
+725720,T. Metzger,DSC,546.9,3 esquina der,8,3,37.5,56.2
+1645560,N. Martinez,MAL,560.4,restringida,73,48,65.8,65.8
+1645560,N. Martinez,MAL,560.4,pintura,37,14,37.8,37.8
+1645560,N. Martinez,MAL,560.4,media,6,2,33.3,33.3
+1645560,N. Martinez,MAL,560.4,3 esquina izq,16,5,31.2,46.9
+1645560,N. Martinez,MAL,560.4,3 ala izq,22,10,45.5,68.2
+1645560,N. Martinez,MAL,560.4,3 frente,6,3,50.0,75.0
+1645560,N. Martinez,MAL,560.4,3 ala der,23,7,30.4,45.7
+1645560,N. Martinez,MAL,560.4,3 esquina der,13,3,23.1,34.6
+17669,G. Espindola,CNF,483.9,restringida,52,25,48.1,48.1
+17669,G. Espindola,CNF,483.9,pintura,41,15,36.6,36.6
+17669,G. Espindola,CNF,483.9,media,12,2,16.7,16.7
+17669,G. Espindola,CNF,483.9,3 esquina izq,8,5,62.5,93.8
+17669,G. Espindola,CNF,483.9,3 ala izq,17,4,23.5,35.3
+17669,G. Espindola,CNF,483.9,3 frente,7,1,14.3,21.4
+17669,G. Espindola,CNF,483.9,3 ala der,8,4,50.0,75.0
+17669,G. Espindola,CNF,483.9,3 esquina der,4,1,25.0,37.5
+1975797,A. Ibarguen,CAP,454.8,restringida,83,64,77.1,77.1
+1975797,A. Ibarguen,CAP,454.8,pintura,57,36,63.2,63.2
+1975797,A. Ibarguen,CAP,454.8,media,11,3,27.3,27.3
+1975797,A. Ibarguen,CAP,454.8,3 esquina izq,1,0,0.0,0.0
+1975797,A. Ibarguen,CAP,454.8,3 frente,2,0,0.0,0.0
+2620318,J. O'neal,COR,265.0,restringida,43,33,76.7,76.7
+2620318,J. O'neal,COR,265.0,pintura,23,11,47.8,47.8
+2620318,J. O'neal,COR,265.0,media,10,3,30.0,30.0
+2620318,J. O'neal,COR,265.0,3 esquina izq,6,2,33.3,50.0
+2620318,J. O'neal,COR,265.0,3 ala izq,1,0,0.0,0.0
+2620318,J. O'neal,COR,265.0,3 frente,8,1,12.5,18.8
+2620318,J. O'neal,COR,265.0,3 ala der,3,0,0.0,0.0
+2620318,J. O'neal,COR,265.0,3 esquina der,2,2,100.0,150.0
+17071,F. Bavosi,CAP,284.0,restringida,2,2,100.0,100.0
+17071,F. Bavosi,CAP,284.0,pintura,5,1,20.0,20.0
+17071,F. Bavosi,CAP,284.0,media,7,3,42.9,42.9
+17071,F. Bavosi,CAP,284.0,3 esquina izq,6,1,16.7,25.0
+17071,F. Bavosi,CAP,284.0,3 ala izq,10,3,30.0,45.0
+17071,F. Bavosi,CAP,284.0,3 frente,4,1,25.0,37.5
+17071,F. Bavosi,CAP,284.0,3 ala der,11,3,27.3,40.9
+17071,F. Bavosi,CAP,284.0,3 esquina der,5,2,40.0,60.0
+2534734,J. Cruz,MAL,431.8,restringida,46,30,65.2,65.2
+2534734,J. Cruz,MAL,431.8,pintura,58,26,44.8,44.8
+2534734,J. Cruz,MAL,431.8,media,24,4,16.7,16.7
+2534734,J. Cruz,MAL,431.8,3 esquina izq,6,1,16.7,25.0
+2534734,J. Cruz,MAL,431.8,3 ala izq,29,6,20.7,31.0
+2534734,J. Cruz,MAL,431.8,3 frente,18,5,27.8,41.7
+2534734,J. Cruz,MAL,431.8,3 ala der,23,10,43.5,65.2
+2534734,J. Cruz,MAL,431.8,3 esquina der,10,6,60.0,90.0
+43224,N. Colmenares,DSC,506.8,restringida,95,67,70.5,70.5
+43224,N. Colmenares,DSC,506.8,pintura,40,19,47.5,47.5
+43224,N. Colmenares,DSC,506.8,media,5,2,40.0,40.0
+2394559,D. Zekovic,MAL,566.0,restringida,48,33,68.8,68.8
+2394559,D. Zekovic,MAL,566.0,pintura,56,29,51.8,51.8
+2394559,D. Zekovic,MAL,566.0,media,17,10,58.8,58.8
+2394559,D. Zekovic,MAL,566.0,3 esquina izq,1,1,100.0,150.0
+2394559,D. Zekovic,MAL,566.0,3 ala izq,23,6,26.1,39.1
+2394559,D. Zekovic,MAL,566.0,3 frente,38,13,34.2,51.3
+2394559,D. Zekovic,MAL,566.0,3 ala der,21,6,28.6,42.9
+2394559,D. Zekovic,MAL,566.0,3 esquina der,2,1,50.0,75.0
+16511,S. Moglia,WEL,427.8,restringida,36,29,80.6,80.6
+16511,S. Moglia,WEL,427.8,pintura,16,8,50.0,50.0
+16511,S. Moglia,WEL,427.8,media,3,1,33.3,33.3
+16511,S. Moglia,WEL,427.8,3 esquina izq,8,4,50.0,75.0
+16511,S. Moglia,WEL,427.8,3 ala izq,23,6,26.1,39.1
+16511,S. Moglia,WEL,427.8,3 frente,17,1,5.9,8.8
+16511,S. Moglia,WEL,427.8,3 ala der,31,15,48.4,72.6
+16511,S. Moglia,WEL,427.8,3 esquina der,8,2,25.0,37.5
+2486580,J. Canty,HYM,572.8,restringida,114,76,66.7,66.7
+2486580,J. Canty,HYM,572.8,pintura,77,33,42.9,42.9
+2486580,J. Canty,HYM,572.8,media,9,3,33.3,33.3
+15216,E. Gonzalez,COR,489.1,restringida,40,23,57.5,57.5
+15216,E. Gonzalez,COR,489.1,pintura,20,8,40.0,40.0
+15216,E. Gonzalez,COR,489.1,media,7,1,14.3,14.3
+15216,E. Gonzalez,COR,489.1,3 esquina izq,9,4,44.4,66.7
+15216,E. Gonzalez,COR,489.1,3 ala izq,37,11,29.7,44.6
+15216,E. Gonzalez,COR,489.1,3 frente,9,2,22.2,33.3
+15216,E. Gonzalez,COR,489.1,3 ala der,25,7,28.0,42.0
+15216,E. Gonzalez,COR,489.1,3 esquina der,6,3,50.0,75.0
+62685,S. Massa,UUN,495.4,restringida,27,21,77.8,77.8
+62685,S. Massa,UUN,495.4,pintura,22,10,45.5,45.5
+62685,S. Massa,UUN,495.4,media,12,3,25.0,25.0
+62685,S. Massa,UUN,495.4,3 esquina izq,24,9,37.5,56.2
+62685,S. Massa,UUN,495.4,3 ala izq,33,14,42.4,63.6
+62685,S. Massa,UUN,495.4,3 frente,23,5,21.7,32.6
+62685,S. Massa,UUN,495.4,3 ala der,35,11,31.4,47.1
+62685,S. Massa,UUN,495.4,3 esquina der,17,6,35.3,52.9

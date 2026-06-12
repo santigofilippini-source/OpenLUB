@@ -140,17 +140,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 71,
-    "sharePct": 5.1,
-    "eFG": 54.9,
-    "leagueEFG": 54.3
+    "FGA": 90,
+    "sharePct": 6.4,
+    "eFG": 53.3,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 148,
-    "sharePct": 10.6,
-    "eFG": 54.7,
-    "leagueEFG": 50.1
+    "FGA": 153,
+    "sharePct": 10.9,
+    "eFG": 58.8,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -161,17 +161,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 153,
-    "sharePct": 10.9,
-    "eFG": 58.8,
-    "leagueEFG": 48.4
+    "FGA": 148,
+    "sharePct": 10.6,
+    "eFG": 54.7,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 90,
-    "sharePct": 6.4,
-    "eFG": 53.3,
-    "leagueEFG": 58.3
+    "FGA": 71,
+    "sharePct": 5.1,
+    "eFG": 54.9,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -198,17 +198,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 65,
-    "sharePct": 4.7,
-    "eFG": 41.5,
-    "leagueEFG": 54.3
+    "FGA": 51,
+    "sharePct": 3.7,
+    "eFG": 55.9,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 162,
-    "sharePct": 11.7,
-    "eFG": 43.5,
-    "leagueEFG": 50.1
+    "FGA": 170,
+    "sharePct": 12.3,
+    "eFG": 44.1,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -219,17 +219,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 170,
-    "sharePct": 12.3,
-    "eFG": 44.1,
-    "leagueEFG": 48.4
+    "FGA": 162,
+    "sharePct": 11.7,
+    "eFG": 43.5,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 51,
-    "sharePct": 3.7,
-    "eFG": 55.9,
-    "leagueEFG": 58.3
+    "FGA": 65,
+    "sharePct": 4.7,
+    "eFG": 41.5,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -442,8 +442,8 @@
    "D_FTR": 21.1
   },
   "reading": {
-   "explotar": "3 esquina der: le anotan 69 eFG ahí (liga 58), sobre la media.",
-   "quitar": "3 esquina der: su tiro más eficiente (70 eFG vs liga 58). Cerrar ese sector.",
+   "explotar": "3 esquina izq: le anotan 69 eFG ahí (liga 58), sobre la media.",
+   "quitar": "3 esquina izq: su tiro más eficiente (70 eFG vs liga 58). Cerrar ese sector.",
    "presionar": "J. Feldeine, L. Parodi, A. Mendez: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -568,17 +568,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 57,
-    "sharePct": 3.6,
-    "eFG": 55.3,
-    "leagueEFG": 54.3
+    "FGA": 71,
+    "sharePct": 4.5,
+    "eFG": 69.7,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 170,
-    "sharePct": 10.8,
-    "eFG": 49.4,
-    "leagueEFG": 50.1
+    "FGA": 196,
+    "sharePct": 12.5,
+    "eFG": 52.8,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -589,17 +589,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 196,
-    "sharePct": 12.5,
-    "eFG": 52.8,
-    "leagueEFG": 48.4
+    "FGA": 170,
+    "sharePct": 10.8,
+    "eFG": 49.4,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 71,
-    "sharePct": 4.5,
-    "eFG": 69.7,
-    "leagueEFG": 58.3
+    "FGA": 57,
+    "sharePct": 3.6,
+    "eFG": 55.3,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -626,17 +626,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 64,
-    "sharePct": 4.4,
-    "eFG": 46.9,
-    "leagueEFG": 54.3
+    "FGA": 87,
+    "sharePct": 5.9,
+    "eFG": 69.0,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 197,
-    "sharePct": 13.4,
-    "eFG": 41.9,
-    "leagueEFG": 50.1
+    "FGA": 185,
+    "sharePct": 12.6,
+    "eFG": 46.2,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -647,17 +647,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 185,
-    "sharePct": 12.6,
-    "eFG": 46.2,
-    "leagueEFG": 48.4
+    "FGA": 197,
+    "sharePct": 13.4,
+    "eFG": 41.9,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 87,
-    "sharePct": 5.9,
-    "eFG": 69.0,
-    "leagueEFG": 58.3
+    "FGA": 64,
+    "sharePct": 4.4,
+    "eFG": 46.9,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -879,8 +879,8 @@
    "D_FTR": 17.9
   },
   "reading": {
-   "explotar": "3 ala izq: le anotan 60 eFG ahí (liga 50), sobre la media.",
-   "quitar": "3 esquina izq: su tiro más eficiente (69 eFG vs liga 54). Cerrar ese sector.",
+   "explotar": "3 ala der: le anotan 60 eFG ahí (liga 50), sobre la media.",
+   "quitar": "3 esquina der: su tiro más eficiente (69 eFG vs liga 54). Cerrar ese sector.",
    "presionar": "S. Vidal, J. Santiso, D. Sims: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -1005,17 +1005,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 72,
-    "sharePct": 4.9,
-    "eFG": 68.8,
-    "leagueEFG": 54.3
+    "FGA": 80,
+    "sharePct": 5.4,
+    "eFG": 63.8,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 168,
-    "sharePct": 11.4,
-    "eFG": 52.7,
-    "leagueEFG": 50.1
+    "FGA": 163,
+    "sharePct": 11.1,
+    "eFG": 54.3,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -1026,17 +1026,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 163,
-    "sharePct": 11.1,
-    "eFG": 54.3,
-    "leagueEFG": 48.4
+    "FGA": 168,
+    "sharePct": 11.4,
+    "eFG": 52.7,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 80,
-    "sharePct": 5.4,
-    "eFG": 63.8,
-    "leagueEFG": 58.3
+    "FGA": 72,
+    "sharePct": 4.9,
+    "eFG": 68.8,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -1063,17 +1063,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 55,
-    "sharePct": 3.5,
-    "eFG": 57.3,
-    "leagueEFG": 54.3
+    "FGA": 73,
+    "sharePct": 4.6,
+    "eFG": 59.6,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
     "FGA": 171,
     "sharePct": 10.8,
-    "eFG": 60.5,
-    "leagueEFG": 50.1
+    "eFG": 50.0,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -1086,15 +1086,15 @@
     "zone": "3 ala der",
     "FGA": 171,
     "sharePct": 10.8,
-    "eFG": 50.0,
-    "leagueEFG": 48.4
+    "eFG": 60.5,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 73,
-    "sharePct": 4.6,
-    "eFG": 59.6,
-    "leagueEFG": 58.3
+    "FGA": 55,
+    "sharePct": 3.5,
+    "eFG": 57.3,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -1460,17 +1460,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 85,
-    "sharePct": 5.7,
-    "eFG": 45.9,
-    "leagueEFG": 54.3
+    "FGA": 42,
+    "sharePct": 2.8,
+    "eFG": 57.1,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 159,
-    "sharePct": 10.7,
-    "eFG": 48.1,
-    "leagueEFG": 50.1
+    "FGA": 152,
+    "sharePct": 10.2,
+    "eFG": 50.3,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -1481,17 +1481,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 152,
-    "sharePct": 10.2,
-    "eFG": 50.3,
-    "leagueEFG": 48.4
+    "FGA": 159,
+    "sharePct": 10.7,
+    "eFG": 48.1,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 42,
-    "sharePct": 2.8,
-    "eFG": 57.1,
-    "leagueEFG": 58.3
+    "FGA": 85,
+    "sharePct": 5.7,
+    "eFG": 45.9,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -1518,17 +1518,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 56,
-    "sharePct": 4.1,
-    "eFG": 58.9,
-    "leagueEFG": 54.3
+    "FGA": 65,
+    "sharePct": 4.8,
+    "eFG": 62.3,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 157,
-    "sharePct": 11.5,
-    "eFG": 45.9,
-    "leagueEFG": 50.1
+    "FGA": 165,
+    "sharePct": 12.1,
+    "eFG": 52.7,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -1539,17 +1539,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 165,
-    "sharePct": 12.1,
-    "eFG": 52.7,
-    "leagueEFG": 48.4
+    "FGA": 157,
+    "sharePct": 11.5,
+    "eFG": 45.9,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 65,
-    "sharePct": 4.8,
-    "eFG": 62.3,
-    "leagueEFG": 58.3
+    "FGA": 56,
+    "sharePct": 4.1,
+    "eFG": 58.9,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -1762,7 +1762,7 @@
    "D_FTR": 24.4
   },
   "reading": {
-   "explotar": "3 ala izq: le anotan 59 eFG ahí (liga 50), sobre la media.",
+   "explotar": "3 ala der: le anotan 59 eFG ahí (liga 50), sobre la media.",
    "quitar": "restringida: su tiro más eficiente (72 eFG vs liga 66). Cerrar ese sector.",
    "presionar": "M. Sarni: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
@@ -1888,17 +1888,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 64,
-    "sharePct": 4.1,
-    "eFG": 51.6,
-    "leagueEFG": 54.3
+    "FGA": 81,
+    "sharePct": 5.2,
+    "eFG": 53.7,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 200,
-    "sharePct": 12.8,
-    "eFG": 50.2,
-    "leagueEFG": 50.1
+    "FGA": 192,
+    "sharePct": 12.3,
+    "eFG": 49.2,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -1909,17 +1909,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 192,
-    "sharePct": 12.3,
-    "eFG": 49.2,
-    "leagueEFG": 48.4
+    "FGA": 200,
+    "sharePct": 12.8,
+    "eFG": 50.2,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 81,
-    "sharePct": 5.2,
-    "eFG": 53.7,
-    "leagueEFG": 58.3
+    "FGA": 64,
+    "sharePct": 4.1,
+    "eFG": 51.6,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -1946,17 +1946,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 94,
-    "sharePct": 6.6,
-    "eFG": 52.7,
-    "leagueEFG": 54.3
+    "FGA": 81,
+    "sharePct": 5.7,
+    "eFG": 48.1,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 143,
-    "sharePct": 10.0,
-    "eFG": 58.7,
-    "leagueEFG": 50.1
+    "FGA": 145,
+    "sharePct": 10.1,
+    "eFG": 44.5,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -1967,17 +1967,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 145,
-    "sharePct": 10.1,
-    "eFG": 44.5,
-    "leagueEFG": 48.4
+    "FGA": 143,
+    "sharePct": 10.0,
+    "eFG": 58.7,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 81,
-    "sharePct": 5.7,
-    "eFG": 48.1,
-    "leagueEFG": 58.3
+    "FGA": 94,
+    "sharePct": 6.6,
+    "eFG": 52.7,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -2217,7 +2217,7 @@
    "D_FTR": 16.4
   },
   "reading": {
-   "explotar": "3 esquina izq: le anotan 72 eFG ahí (liga 54), sobre la media.",
+   "explotar": "3 esquina der: le anotan 72 eFG ahí (liga 54), sobre la media.",
    "quitar": "media: su tiro más eficiente (44 eFG vs liga 38). Cerrar ese sector.",
    "presionar": "S. Fernandez, M. Romero, J. Webster: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
@@ -2343,17 +2343,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 59,
-    "sharePct": 4.0,
-    "eFG": 50.8,
-    "leagueEFG": 54.3
+    "FGA": 70,
+    "sharePct": 4.8,
+    "eFG": 49.3,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 182,
+    "FGA": 183,
     "sharePct": 12.4,
-    "eFG": 49.5,
-    "leagueEFG": 50.1
+    "eFG": 51.6,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -2364,17 +2364,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 183,
+    "FGA": 182,
     "sharePct": 12.4,
-    "eFG": 51.6,
-    "leagueEFG": 48.4
+    "eFG": 49.5,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 70,
-    "sharePct": 4.8,
-    "eFG": 49.3,
-    "leagueEFG": 58.3
+    "FGA": 59,
+    "sharePct": 4.0,
+    "eFG": 50.8,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -2401,17 +2401,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 69,
-    "sharePct": 4.6,
-    "eFG": 71.7,
-    "leagueEFG": 54.3
+    "FGA": 95,
+    "sharePct": 6.4,
+    "eFG": 52.1,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 166,
-    "sharePct": 11.1,
-    "eFG": 52.4,
-    "leagueEFG": 50.1
+    "FGA": 186,
+    "sharePct": 12.5,
+    "eFG": 43.5,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -2422,17 +2422,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 186,
-    "sharePct": 12.5,
-    "eFG": 43.5,
-    "leagueEFG": 48.4
+    "FGA": 166,
+    "sharePct": 11.1,
+    "eFG": 52.4,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 95,
-    "sharePct": 6.4,
-    "eFG": 52.1,
-    "leagueEFG": 58.3
+    "FGA": 69,
+    "sharePct": 4.6,
+    "eFG": 71.7,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -2655,7 +2655,7 @@
   },
   "reading": {
    "explotar": "3 frente: le anotan 57 eFG ahí (liga 48), sobre la media.",
-   "quitar": "3 esquina der: su tiro más eficiente (74 eFG vs liga 58). Cerrar ese sector.",
+   "quitar": "3 esquina izq: su tiro más eficiente (74 eFG vs liga 58). Cerrar ese sector.",
    "presionar": "F. Terra: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -2780,17 +2780,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 57,
-    "sharePct": 3.9,
-    "eFG": 63.2,
-    "leagueEFG": 54.3
+    "FGA": 63,
+    "sharePct": 4.3,
+    "eFG": 73.8,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 182,
-    "sharePct": 12.3,
-    "eFG": 42.0,
-    "leagueEFG": 50.1
+    "FGA": 174,
+    "sharePct": 11.8,
+    "eFG": 50.9,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -2801,17 +2801,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 174,
-    "sharePct": 11.8,
-    "eFG": 50.9,
-    "leagueEFG": 48.4
+    "FGA": 182,
+    "sharePct": 12.3,
+    "eFG": 42.0,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 63,
-    "sharePct": 4.3,
-    "eFG": 73.8,
-    "leagueEFG": 58.3
+    "FGA": 57,
+    "sharePct": 3.9,
+    "eFG": 63.2,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -2838,17 +2838,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 51,
-    "sharePct": 3.4,
-    "eFG": 55.9,
-    "leagueEFG": 54.3
+    "FGA": 78,
+    "sharePct": 5.2,
+    "eFG": 57.7,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 189,
-    "sharePct": 12.7,
-    "eFG": 50.0,
-    "leagueEFG": 50.1
+    "FGA": 191,
+    "sharePct": 12.8,
+    "eFG": 54.2,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -2859,17 +2859,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 191,
-    "sharePct": 12.8,
-    "eFG": 54.2,
-    "leagueEFG": 48.4
+    "FGA": 189,
+    "sharePct": 12.7,
+    "eFG": 50.0,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 78,
-    "sharePct": 5.2,
-    "eFG": 57.7,
-    "leagueEFG": 58.3
+    "FGA": 51,
+    "sharePct": 3.4,
+    "eFG": 55.9,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -3128,7 +3128,7 @@
   },
   "reading": {
    "explotar": "media: le anotan 45 eFG ahí (liga 38), sobre la media.",
-   "quitar": "3 esquina der: su tiro más eficiente (67 eFG vs liga 58). Cerrar ese sector.",
+   "quitar": "3 esquina izq: su tiro más eficiente (67 eFG vs liga 58). Cerrar ese sector.",
    "presionar": "C. Alaekwe, I. Ross: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -3253,17 +3253,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 88,
-    "sharePct": 5.9,
-    "eFG": 46.0,
-    "leagueEFG": 54.3
+    "FGA": 99,
+    "sharePct": 6.7,
+    "eFG": 66.7,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 178,
-    "sharePct": 12.0,
-    "eFG": 40.4,
-    "leagueEFG": 50.1
+    "FGA": 161,
+    "sharePct": 10.9,
+    "eFG": 35.4,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -3274,17 +3274,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 161,
-    "sharePct": 10.9,
-    "eFG": 35.4,
-    "leagueEFG": 48.4
+    "FGA": 178,
+    "sharePct": 12.0,
+    "eFG": 40.4,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 99,
-    "sharePct": 6.7,
-    "eFG": 66.7,
-    "leagueEFG": 58.3
+    "FGA": 88,
+    "sharePct": 5.9,
+    "eFG": 46.0,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -3311,17 +3311,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 62,
-    "sharePct": 4.2,
-    "eFG": 50.8,
-    "leagueEFG": 54.3
+    "FGA": 40,
+    "sharePct": 2.7,
+    "eFG": 37.5,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 184,
-    "sharePct": 12.4,
-    "eFG": 52.2,
-    "leagueEFG": 50.1
+    "FGA": 200,
+    "sharePct": 13.4,
+    "eFG": 42.0,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -3332,17 +3332,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 200,
-    "sharePct": 13.4,
-    "eFG": 42.0,
-    "leagueEFG": 48.4
+    "FGA": 184,
+    "sharePct": 12.4,
+    "eFG": 52.2,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 40,
-    "sharePct": 2.7,
-    "eFG": 37.5,
-    "leagueEFG": 58.3
+    "FGA": 62,
+    "sharePct": 4.2,
+    "eFG": 50.8,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -3556,7 +3556,7 @@
   },
   "reading": {
    "explotar": "3 frente: le anotan 56 eFG ahí (liga 48), sobre la media.",
-   "quitar": "3 esquina izq: su tiro más eficiente (72 eFG vs liga 54). Cerrar ese sector.",
+   "quitar": "3 esquina der: su tiro más eficiente (72 eFG vs liga 54). Cerrar ese sector.",
    "presionar": "J. Matos, D. Hicks, M. Espinosa, T. Rodriguez: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -3681,17 +3681,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 58,
-    "sharePct": 3.8,
-    "eFG": 72.4,
-    "leagueEFG": 54.3
+    "FGA": 62,
+    "sharePct": 4.0,
+    "eFG": 53.2,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 185,
-    "sharePct": 12.0,
-    "eFG": 55.1,
-    "leagueEFG": 50.1
+    "FGA": 199,
+    "sharePct": 12.9,
+    "eFG": 51.3,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -3702,17 +3702,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 199,
-    "sharePct": 12.9,
-    "eFG": 51.3,
-    "leagueEFG": 48.4
+    "FGA": 185,
+    "sharePct": 12.0,
+    "eFG": 55.1,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 62,
-    "sharePct": 4.0,
-    "eFG": 53.2,
-    "leagueEFG": 58.3
+    "FGA": 58,
+    "sharePct": 3.8,
+    "eFG": 72.4,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -3739,17 +3739,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 74,
-    "sharePct": 4.7,
-    "eFG": 42.6,
-    "leagueEFG": 54.3
+    "FGA": 63,
+    "sharePct": 4.0,
+    "eFG": 57.1,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 184,
-    "sharePct": 11.6,
-    "eFG": 43.2,
-    "leagueEFG": 50.1
+    "FGA": 190,
+    "sharePct": 12.0,
+    "eFG": 54.5,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -3760,17 +3760,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 190,
-    "sharePct": 12.0,
-    "eFG": 54.5,
-    "leagueEFG": 48.4
+    "FGA": 184,
+    "sharePct": 11.6,
+    "eFG": 43.2,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 63,
-    "sharePct": 4.0,
-    "eFG": 57.1,
-    "leagueEFG": 58.3
+    "FGA": 74,
+    "sharePct": 4.7,
+    "eFG": 42.6,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -3992,8 +3992,8 @@
    "D_FTR": 19.7
   },
   "reading": {
-   "explotar": "3 esquina izq: le anotan 74 eFG ahí (liga 54), sobre la media.",
-   "quitar": "3 ala izq: su tiro más eficiente (61 eFG vs liga 50). Cerrar ese sector.",
+   "explotar": "3 esquina der: le anotan 74 eFG ahí (liga 54), sobre la media.",
+   "quitar": "3 ala der: su tiro más eficiente (61 eFG vs liga 50). Cerrar ese sector.",
    "presionar": "E. Bonet, T. Cracknell, A. Acosta: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -4118,17 +4118,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 84,
-    "sharePct": 5.5,
-    "eFG": 53.6,
-    "leagueEFG": 54.3
+    "FGA": 77,
+    "sharePct": 5.0,
+    "eFG": 46.8,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 206,
-    "sharePct": 13.4,
-    "eFG": 61.2,
-    "leagueEFG": 50.1
+    "FGA": 193,
+    "sharePct": 12.6,
+    "eFG": 49.0,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -4139,17 +4139,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 193,
-    "sharePct": 12.6,
-    "eFG": 49.0,
-    "leagueEFG": 48.4
+    "FGA": 206,
+    "sharePct": 13.4,
+    "eFG": 61.2,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 77,
-    "sharePct": 5.0,
-    "eFG": 46.8,
-    "leagueEFG": 58.3
+    "FGA": 84,
+    "sharePct": 5.5,
+    "eFG": 53.6,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -4176,17 +4176,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 57,
-    "sharePct": 3.8,
-    "eFG": 73.7,
-    "leagueEFG": 54.3
+    "FGA": 74,
+    "sharePct": 4.9,
+    "eFG": 66.9,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 157,
-    "sharePct": 10.3,
-    "eFG": 57.3,
-    "leagueEFG": 50.1
+    "FGA": 180,
+    "sharePct": 11.9,
+    "eFG": 43.3,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -4197,17 +4197,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 180,
-    "sharePct": 11.9,
-    "eFG": 43.3,
-    "leagueEFG": 48.4
+    "FGA": 157,
+    "sharePct": 10.3,
+    "eFG": 57.3,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 74,
-    "sharePct": 4.9,
-    "eFG": 66.9,
-    "leagueEFG": 58.3
+    "FGA": 57,
+    "sharePct": 3.8,
+    "eFG": 73.7,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -4605,17 +4605,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 61,
-    "sharePct": 4.2,
-    "eFG": 49.2,
-    "leagueEFG": 54.3
+    "FGA": 64,
+    "sharePct": 4.4,
+    "eFG": 42.2,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 156,
-    "sharePct": 10.6,
-    "eFG": 55.8,
-    "leagueEFG": 50.1
+    "FGA": 204,
+    "sharePct": 13.9,
+    "eFG": 43.4,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -4626,17 +4626,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 204,
-    "sharePct": 13.9,
-    "eFG": 43.4,
-    "leagueEFG": 48.4
+    "FGA": 156,
+    "sharePct": 10.6,
+    "eFG": 55.8,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 64,
-    "sharePct": 4.4,
-    "eFG": 42.2,
-    "leagueEFG": 58.3
+    "FGA": 61,
+    "sharePct": 4.2,
+    "eFG": 49.2,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -4663,17 +4663,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 78,
-    "sharePct": 4.9,
-    "eFG": 57.7,
-    "leagueEFG": 54.3
+    "FGA": 89,
+    "sharePct": 5.6,
+    "eFG": 52.2,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 189,
-    "sharePct": 11.8,
-    "eFG": 49.2,
-    "leagueEFG": 50.1
+    "FGA": 187,
+    "sharePct": 11.7,
+    "eFG": 52.1,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -4684,17 +4684,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 187,
-    "sharePct": 11.7,
-    "eFG": 52.1,
-    "leagueEFG": 48.4
+    "FGA": 189,
+    "sharePct": 11.8,
+    "eFG": 49.2,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 89,
-    "sharePct": 5.6,
-    "eFG": 52.2,
-    "leagueEFG": 58.3
+    "FGA": 78,
+    "sharePct": 4.9,
+    "eFG": 57.7,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {
@@ -4988,8 +4988,8 @@
    "D_FTR": 22.6
   },
   "reading": {
-   "explotar": "3 esquina der: le anotan 74 eFG ahí (liga 58), sobre la media.",
-   "quitar": "3 esquina der: su tiro más eficiente (68 eFG vs liga 58). Cerrar ese sector.",
+   "explotar": "3 esquina izq: le anotan 74 eFG ahí (liga 58), sobre la media.",
+   "quitar": "3 esquina izq: su tiro más eficiente (68 eFG vs liga 58). Cerrar ese sector.",
    "presionar": "F. Medina, A. Gilder Jr., P. Rusch: generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador."
   },
   "generators": [
@@ -5114,17 +5114,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 50,
-    "sharePct": 3.3,
-    "eFG": 45.0,
-    "leagueEFG": 54.3
+    "FGA": 68,
+    "sharePct": 4.6,
+    "eFG": 68.4,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 152,
-    "sharePct": 10.2,
-    "eFG": 40.5,
-    "leagueEFG": 50.1
+    "FGA": 184,
+    "sharePct": 12.3,
+    "eFG": 35.1,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -5135,17 +5135,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 184,
-    "sharePct": 12.3,
-    "eFG": 35.1,
-    "leagueEFG": 48.4
+    "FGA": 152,
+    "sharePct": 10.2,
+    "eFG": 40.5,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 68,
-    "sharePct": 4.6,
-    "eFG": 68.4,
-    "leagueEFG": 58.3
+    "FGA": 50,
+    "sharePct": 3.3,
+    "eFG": 45.0,
+    "leagueEFG": 54.3
    }
   ],
   "zonesDef": [
@@ -5172,17 +5172,17 @@
    },
    {
     "zone": "3 esquina izq",
-    "FGA": 81,
-    "sharePct": 5.2,
-    "eFG": 48.1,
-    "leagueEFG": 54.3
+    "FGA": 71,
+    "sharePct": 4.5,
+    "eFG": 73.9,
+    "leagueEFG": 58.3
    },
    {
     "zone": "3 ala izq",
-    "FGA": 187,
-    "sharePct": 12.0,
-    "eFG": 49.7,
-    "leagueEFG": 50.1
+    "FGA": 184,
+    "sharePct": 11.8,
+    "eFG": 53.0,
+    "leagueEFG": 48.4
    },
    {
     "zone": "3 frente",
@@ -5193,17 +5193,17 @@
    },
    {
     "zone": "3 ala der",
-    "FGA": 184,
-    "sharePct": 11.8,
-    "eFG": 53.0,
-    "leagueEFG": 48.4
+    "FGA": 187,
+    "sharePct": 12.0,
+    "eFG": 49.7,
+    "leagueEFG": 50.1
    },
    {
     "zone": "3 esquina der",
-    "FGA": 71,
-    "sharePct": 4.5,
-    "eFG": 73.9,
-    "leagueEFG": 58.3
+    "FGA": 81,
+    "sharePct": 5.2,
+    "eFG": 48.1,
+    "leagueEFG": 54.3
    }
   ],
   "leaders": {

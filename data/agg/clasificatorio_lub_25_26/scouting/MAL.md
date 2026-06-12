@@ -4,7 +4,7 @@
 
 > ### 🎯 Plan en 30 segundos
 >
-> - **QUÉ EXPLOTARLES:** **3 esquina izq** — le anotan 72 eFG ahí (liga 54), sobre la media.
+> - **QUÉ EXPLOTARLES:** **3 esquina der** — le anotan 72 eFG ahí (liga 54), sobre la media.
 > - **QUÉ QUITARLES:** **media** — es su tiro más eficiente (44 eFG vs liga 39). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **S. Fernandez, M. Romero, J. Webster** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
@@ -17,11 +17,11 @@
 | restringida | 28.4 | 64.2 | 66.1 |  |
 | pintura | 19.1 | 40.4 | 44.6 |  |
 | media | 9.4 | 44.2 | 38.5 |  |
-| 3 esquina izq | 4.0 | 50.8 | 54.3 |  |
-| 3 ala izq | 12.4 | 49.5 | 50.1 |  |
+| 3 esquina izq | 4.8 | 49.3 | 58.3 | 🔵 |
+| 3 ala izq | 12.4 | 51.6 | 48.4 |  |
 | 3 frente | 9.5 | 43.9 | 48.1 |  |
-| 3 ala der | 12.4 | 51.6 | 48.4 |  |
-| 3 esquina der | 4.8 | 49.3 | 58.3 | 🔵 |
+| 3 ala der | 12.4 | 49.5 | 50.1 |  |
+| 3 esquina der | 4.0 | 50.8 | 54.3 |  |
 
 → Mayor ventaja ofensiva: **media** (eFG 44.2 vs liga 38.5).
 
@@ -33,14 +33,14 @@
 | restringida | 27.5 | 64.4 | 66.1 |  |
 | pintura | 18.6 | 40.6 | 44.6 |  |
 | media | 10.4 | 38.7 | 38.5 |  |
-| 3 esquina izq | 4.6 | 71.7 | 54.3 | 🔴 |
-| 3 ala izq | 11.1 | 52.4 | 50.1 |  |
+| 3 esquina izq | 6.4 | 52.1 | 58.3 | 🔵 |
+| 3 ala izq | 12.5 | 43.5 | 48.4 |  |
 | 3 frente | 8.9 | 47.4 | 48.1 |  |
-| 3 ala der | 12.5 | 43.5 | 48.4 |  |
-| 3 esquina der | 6.4 | 52.1 | 58.3 | 🔵 |
+| 3 ala der | 11.1 | 52.4 | 50.1 |  |
+| 3 esquina der | 4.6 | 71.7 | 54.3 | 🔴 |
 
-→ Fortaleza defensiva: **3 esquina der** (52.1 vs liga 58.3).
- A explotar: **3 esquina izq** (71.7 vs 54.3, sobre la media).
+→ Fortaleza defensiva: **3 esquina izq** (52.1 vs liga 58.3).
+ A explotar: **3 esquina der** (71.7 vs 54.3, sobre la media).
 
 
 ## (b) Generadores (PTS × USG% × AST%)

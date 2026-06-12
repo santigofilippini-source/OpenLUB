@@ -17,11 +17,11 @@
 | restringida | 31.5 | 60.5 | 66.1 |  |
 | pintura | 15.4 | 43.9 | 44.6 |  |
 | media | 15.6 | 43.5 | 38.5 |  |
-| 3 esquina izq | 5.7 | 45.9 | 54.3 | 🔵 |
-| 3 ala izq | 10.7 | 48.1 | 50.1 |  |
+| 3 esquina izq | 2.8 | 57.1 | 58.3 |  |
+| 3 ala izq | 10.2 | 50.3 | 48.4 |  |
 | 3 frente | 8.0 | 50.4 | 48.1 |  |
-| 3 ala der | 10.2 | 50.3 | 48.4 |  |
-| 3 esquina der | 2.8 | 57.1 | 58.3 |  |
+| 3 ala der | 10.7 | 48.1 | 50.1 |  |
+| 3 esquina der | 5.7 | 45.9 | 54.3 | 🔵 |
 
 → Mayor ventaja ofensiva: **media** (eFG 43.5 vs liga 38.5).
 
@@ -33,11 +33,11 @@
 | restringida | 33.5 | 58.9 | 66.1 | 🔵 |
 | pintura | 16.7 | 37.3 | 44.6 | 🔵 |
 | media | 9.1 | 39.5 | 38.5 |  |
-| 3 esquina izq | 4.1 | 58.9 | 54.3 |  |
-| 3 ala izq | 11.5 | 45.9 | 50.1 |  |
+| 3 esquina izq | 4.8 | 62.3 | 58.3 |  |
+| 3 ala izq | 12.1 | 52.7 | 48.4 |  |
 | 3 frente | 8.3 | 57.1 | 48.1 | 🔴 |
-| 3 ala der | 12.1 | 52.7 | 48.4 |  |
-| 3 esquina der | 4.8 | 62.3 | 58.3 |  |
+| 3 ala der | 11.5 | 45.9 | 50.1 |  |
+| 3 esquina der | 4.1 | 58.9 | 54.3 |  |
 
 → Fortaleza defensiva: **pintura** (37.3 vs liga 44.6).
  A explotar: **3 frente** (57.1 vs 48.1, sobre la media).

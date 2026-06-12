@@ -4,8 +4,8 @@
 
 > ### 🎯 Plan en 30 segundos
 >
-> - **QUÉ EXPLOTARLES:** **3 esquina der** — le anotan 74 eFG ahí (liga 58), sobre la media.
-> - **QUÉ QUITARLES:** **3 esquina der** — es su tiro más eficiente (68 eFG vs liga 58). Cerrar ese sector.
+> - **QUÉ EXPLOTARLES:** **3 esquina izq** — le anotan 74 eFG ahí (liga 58), sobre la media.
+> - **QUÉ QUITARLES:** **3 esquina izq** — es su tiro más eficiente (68 eFG vs liga 58). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **F. Medina, A. Gilder Jr., P. Rusch** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
 ## (a) Perfil de zona
@@ -17,13 +17,13 @@
 | restringida | 29.9 | 62.3 | 66.1 |  |
 | pintura | 21.7 | 46.0 | 44.6 |  |
 | media | 10.9 | 38.0 | 38.5 |  |
-| 3 esquina izq | 3.3 | 45.0 | 54.3 | 🔵 |
-| 3 ala izq | 10.2 | 40.5 | 50.1 | 🔵 |
+| 3 esquina izq | 4.6 | 68.4 | 58.3 | 🔴 |
+| 3 ala izq | 12.3 | 35.1 | 48.4 | 🔵 |
 | 3 frente | 7.2 | 53.3 | 48.1 |  |
-| 3 ala der | 12.3 | 35.1 | 48.4 | 🔵 |
-| 3 esquina der | 4.6 | 68.4 | 58.3 | 🔴 |
+| 3 ala der | 10.2 | 40.5 | 50.1 | 🔵 |
+| 3 esquina der | 3.3 | 45.0 | 54.3 | 🔵 |
 
-→ Mayor ventaja ofensiva: **3 esquina der** (eFG 68.4 vs liga 58.3).
+→ Mayor ventaja ofensiva: **3 esquina izq** (eFG 68.4 vs liga 58.3).
 
 
 **DEFENSA** (lo que le tiran los rivales; 🔵 lo defiende por debajo de la media):
@@ -33,14 +33,14 @@
 | restringida | 28.8 | 71.4 | 66.1 |  |
 | pintura | 21.0 | 47.4 | 44.6 |  |
 | media | 8.8 | 43.5 | 38.5 |  |
-| 3 esquina izq | 5.2 | 48.1 | 54.3 | 🔵 |
-| 3 ala izq | 12.0 | 49.7 | 50.1 |  |
+| 3 esquina izq | 4.5 | 73.9 | 58.3 | 🔴 |
+| 3 ala izq | 11.8 | 53.0 | 48.4 |  |
 | 3 frente | 7.9 | 45.1 | 48.1 |  |
-| 3 ala der | 11.8 | 53.0 | 48.4 |  |
-| 3 esquina der | 4.5 | 73.9 | 58.3 | 🔴 |
+| 3 ala der | 12.0 | 49.7 | 50.1 |  |
+| 3 esquina der | 5.2 | 48.1 | 54.3 | 🔵 |
 
-→ Fortaleza defensiva: **3 esquina izq** (48.1 vs liga 54.3).
- A explotar: **3 esquina der** (73.9 vs 58.3, sobre la media).
+→ Fortaleza defensiva: **3 esquina der** (48.1 vs liga 54.3).
+ A explotar: **3 esquina izq** (73.9 vs 58.3, sobre la media).
 
 
 ## (b) Generadores (PTS × USG% × AST%)

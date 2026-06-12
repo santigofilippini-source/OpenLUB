@@ -5,7 +5,7 @@
 > ### 🎯 Plan en 30 segundos
 >
 > - **QUÉ EXPLOTARLES:** **3 frente** — le anotan 56 eFG ahí (liga 48), sobre la media.
-> - **QUÉ QUITARLES:** **3 esquina izq** — es su tiro más eficiente (72 eFG vs liga 54). Cerrar ese sector.
+> - **QUÉ QUITARLES:** **3 esquina der** — es su tiro más eficiente (72 eFG vs liga 54). Cerrar ese sector.
 > - **A QUIÉN PRESIONAR:** **J. Matos, D. Hicks, M. Espinosa, T. Rodriguez** — generan el juego (AST% top liga). Presionar la FUENTE, no al finalizador.
 
 ## (a) Perfil de zona
@@ -17,13 +17,13 @@
 | restringida | 23.6 | 62.7 | 66.1 |  |
 | pintura | 27.7 | 49.1 | 44.6 |  |
 | media | 7.8 | 38.3 | 38.5 |  |
-| 3 esquina izq | 3.8 | 72.4 | 54.3 | 🔴 |
-| 3 ala izq | 12.0 | 55.1 | 50.1 |  |
+| 3 esquina izq | 4.0 | 53.2 | 58.3 |  |
+| 3 ala izq | 12.9 | 51.3 | 48.4 |  |
 | 3 frente | 8.3 | 48.8 | 48.1 |  |
-| 3 ala der | 12.9 | 51.3 | 48.4 |  |
-| 3 esquina der | 4.0 | 53.2 | 58.3 |  |
+| 3 ala der | 12.0 | 55.1 | 50.1 |  |
+| 3 esquina der | 3.8 | 72.4 | 54.3 | 🔴 |
 
-→ Mayor ventaja ofensiva: **3 esquina izq** (eFG 72.4 vs liga 54.3).
+→ Mayor ventaja ofensiva: **3 esquina der** (eFG 72.4 vs liga 54.3).
 
 
 **DEFENSA** (lo que le tiran los rivales; 🔵 lo defiende por debajo de la media):
@@ -33,13 +33,13 @@
 | restringida | 26.3 | 62.7 | 66.1 |  |
 | pintura | 22.1 | 50.7 | 44.6 | 🔴 |
 | media | 10.8 | 42.1 | 38.5 |  |
-| 3 esquina izq | 4.7 | 42.6 | 54.3 | 🔵 |
-| 3 ala izq | 11.6 | 43.2 | 50.1 | 🔵 |
+| 3 esquina izq | 4.0 | 57.1 | 58.3 |  |
+| 3 ala izq | 12.0 | 54.5 | 48.4 | 🔴 |
 | 3 frente | 8.5 | 55.6 | 48.1 | 🔴 |
-| 3 ala der | 12.0 | 54.5 | 48.4 | 🔴 |
-| 3 esquina der | 4.0 | 57.1 | 58.3 |  |
+| 3 ala der | 11.6 | 43.2 | 50.1 | 🔵 |
+| 3 esquina der | 4.7 | 42.6 | 54.3 | 🔵 |
 
-→ Fortaleza defensiva: **3 esquina izq** (42.6 vs liga 54.3).
+→ Fortaleza defensiva: **3 esquina der** (42.6 vs liga 54.3).
  A explotar: **3 frente** (55.6 vs 48.1, sobre la media).
 
 

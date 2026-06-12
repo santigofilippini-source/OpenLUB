@@ -188,9 +188,11 @@ def read_sched(name):
 
 
 def main():
-    # GATE: el golden test de Moller debe pasar antes de exportar coords de tiro.
+    # GATE: golden test de Moller (vertical) + lateralidad (izq/der) antes de exportar coords/zonas.
     if not chart12.golden_test():
         raise SystemExit("ABORTADO: golden test FALLA, orientación de tiro no confiable.")
+    if not zones.lateral_golden_test():
+        raise SystemExit("ABORTADO: golden test de lateralidad FALLA, izq/der no confiable.")
 
     WEB_DATA.mkdir(parents=True, exist_ok=True)
 
@@ -201,9 +203,9 @@ def main():
     idmap = {(r["matchId"], r["team"], r["name"]): r["personId"] for r in read("player_id_map.csv")}
     pshots = collect_player_shots(idmap)
 
-    zones = {}
+    pzones = {}
     for r in read("player_shotzones.csv"):
-        zones.setdefault(r["personId"], []).append({
+        pzones.setdefault(r["personId"], []).append({
             "zone": r["zone"], "FGA": int(r["FGA"]), "FGM": int(r["FGM"]),
             "FGpct": float(r["FGpct"]), "eFG": float(r["eFG"]),
         })
@@ -238,7 +240,7 @@ def main():
                 "STL": int(t["STL"]), "BLK": int(t["BLK"]), "TOV": int(t["TOV"]),
             },
             "percentiles": perc_block(pid),
-            "zones": zones.get(pid, []),
+            "zones": pzones.get(pid, []),
             "onoff": ({
                 "on_off": num(o["on_off"]), "Net_on": num(o["Net_on"]), "Net_off": num(o["Net_off"]),
                 "ORtg_on": num(o["ORtg_on"]), "DRtg_on": num(o["DRtg_on"]),
